@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,t-sports
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/p0I5dr0.png",Channel I HD
@@ -45,10 +47,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/h5FhOWT.png",Ananda TV
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
+#EXTINF:-1,sangeetbangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png",Colors Bangla
 http://208.86.19.13:81/904.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/e5Ldh7e.png",Zee Bangla HD
 http://stream.serverbd247.com/hls/serverbd247.com-zeebangla.m3u8
+#EXTINF:-1,zeebang
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1,starjalsha
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha HD
 http://stream.serverbd247.com/hls/serverbd247.com_starjalsha.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath
