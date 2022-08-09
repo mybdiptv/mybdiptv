@@ -3,48 +3,49 @@
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1,T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla
+#EXTINF:-1,ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/p0I5dr0.png",Channel I HD
+#EXTINF:-1,Channel I HD
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kFqOMtx.png",Ekusey TV
+#EXTINF:-1,Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/800px-Rtv_bangladesh.svg.png",Rtv
+#EXTINF:-1,Rtv
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/pTJSGtj.png",Boishakhi TV
+#EXTINF:-1,Boishakhi TV
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",Banglavision HD
+#EXTINF:-1,Banglavision HD
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/bahWhBG.png",My TV BD
+#EXTINF:-1,My TV BD
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/4imblNY.jpg",Mohona TV HD
+#EXTINF:-1,Mohona TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kDmkexe.png",Bijoy TV
+#EXTINF:-1,Bijoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/06/satv-resized.png" group-title="Bangla", SA TV
+#EXTINF:-1, SA TV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jBdlQnA.png" group-title="Bangla", CHANNEL S HD
+#EXTINF:-1, CHANNEL S HD
 https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
+#EXTINF:-1,Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://127.0.0.1/",Boishakhi Plus
+#EXTINF:-1,Boishakhi Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://127.0.0.1/",ATN Islamic TV
+#EXTINF:-1,ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgur.com/VgY9OSa.png",CCN BANGLA
+#EXTINF:-1,CCN BANGLA
 https://live.tvdhaka.com:30443/cnnbangla/01.m3u8/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Shomoy TV
+#EXTINF:-1,Shomoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png",Independent TV
+#EXTINF:-1,Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",Maasranga HD
+#EXTINF:-1,Maasranga HD
 http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/fj8nxOw.png",Channel 9 HD
+#EXTINF:-1,Channel 9 HD
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/MmhxR5E.png",Channel 24 HD
+#EXTINF:-1,Channel 24 HD
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/fxq0pV2.png",Asian TV
+#EXTINF:-1,Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Jo7wzmn.png",Gaan Bangla
+#EXTINF:-1,Gaan Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/ds3aThu.jpg",Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
