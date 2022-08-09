@@ -21,6 +21,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kDmkexe.png",Bijoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/06/satv-resized.png" group-title="Bangla", SA TV
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jBdlQnA.png" group-title="Bangla", CHANNEL S HD
+https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://127.0.0.1/",Boishakhi Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
@@ -88,6 +92,8 @@ https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png",Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HG69Dgb.png" group-title="Bangla", Bangla Talkies
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-1 group-title="NBN Live" tvg-logo="https://imgur.com/OTzS5Fc.png",ATN MUSIC [8]
 https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1,colorsbangla
