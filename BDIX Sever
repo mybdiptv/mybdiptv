@@ -49,14 +49,20 @@ http://dangguli.live:8080/SATV/tracks-v1a1/mono.m3u8
 http://dangguli.live:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,StarJalshaHD
 http://dangguli.live:8080/StarJalshaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,starjalsha
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 ,ColorsBanglaHD
 http://dangguli.live:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZeeBangla
 http://dangguli.live:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZeeBanglaHD
 http://dangguli.live:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,zeebang
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 ,ZeeBanglaCinema
 http://dangguli.live:8080/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SonyAath
+http://dangguli.live:8080/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TenSports
 http://dangguli.live:8080/TenSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Colors
@@ -83,8 +89,6 @@ http://dangguli.live:8080/MTV/tracks-v1a1/mono.m3u8
 http://dangguli.live:8080/BBCEarthHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SonyTVHD
 http://dangguli.live:8080/SonyTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SonyAath
-http://dangguli.live:8080/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SonyWah
 http://dangguli.live:8080/SonyWah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SonyMaxHD
@@ -103,6 +107,8 @@ http://dangguli.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 http://dangguli.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,StarSports1HD
 http://dangguli.live:8080/StarSports1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,StarSports1HD
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 ,StarSports2HD
 http://dangguli.live:8080/StarSports2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,StarSportsSelect1
@@ -799,8 +805,3 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",TCT Kids
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-
-#EXTINF:-1,starjalsha
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1,zeebang
-http://103.109.56.116/live/skyfeed1004/index.m3u8
