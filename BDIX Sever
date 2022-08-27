@@ -63,6 +63,8 @@ http://dangguli.live:8080/TSports/tracks-v1a1/mono.m3u8
 http://dangguli.live:8080/StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,starjalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1,starjalsha
+https://live.bdtv.xyz:2096/token/starjalsha/playlist.m3u8
 #EXTINF:-1 ,ColorsBanglaHD
 http://dangguli.live:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZeeBangla
@@ -71,6 +73,10 @@ http://dangguli.live:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 http://dangguli.live:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,zeebang
 http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1,zeebang
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8
+#EXTINF:-1,Dhoom Music
+https://s1.bdtv.xyz:2096/token/dhoom/playlist.m3u8
 #EXTINF:-1 ,ZeeBanglaCinema
 http://dangguli.live:8080/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SonyAath
