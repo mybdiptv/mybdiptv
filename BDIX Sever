@@ -3,48 +3,56 @@
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1,T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
-#EXTINF:-1 ,ATNBangla
-http://dangguli.live:8080/ATNBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ATNBangla
-http://dangguli.live:8080/ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ATNMusic
-http://dangguli.live:8080/ATNMusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ATNIslamic
+#EXTINF:-1,T Sports
+http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
+#EXTINF:-1 ,Nagorik Tv
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/p0I5dr0.png",Channel I HD
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kFqOMtx.png",Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,BoishakhiTV
-http://dangguli.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BanglaVision
-http://dangguli.live:8080/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel24
-http://dangguli.live:8080/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ChannelI
-http://dangguli.live:8080/ChannelI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,DBCNews
-http://dangguli.live:8080/DBCNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,EkattorTV
-http://dangguli.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,EkusheyTv
-http://dangguli.live:8080/EkusheyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,IndependentTV
-http://dangguli.live:8080/IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,NagorikTV
-http://dangguli.live:8080/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MohonaTV
-http://dangguli.live:8080/MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MyTV
-http://dangguli.live:8080/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,News24
-http://dangguli.live:8080/News24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,NTV
-http://dangguli.live:8080/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,RTV
-http://dangguli.live:8080/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SomoyTv
-http://dangguli.live:8080/SomoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,GaanBangla
-http://dangguli.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SATV
-http://dangguli.live:8080/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/800px-Rtv_bangladesh.svg.png",Rtv
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/pTJSGtj.png",Boishakhi TV
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",Banglavision HD
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/bahWhBG.png",My TV BD
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/4imblNY.jpg",Mohona TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kDmkexe.png",Bijoy TV
+http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Shomoy TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png",Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",Maasranga HD
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/fj8nxOw.png",Channel 9 HD
+http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/MmhxR5E.png",Channel 24 HD
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/fxq0pV2.png",Asian TV
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Jo7wzmn.png",Gaan Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/ds3aThu.jpg",Jamuna TV
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/tPZKfLr.png",Deepto TV HD
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/djAX8Rc.png",DBC News
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/PbGS418.png",News 24 HD
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/sekOPL6.png",JagoNews24 Tv
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/K43LsMQ.png",Bangla TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/h5FhOWT.png",Ananda TV
+http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 ,TSports
 http://dangguli.live:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,StarJalshaHD
@@ -109,6 +117,8 @@ http://dangguli.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 http://dangguli.live:8080/StarSports1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,StarSports1HD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 ,StarSports1HD
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 ,StarSports2HD
 http://dangguli.live:8080/StarSports2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,StarSportsSelect1
