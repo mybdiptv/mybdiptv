@@ -815,3 +815,33 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",TCT Kids
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 ,t-sports
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 ,t-sports
+http://dds.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
+#EXTINF:-1 ,t-sports
+http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8
+#EXTINF:-1 , Star sports 1
+http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8
+#EXTINF:-1 , Star sports 1
+http://dds.oncast.me:1934/dlive/sp4.stream/playlist.m3u8
+#EXTINF:-1 , Willow HD
+http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8
+#EXTINF:-1 , Willow HD
+http://dds.oncast.me:1934/dlive/sp7.stream/playlist.m3u8
+#EXTINF:-1 , Willow HD
+http://dds.oncast.me:1934/dlive/sp8.stream/playlist.m3u8
+#EXTINF:-1 , Willow HD
+http://dds.oncast.me:1934/dlive/sp9.stream/playlist.m3u8
+#EXTINF:-1 , Willow HD
+http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8
+http://dds.oncast.me:1934/dlive/sp9.stream/playlist.m3u8
+#EXTINF:-1 , Gazi Tv
+http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8
+#EXTINF:-1 , Gazi Tv
+http://103.102.27.172:6464/Channel-1/index.m3u8
+#EXTINF:-1 , PTV Sports
+http://103.102.27.172:6464/Channel-2/index.m3u8
+#EXTINF:-1 , PTV Sports
+http://103.102.27.172:6464/Channel-4/index.m3u8
+
