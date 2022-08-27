@@ -9,6 +9,10 @@ http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
 https://t.bdiptv.stream:2096/Sp0rts/LiveSports/playlist.m3u8
 #EXTINF:-1,T Sports
 https://live.bdtv.xyz:2096/token/tsports/playlist.m3u8
+#EXTINF:-1,T Sports
+https://tv.kotha.im/TSports_HD/index.m3u8
+#EXTINF:-1,T Sports
+https://102.lfplayer.cyou:8088/stream/lizata1/playlist.m3u8
 #EXTINF:-1 ,Nagorik Tv
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla
