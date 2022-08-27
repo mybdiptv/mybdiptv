@@ -5,6 +5,10 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 http://iptv.hplink.com.bd/hp-tv.m3u8
 #EXTINF:-1,T Sports
 http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
+#EXTINF:-1,T Sports
+https://t.bdiptv.stream:2096/Sp0rts/LiveSports/playlist.m3u8
+#EXTINF:-1,T Sports
+https://live.bdtv.xyz:2096/token/tsports/playlist.m3u8
 #EXTINF:-1 ,Nagorik Tv
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla
