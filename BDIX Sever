@@ -23,6 +23,12 @@ http://tv.univisionlive.net:25461/sojib2/73689834/1548
 http://tv.univisionlive.net:25461/sojib2/73689834/1549
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://i.ibb.co/tqgNdPh/images.png" group-title="Bangladesh",BTV
 http://tv.univisionlive.net:25461/sojib2/73689834/1746
+#EXTINF:-1 ,supersports
+https://s99.gocast123.me:8902/hd/hls/Gs4-M6eUCfSNHEz6bk6uTg/1661755534/superspcric.m3u8
+#EXTINF:-1 ,tensports
+https://s1.gocast123.me:8106/hd/hls/tB9ugIE139oK7bkJcBRDlw/1661755575/tenspk.m3u8
+#EXTINF:-1 ,ptv
+https://s1.gocast123.me:8106/hd/hls/lTgOYRrNP1_evFvjyDFBoA/1661755628/ptvpk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV WORLD" tvg-logo="https://live.staticflickr.com/8163/7570254906_e5ac26aae2_m.jpg" group-title="Bangladesh",BTV WORLD
 #EXTINF:-1 tvg-id="" tvg-name="GEO SUPER" tvg-logo="https://topandtrending.com/wp-content/uploads/2020/10/Geo-Super-Live-Streaming.png" group-title="Sports (Asian)",GEO SUPER
 http://tv.univisionlive.net:25461/sojib2/73689834/3434
