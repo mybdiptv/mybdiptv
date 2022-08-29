@@ -3,16 +3,39 @@
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1,T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
-#EXTINF:-1,T Sports
-http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
-#EXTINF:-1,T Sports
-https://t.bdiptv.stream:2096/Sp0rts/LiveSports/playlist.m3u8
-#EXTINF:-1,T Sports
-https://live.bdtv.xyz:2096/token/tsports/playlist.m3u8
-#EXTINF:-1,T Sports
-https://tv.kotha.im/TSports_HD/index.m3u8
-#EXTINF:-1,T Sports
-https://102.lfplayer.cyou:8088/stream/lizata1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://play-lh.googleusercontent.com/mULinfm5Lt-5qvxG1Dn5hZrJo8xBPLUWSUqyuaN_W1peboc-rsp0Q0to6o_nmN_CWzs" group-title="Sports (Asian)",PTV SPORTS
+http://tv.univisionlive.net:25461/sojib2/73689834/1400
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS" tvg-logo="https://yt3.ggpht.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj" group-title="Sports (Asian)",A SPORTS
+http://tv.univisionlive.net:25461/sojib2/73689834/2496
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/2396/brand.gif?itok=nff-Q9JP" group-title="Sports (Asian)",TEN SPORTS
+http://tv.univisionlive.net:25461/sojib2/73689834/1553
+#EXTINF:-1 tvg-id="" tvg-name="TEN CRICKET" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports (Asian)",TEN CRICKET
+http://tv.univisionlive.net:25461/sojib2/73689834/5073
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS " tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/20/Ds-201117-35.jpg" group-title="Sports (Asian)",T SPORTS 
+http://tv.univisionlive.net:25461/sojib2/73689834/1404
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLFbxNSoBpFgNVE3eC4e9erPHvWWb_D9csQFQEStQy4g9AtdRviOGtY-pGuAn5PUA0DQ&usqp=CAU" group-title="Sports (Asian)",T SPORTS HD 
+http://tv.univisionlive.net:25461/sojib2/73689834/2317
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg" group-title="Sports (Asian)",SONY TEN 2 HD
+http://tv.univisionlive.net:25461/sojib2/73689834/1548
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-ten-3-hd-logo.jpg" group-title="Sports (Asian)",SONY TEN 3 HD
+http://tv.univisionlive.net:25461/sojib2/73689834/1549
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://i.ibb.co/tqgNdPh/images.png" group-title="Bangladesh",BTV
+http://tv.univisionlive.net:25461/sojib2/73689834/1746
+#EXTINF:-1 tvg-id="" tvg-name="BTV WORLD" tvg-logo="https://live.staticflickr.com/8163/7570254906_e5ac26aae2_m.jpg" group-title="Bangladesh",BTV WORLD
+#EXTINF:-1 tvg-id="" tvg-name="GEO SUPER" tvg-logo="https://topandtrending.com/wp-content/uploads/2020/10/Geo-Super-Live-Streaming.png" group-title="Sports (Asian)",GEO SUPER
+http://tv.univisionlive.net:25461/sojib2/73689834/3434
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports (Asian)",ASTRO CRICKET HD
+http://tv.univisionlive.net:25461/sojib2/73689834/4582
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET HD" tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="Sports (Asian)",WILLOW CRICKET HD
+http://tv.univisionlive.net:25461/sojib2/73689834/1411
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg" group-title="Sports (Asian)",STAR SPORTS 1 HD
+http://tv.univisionlive.net:25461/sojib2/73689834/1551
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-2-logo.jpg" group-title="Sports (Asian)",STAR SPORTS 2 HD
+http://tv.univisionlive.net:25461/sojib2/73689834/1552
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="STAR SPORTS 3" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-3-logo-300x300.jpg" group-title="Sports (Asian)",STAR SPORTS 3
+http://tv.univisionlive.net:25461/sojib2/73689834/4495
+#EXTINF:-1 tvg-id="SonySix.in" tvg-name="SONY SIX HD" tvg-logo="https://i.pinimg.com/474x/63/75/65/637565b0b0cc4783fd9685335f215479.jpg" group-title="Sports (Asian)",SONY SIX HD
+http://tv.univisionlive.net:25461/sojib2/73689834/1529
 #EXTINF:-1 ,Nagorik Tv
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla
