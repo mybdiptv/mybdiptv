@@ -3,6 +3,8 @@
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1,T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
+#EXTINF:-1,Asia Cup 2022
+https://livestream-2.socialstreaming.tv/live/630b68fbb9f740001de35923/630b68fbb9f740001de35923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://play-lh.googleusercontent.com/mULinfm5Lt-5qvxG1Dn5hZrJo8xBPLUWSUqyuaN_W1peboc-rsp0Q0to6o_nmN_CWzs" group-title="Sports (Asian)",PTV SPORTS
 http://tv.univisionlive.net:25461/sojib2/73689834/1400
 #EXTINF:-1 tvg-id="" tvg-name="A SPORTS" tvg-logo="https://yt3.ggpht.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj" group-title="Sports (Asian)",A SPORTS
