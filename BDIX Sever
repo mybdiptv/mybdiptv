@@ -119,6 +119,8 @@ http://208.86.19.13:81/902.stream/index.m3u8
 http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/PW9hRDa.png",Sun Bangla
 http://208.86.19.13:81/903.stream/index.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/RjiBQP2.png",56.Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 
 
