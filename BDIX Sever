@@ -7,8 +7,12 @@ http://iptv.hplink.com.bd/hp-tv.m3u8
 https://tv.kotha.im/TSports_HD/index.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022",Super Sports
 http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022",Super Sports
+https://es1.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=192383769578&id=115656&pk=6d7e13a04a24b576f5bef0cf213f41538056de5d2479235059ce2c467fe293a21f62845b606a93a4fe8f3f575d3833861ec365f224c7b547ea0ed8fe40c6de3b
 #EXTINF:-1 group-title="ASIA CUP 2022",A-SPORTS FHD
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022",Utsav Gold
+https://es1.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=192388388376&id=114607&pk=6d7e13a04a24b576f5bef0cf213f41538056de5d2479235059ce2c467fe293a21f62845b606a93a4fe8f3f575d3833861ec365f224c7b547ea0ed8fe40c6de3b
 #EXTINF:-1 group-title="ASIA CUP 2022",CricLife 1 FHD
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/49392.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022",Fox Sports 501
