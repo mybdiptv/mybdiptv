@@ -4,16 +4,6 @@
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1,T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
-#EXTINF:-1,T Sports
-http://iptv.mcnbd.com:8080/AsiaCupSD/index.m3u8?token=bc55fa4d41b0a8b19ae648ee82c73ecc4018fb4b-781658d798c4e9449e13a699eb377329-1662712811-1662702011
-#EXTINF:-1,T Sports 
-http://iptv.mcnbd.com:8080/AsiaCupHD/index.m3u8?token=e7198ca2f5c97827e231f8435348b599685f5708-1bf97eeefaf21d1acb2c44d4fa45a7ae-1662712900-1662702100
-#EXTINF:-1,GTV
-http://iptv.mcnbd.com:8080/GaziTV/tracks-v1a1/mono.m3u8?token=b3656b9f0d12d88b06bdb600658d1c7f9febee60-eeb2e381614fe598350afdfbc0b735f3-1662712943-1662702143
-#EXTINF:-1,Nagorik Tv
-http://103.170.140.11:1935/live/test/chunklist_w2036678438_tkd293emF0b2tlbmVuZHRpbWU9MTY2MjcxMTk0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjI3MDQ5NDAmd293emF0b2tlbmhhc2g9M3hIUVhaS0EzYTBmbVYwNVdwRGcyX3FtMVdKUEhEUVNXSDloLVNPemhWND0=.m3u8
-#EXTINF:-1,Nagorik Tv
-http://103.170.140.11:1935/live/test/chunklist_w24879234_tkd293emF0b2tlbmVuZHRpbWU9MTY2MjcxMjEyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjI3MDUxMjAmd293emF0b2tlbmhhc2g9Zm56dWJKSUtua21BWVFBVmdMdUZHanBOSXpRcmxpbXh6MzdGTG1XaWIwUT0=.m3u8
 #EXTINF:-1,t-sports (Roarzone)
 http://223.29.212.14:8080/roarzone/102/index.m3u8
 #EXTINF:-1,t-sports
@@ -23,24 +13,18 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022",T-SPORTS HD(BDIX)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1,ten-sports
-http://iptv.mcnbd.com:8080/TenSports/tracks-v1a1/mono.m3u8?token=9d9dac606bf2d11163a29dd4a229187773639351-7933b79fd39c719c8696d33fa246e5aa-1662713448-1662702648
+http://iptv.mcnbd.com:8080/TenSports/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png",Sony Aath(BD)
 http://223.29.212.14:8080/roarzone/33/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha HD BDC
 http://223.29.212.14:8080/roarzone/30/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha HD
-http://iptv.mcnbd.com:8080/StarJalshaHD/index.m3u8?token=119392413d14d7b00a8f8553ff83b42a4ef38834-ee58c4e26f61776845795aca056d7f4f-1662713511-1662702711
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",Zee Bangla SD 01
 http://223.29.212.14:8080/roarzone/34/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",Zee Bangla
-http://iptv.mcnbd.com:8080/ZeeBangla/index.m3u8?token=26ac404855c6880b7f8fdc1a5f9d44f51a38c8ba-38ee67afe8c518b986ba129d123f3bbd-1662713561-1662702761
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/J1T7u59.png",Jalsha Movies HD.
 http://223.29.212.14:8080/roarzone/31/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png",Colors Bangla
-http://23.29.212.14:8080/roarzone/66/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png",Colors Bangla
-http://iptv.mcnbd.com:8080/ColorsBanglaHD/index.m3u8?token=a7b4032ca0ed05155c767bed170fee1797893eb0-00b1af5ed43cb4fde04d3852831cf813-1662712981-1662702181
+http://223.29.212.14:8080/roarzone/66/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla Cinema" tvg-logo="https://imgur.com/SY46rYQ.png",Zee Bangla Cinema HD
 http://223.29.212.14:8080/roarzone/29/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla Music",Bangla Talkis
