@@ -10,6 +10,10 @@ http://iptv.mcnbd.com:8080/AsiaCupSD/index.m3u8?token=bc55fa4d41b0a8b19ae648ee82
 http://iptv.mcnbd.com:8080/AsiaCupHD/index.m3u8?token=e7198ca2f5c97827e231f8435348b599685f5708-1bf97eeefaf21d1acb2c44d4fa45a7ae-1662712900-1662702100
 #EXTINF:-1,GTV
 http://iptv.mcnbd.com:8080/GaziTV/tracks-v1a1/mono.m3u8?token=b3656b9f0d12d88b06bdb600658d1c7f9febee60-eeb2e381614fe598350afdfbc0b735f3-1662712943-1662702143
+#EXTINF:-1,Nagorik Tv
+http://103.170.140.11:1935/live/test/chunklist_w2036678438_tkd293emF0b2tlbmVuZHRpbWU9MTY2MjcxMTk0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjI3MDQ5NDAmd293emF0b2tlbmhhc2g9M3hIUVhaS0EzYTBmbVYwNVdwRGcyX3FtMVdKUEhEUVNXSDloLVNPemhWND0=.m3u8
+#EXTINF:-1,Nagorik Tv
+http://103.170.140.11:1935/live/test/chunklist_w24879234_tkd293emF0b2tlbmVuZHRpbWU9MTY2MjcxMjEyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjI3MDUxMjAmd293emF0b2tlbmhhc2g9Zm56dWJKSUtua21BWVFBVmdMdUZHanBOSXpRcmxpbXh6MzdGTG1XaWIwUT0=.m3u8
 #EXTINF:-1,t-sports (Roarzone)
 http://223.29.212.14:8080/roarzone/102/index.m3u8
 #EXTINF:-1,t-sports
