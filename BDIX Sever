@@ -1,93 +1,171 @@
 #EXTM3U
 
-#EXTINF:-1,t-sports
+********Sports******
+
+
+#EXTINF:-1 group-title=" Sports",T Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1,T Sports (Akash Digital)
+#EXTINF:-1 group-title=" Sports",T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
-#EXTINF:-1,t-sports (Roarzone)
+#EXTINF:-1 group-title=" Sports",T Sports (Roarzone)
 http://223.29.212.14:8080/roarzone/102/index.m3u8
-#EXTINF:-1,t-sports
+#EXTINF:-1 group-title=" Sports",T Sports (Kotha)
 https://tv.kotha.im/TSports_HD/index.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022",A-SPORTS FHD
+#EXTINF:-1 group-title=" Sports",T Sports,A-SPORTS FHD
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022",T-SPORTS HD(BDIX)
+#EXTINF:-1 group-title=" Sports",T Sports,T-SPORTS HD(BDIX)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1,ten-sports
-http://iptv.mcnbd.com:8080/TenSports/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 group-title=" Sports",Ten Sports
+http://iptv.mcnbd.com:8080/TenSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",STAR SPORTS 1 
+http://223.29.212.14:8080/roarzone/25/index.m3u8
+#EXTINF:-1 group-title="Sports",STAR SPORTS  2
+http://223.29.212.14:8080/roarzone/26/index.m3u8
+#EXTINF:-1 group-title="Sports",STAR SPORTS SELCTED 2
+http://223.29.212.14:8080/roarzone/28/index.m3u8
+#EXTINF:-1 group-title="Sports",SONY SIX
+http://223.29.212.14:8080/roarzone/24/index.m3u8
+#EXTINF:-1 group-title="Sports",TEN 1
+http://223.29.212.14:8080/roarzone/20/index.m3u8
+#EXTINF:-1 group-title="Sports",TEN 2
+http://223.29.212.14:8080/roarzone/21/index.m3u8
+#EXTINF:-1 group-title="Sports",TEN 3
+http://223.29.212.14:8080/roarzone/22/index.m3u8
+#EXTINF:-1 group-title="Sports",SUN SKY
+http://223.29.212.14:8080/roarzone/23/index.m3u8
+#EXTINF:-1 group-title="Sports",Willow Hd
+http://223.29.212.14:8080/roarzone/70/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN
+http://223.29.212.14:8080/roarzone/71/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports
+http://223.29.212.14:8080/roarzone/72/index.m3u8
+#EXTINF:-1 group-title="Sports",PTV Sports
+http://223.29.212.14:8080/roarzone/73/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY Net Sports
+http://223.29.212.14:8080/roarzone/92/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY Net Sports
+http://223.29.212.14:8080/roarzone/102/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png",Sony Aath(BD)
+
+********Indian Bangla******
+
+
+#EXTINF:-1 group-title=" Indian Bangla",Sony Aath
 http://223.29.212.14:8080/roarzone/33/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha HD BDC
+#EXTINF:-1 group-title=" Indian Bangla",Star Jalsha HD
 http://223.29.212.14:8080/roarzone/30/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",Zee Bangla SD 01
+#EXTINF:-1 group-title=" Indian Bangla",Zee Bangla SD 01
 http://223.29.212.14:8080/roarzone/34/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/J1T7u59.png",Jalsha Movies HD.
+#EXTINF:-1 group-title=" Indian Bangla",Jalsha Movies HD.
 http://223.29.212.14:8080/roarzone/31/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png",Colors Bangla
+#EXTINF:-1 group-title=" Indian Bangla",Colors Bangla
 http://223.29.212.14:8080/roarzone/66/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla Cinema" tvg-logo="https://imgur.com/SY46rYQ.png",Zee Bangla Cinema HD
+#EXTINF:-1 group-title=" Indian Bangla",Zee Bangla Cinema HD
 http://223.29.212.14:8080/roarzone/29/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla Music",Bangla Talkis
-http://223.29.212.14:8080/roarzone/91/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla Music", Sangit Bangla 
-http://223.29.212.14:8080/roarzone/96/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/m7Cl2M9.png",National Geographic HD
-http://223.29.212.14:8080/roarzone/35/index.m3u8
-https://www.logolynx.com/images/logolynx/s_8c/8c967d45f5fa0ae359018a67b8e4f2d2.jpeg
-http://223.29.212.14:8080/roarzone/36/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/m7Cl2M9.png",Peace tv
-http://223.29.212.14:8080/roarzone/37/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
-http://223.29.212.14:8080/roarzone/38/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/CMqfZL1/Starplus.jpg",Star Plus
-http://223.29.212.14:8080/roarzone/67/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/mJrwgx1/ColorsHD.jpg",Colors HD
-http://223.29.212.14:8080/roarzone/68/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies HD
-http://223.29.212.14:8080/roarzone/39/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/9SYqIRU.png",Zee TV HD
-http://223.29.212.14:8080/roarzone/40/index.m3u8
-#EXTINF:-1 group-title="Movies",& TV
-http://223.29.212.14:8080/roarzone/74/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/nwtLFNM/Sonypix.jpg",Sony Pix HD
-http://223.29.212.14:8080/roarzone/41/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Gold Hd
-http://223.29.212.14:8080/roarzone/75/index.m3u8
-#EXTINF:-1 group-title="Movies",Zee Cinema Hd
-http://223.29.212.14:8080/roarzone/76/index.m3u8
-#EXTINF:-1 group-title="Movies",Zee Bollyuwod
-http://223.29.212.14:8080/roarzone/94/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Max
-http://223.29.212.14:8080/roarzone/77/index.m3u8
-#EXTINF:-1 group-title="Movies",& Picture HD
-http://223.29.212.14:8080/roarzone/100/index.m3u8
+
+********Music******
+
+
+#EXTINF:-1 group-title="Music",Bangla Talkis
+http://223.29.212.14:8080/roarzone/91/index.m3u8
+#EXTINF:-1 group-title="Music", Sangit Bangla 
+http://223.29.212.14:8080/roarzone/96/index.m3u8
+#EXTINF:-1 group-title="Bangla",GB Gann Bangla
+http://223.29.212.14:8080/roarzone/58/index.m3u8
+#EXTINF:-1 group-title="Music",Zoom
+http://223.29.212.14:8080/roarzone/60/index.m3u8
 #EXTINF:-1 group-title="Music",Zing
 http://223.29.212.14:8080/roarzone/93/index.m3u8
-#EXTINF:-1 group-title=" Hindi Music",Zalwa
+#EXTINF:-1 group-title="Music",Zalwa
 http://223.29.212.14:8080/roarzone/98/index.m3u8
+#EXTINF:-1 group-title="Music",MTV
+http://223.29.212.14:8080/roarzone/46/index.m3u8
+
+
+********Hindi Moives******
+
+
+
+#EXTINF:-1 group-title=" Hindi Movies",Star Gold Hd
+http://223.29.212.14:8080/roarzone/75/index.m3u8
+#EXTINF:-1 group-title=" Hindi Movies",Zee Cinema Hd
+http://223.29.212.14:8080/roarzone/76/index.m3u8
+#EXTINF:-1 group-title=" Hindi Movies",Zee Bollyuwod
+http://223.29.212.14:8080/roarzone/94/index.m3u8
+#EXTINF:-1 group-title=" Hindi Movies",Sony Max
+http://223.29.212.14:8080/roarzone/77/index.m3u8
+#EXTINF:-1 group-title=" Hindi Movies",& Picture HD
+http://223.29.212.14:8080/roarzone/100/index.m3u8
+#EXTINF:-1 group-title="Hindi Moive",Zee Action
+http://223.29.212.14:8080/roarzone/69/index.m3u8
+
+
+
+
+********Hindi******
+
+
+#EXTINF:-1 group-title="Hindi",Sony HD
+http://223.29.212.14:8080/roarzone/38/index.m3u8
+#EXTINF:-1 group-title="Hindi",Star Plus
+http://223.29.212.14:8080/roarzone/67/index.m3u8
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://223.29.212.14:8080/roarzone/68/index.m3u8
+#EXTINF:-1 group-title="Hindi",Zee TV HD
+http://223.29.212.14:8080/roarzone/40/index.m3u8
+#EXTINF:-1 group-title="Hindi",& TV
+http://223.29.212.14:8080/roarzone/74/index.m3u8
+
+
+
+
+********Geographic******
+
+
+#EXTINF:-1 group-title="Geographic", HD World
+http://223.29.212.14:8080/roarzone/43/index.m3u8
+#EXTINF:-1 group-title="Geographic",BBC Earth HD
+http://223.29.212.14:8080/roarzone/44/index.m3u8
+#EXTINF:-1 group-title="Geographic",National Geographic HD
+http://223.29.212.14:8080/roarzone/35/index.m3u8
+#EXTINF:-1 group-title="Geographic", 
+http://223.29.212.14:8080/roarzone/36/index.m3u8
+
+
+********Cartoon******
+
+
 #EXTINF:-1 group-title="Cartoon",CN
 http://223.29.212.14:8080/roarzone/79/index.m3u8
 #EXTINF:-1 group-title="Cartoon",CN
 http://223.29.212.14:8080/roarzone/80/index.m3u8
-#EXTINF:-1 group-title="Hindi Moive",Zee Action
-http://223.29.212.14:8080/roarzone/69/index.m3u8
-#EXTINF:-1 group-title="Cartoon",CN
+#EXTINF:-1 group-title="Cartoon",NICK
+http://223.29.212.14:8080/roarzone/55/index.m3u8
+
+
+
+********English******
+
+
+#EXTINF:-1 group-title="English",Star Movies HD
+http://223.29.212.14:8080/roarzone/39/index.m3u8
+#EXTINF:-1 group-title="English",Sony Pix HD
+http://223.29.212.14:8080/roarzone/41/index.m3u8
+#EXTINF:-1 group-title="English",Eng Moive
 http://223.29.212.14:8080/roarzone/42/index.m3u8
-#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
-http://223.29.212.14:8080/roarzone/43/index.m3u8
-#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC Earth HD
-http://223.29.212.14:8080/roarzone/44/index.m3u8
-#EXTINF:-1 group-title="Movies",Moives Now HD
+#EXTINF:-1 group-title="English",Moives Now HD
 http://223.29.212.14:8080/roarzone/45/index.m3u8
-#EXTINF:-1 group-title="Movies",MTV
-http://223.29.212.14:8080/roarzone/46/index.m3u8
-#EXTINF:-1 group-title="News",ARY
-http://223.29.212.14:8080/roarzone/9/index.m3u8
+
+
+
+********BanglaDeshi******
+
+
 
 #EXTINF:-1 group-title="Bangla", G TV
 http://223.29.212.14:8080/roarzone/1/index.m3u8
-#EXTINF:-1 group-title="Bangla", Antn Bangla
+#EXTINF:-1 group-title="Bangla", Atn Bangla
 http://223.29.212.14:8080/roarzone/2/index.m3u8
 #EXTINF:-1 group-title="Bangla", Bangla Vision
 http://223.29.212.14:8080/roarzone/3/index.m3u8
@@ -121,26 +199,20 @@ http://223.29.212.14:8080/roarzone/8/index.m3u8
 http://223.29.212.14:8080/roarzone/10/index.m3u8
 #EXTINF:-1 group-title="Bangla",Moive Bangla
 http://223.29.212.14:8080/roarzone/19/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg",Mohona
+#EXTINF:-1 group-title="Bangla",Mohona
 http://223.29.212.14:8080/roarzone/48/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/RCjF89k/Atnnews.jpg",ATN News
+#EXTINF:-1 group-title="Bangla",ATN News
 http://223.29.212.14:8080/roarzone/49/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/28DBQc7/Maasranga-TV.jpg",Maasranga TV
+#EXTINF:-1 group-title="Bangla",Maasranga TV
 http://223.29.212.14:8080/roarzone/51/index.m3u8
 #EXTINF:-1 group-title="Bangla",N TV
 http://223.29.212.14:8080/roarzone/54/index.m3u8
-#EXTINF:-1 group-title="Bangla",NICK
-http://223.29.212.14:8080/roarzone/55/index.m3u8
 #EXTINF:-1 group-title="Bangla",My Tv
 http://223.29.212.14:8080/roarzone/56/index.m3u8
 #EXTINF:-1 group-title="Bangla",Sports
 http://223.29.212.14:8080/roarzone/57/index.m3u8
-#EXTINF:-1 group-title="Bangla",GB Gann Bangla
-http://223.29.212.14:8080/roarzone/58/index.m3u8
-#EXTINF:-1 group-title="Bangla",Nagoril Tv
+#EXTINF:-1 group-title="Bangla",Nagorik Tv
 http://223.29.212.14:8080/roarzone/59/index.m3u8
-#EXTINF:-1 group-title="Bangla",NagorikTv
-http://223.29.212.14:8080/roarzone/60/index.m3u8
 #E#EXTINF:-1 group-title="Bangla",Baishakhi Tv
 http://223.29.212.14:8080/roarzone/61/index.m3u8
 #E#EXTINF:-1 group-title="Bangla",Desh Tv
@@ -158,33 +230,17 @@ http://223.29.212.14:8080/roarzone/85/index.m3u8
 #EXTINF:-1 group-title="Bangla",BTV Sangsad
 http://223.29.212.14:8080/roarzone/88/index.m3u8
 
-#EXTINF:-1 group-title="Sports",STAR SPORTS 1 
-http://223.29.212.14:8080/roarzone/25/index.m3u8
-#EXTINF:-1 group-title="Sports",STAR SPORTS  2
-http://223.29.212.14:8080/roarzone/26/index.m3u8
-#EXTINF:-1 group-title="Sports",STAR SPORTS SELCTED 2
-http://223.29.212.14:8080/roarzone/28/index.m3u8
-#EXTINF:-1 group-title="Sports",SONY SIX
-http://223.29.212.14:8080/roarzone/24/index.m3u8
-#EXTINF:-1 group-title="Sports",TEN 1
-http://223.29.212.14:8080/roarzone/20/index.m3u8
-#EXTINF:-1 group-title="Sports",TEN 2
-http://223.29.212.14:8080/roarzone/21/index.m3u8
-#EXTINF:-1 group-title="Sports",TEN 3
-http://223.29.212.14:8080/roarzone/22/index.m3u8
-#EXTINF:-1 group-title="Sports",SUN SKY
-http://223.29.212.14:8080/roarzone/23/index.m3u8
-#EXTINF:-1 group-title="Sports",Willow Hd
-http://223.29.212.14:8080/roarzone/70/index.m3u8
-#EXTINF:-1 group-title="Sports",ESPN
-http://223.29.212.14:8080/roarzone/71/index.m3u8
-#EXTINF:-1 group-title="Sports",Sky Sports
-http://223.29.212.14:8080/roarzone/72/index.m3u8
-#EXTINF:-1 group-title="Sports",PTV Sports
-http://223.29.212.14:8080/roarzone/73/index.m3u8
-#EXTINF:-1 group-title="Sports",SKY Net Sports
-http://223.29.212.14:8080/roarzone/92/index.m3u8
-#EXTINF:-1 group-title="Sports",SKY Net Sports
-http://223.29.212.14:8080/roarzone/102/index.m3u8
-#EXTINF:-1 group-title="Sports",Al Zazera
+
+********Others******
+
+
+#EXTINF:-1 group-title="Others",Peace tv
+http://223.29.212.14:8080/roarzone/37/index.m3u8
+#EXTINF:-1 group-title="Others",ARY
+http://223.29.212.14:8080/roarzone/9/index.m3u8
+#EXTINF:-1 group-title="Others",Al Zazera
 http://223.29.212.14:8080/roarzone/89/index.m3u8
+
+
+
+
