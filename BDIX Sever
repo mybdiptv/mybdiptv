@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,SATV
+http://iptv.mcnbd.com:8080/AsiaCupHD/index.m3u8
+#EXTINF:-1 ,SATV
+http://iptv.mcnbd.com:8080/AsiaCupSD/index.m3u8
+#EXTINF:-1 ,SATV
+http://iptv.mcnbd.com:8080/AsiaCupSD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SATV
+http://iptv.mcnbd.com:8080/AsiaCupHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,t-sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1,T Sports (Akash Digital)
