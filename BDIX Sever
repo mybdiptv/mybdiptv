@@ -11,12 +11,8 @@ http://iptv.hplink.com.bd/hp-tv.m3u8
 http://223.29.212.14:8080/roarzone/102/index.m3u8
 #EXTINF:-1 group-title=" Sports",T Sports (Kotha)
 https://tv.kotha.im/TSports_HD/index.m3u8
-#EXTINF:-1 group-title=" Sports",T Sports,A-SPORTS FHD
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title=" Sports",T Sports,T-SPORTS HD(BDIX)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 group-title=" Sports",Ten Sports
-http://iptv.mcnbd.com:8080/TenSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1 
 http://223.29.212.14:8080/roarzone/25/index.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS  2
@@ -247,38 +243,37 @@ http://223.29.212.14:8080/roarzone/89/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-bangla-hd.png" group-title="Entertainment", 34. ZEE BANGLA HD
+#EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD
 http://103.159.4.38:9191/CH23-INBD2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-jalsha-hd.png" group-title="Entertainment", 35. STAR JALSHA HD
+#EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-bangla-hd.png" group-title="Entertainment", 36. COLORS BANGLA HD
+#EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD
 http://103.159.4.38:9191/CH25-INBD4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/disney-channel.png" group-title="Kids", 117. DISNEY CHANNEL
+#EXTINF:-1 group-title=" Indian Bangla", 117. DISNEY CHANNEL
 http://103.159.4.38:9191/CH45-ENG3/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/cnn.png" group-title="News", 124. CNN
+#EXTINF:-1 group-title="Cartoon", 124. CNN
 http://103.159.4.38:9191/CH46-ENG4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ekushey-tv.png" group-title="General", 04. EKUSHEY TV
+#EXTINF:-1 group-title="Bangla", 04. EKUSHEY TV
 http://103.159.4.38:9191/CH19-BD8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/dbc-news.png" group-title="News", 26. DBC NEWS HD
+#EXTINF:-1 group-title="Bangla", 26. DBC NEWS HD
 http://103.159.4.38:9191/CH17-BD6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/news24.png" group-title="News", 27. NEWS 24 HD
+#EXTINF:-1 group-title="Bangla", 27. NEWS 24 HD
 http://103.159.4.38:9191/CH16-BD5/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ptv-sports-hd.png" group-title="Sports", 103. PTV SPORTS HD
+#EXTINF:-1 group-title=" Sports", 103. PTV SPORTS HD
 http://103.159.4.38:9191/CH9-SP9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ten-sports-hd.png" group-title="Sports", 104. TEN SPORTS HD
+#EXTINF:-1 group-title=" Sports", 104. TEN SPORTS HD
 http://103.159.4.38:9191/CH10-SP10/tracks-v1a1/mono.m3u8
 
 
