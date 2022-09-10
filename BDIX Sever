@@ -170,7 +170,9 @@ http://223.29.212.14:8080/roarzone/79/index.m3u8
 http://223.29.212.14:8080/roarzone/80/index.m3u8
 #EXTINF:-1 group-title="Cartoon",NICK
 http://223.29.212.14:8080/roarzone/55/index.m3u8
-#EXTINF:-1 group-title=" Cartoon", 117. DISNEY CHANNEL
+
+
+#EXTINF:-1 group-title=" Indian Bangla", 117. DISNEY CHANNEL
 http://103.159.4.38:9191/CH45-ENG3/tracks-v1a1/mono.m3u8
 
 
@@ -275,19 +277,6 @@ http://223.29.212.14:8080/roarzone/89/index.m3u8
 
 ******outhers BDIX******
 
-
-
-#EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD
-http://103.159.4.38:9191/CH23-INBD2/index.m3u8
-
-#EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
-http://103.159.4.38:9191/CH24-INBD3/index.m3u8
-
-#EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD
-http://103.159.4.38:9191/CH25-INBD4/index.m3u8
-
-#EXTINF:-1 group-title=" Indian Bangla", 117. DISNEY CHANNEL
-http://103.159.4.38:9191/CH45-ENG3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Cartoon", 124. CNN
