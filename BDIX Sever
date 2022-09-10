@@ -15,16 +15,26 @@ https://tv.kotha.im/TSports_HD/index.m3u8
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1 
 http://223.29.212.14:8080/roarzone/25/index.m3u8
+#EXTINF:-1 group-title="Sports",STAR SPORTS 1 (Backup)
+http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Gazi Tv (Backup)
+http://103.159.4.38:9191/CH2-SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS  2
 http://223.29.212.14:8080/roarzone/26/index.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS SELCTED 2
 http://223.29.212.14:8080/roarzone/28/index.m3u8
 #EXTINF:-1 group-title="Sports",SONY SIX
 http://223.29.212.14:8080/roarzone/24/index.m3u8
+#EXTINF:-1 group-title="Sports",SONY SIX(Backup)
+http://103.159.4.38:9191/CH6-SP5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",TEN 1
 http://223.29.212.14:8080/roarzone/20/index.m3u8
+#EXTINF:-1 group-title="Sports",TEN 1 (backup)
+http://103.159.4.38:9191/CH7-SP7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",TEN 2
 http://223.29.212.14:8080/roarzone/21/index.m3u8
+#EXTINF:-1 group-title="Sports",TEN 2 (backup)
+http://103.159.4.38:9191/CH8-SP8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",TEN 3
 http://223.29.212.14:8080/roarzone/22/index.m3u8
 #EXTINF:-1 group-title="Sports",SUN SKY
@@ -41,6 +51,10 @@ http://223.29.212.14:8080/roarzone/73/index.m3u8
 http://223.29.212.14:8080/roarzone/92/index.m3u8
 #EXTINF:-1 group-title="Sports",SKY Net Sports
 http://223.29.212.14:8080/roarzone/102/index.m3u8
+#EXTINF:-1 group-title=" Sports", 103. PTV SPORTS HD (backup)
+http://103.159.4.38:9191/CH9-SP9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Sports", 104. TEN SPORTS HD
+http://103.159.4.38:9191/CH10-SP10/tracks-v1a1/mono.m3u8
 
 
 ********Indian Bangla******
@@ -48,16 +62,26 @@ http://223.29.212.14:8080/roarzone/102/index.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla",Sony Aath
 http://223.29.212.14:8080/roarzone/33/index.m3u8
+#EXTINF:-1 group-title=" Indian Bangla", sony aath (Backup)
+http://103.159.4.38:9191/CH22-INBD1/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Star Jalsha HD
 http://223.29.212.14:8080/roarzone/30/index.m3u8
+#EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD (backup)
+http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Zee Bangla SD 01
 http://223.29.212.14:8080/roarzone/34/index.m3u8
+#EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD (backup)
+http://103.159.4.38:9191/CH23-INBD2/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Jalsha Movies HD.
 http://223.29.212.14:8080/roarzone/31/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Colors Bangla
 http://223.29.212.14:8080/roarzone/66/index.m3u8
+#EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD (backup)
+http://103.159.4.38:9191/CH25-INBD4/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Zee Bangla Cinema HD
 http://223.29.212.14:8080/roarzone/29/index.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",zee bangla cinema(Backup)
+http://103.159.4.38:9191/CH26-INBD5/index.m3u8
 
 
 ********Music******
@@ -67,8 +91,12 @@ http://223.29.212.14:8080/roarzone/29/index.m3u8
 http://223.29.212.14:8080/roarzone/91/index.m3u8
 #EXTINF:-1 group-title="Music", Sangit Bangla 
 http://223.29.212.14:8080/roarzone/96/index.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",songit bangla(backup)
+http://103.159.4.38:9191/CH27-INBD6/index.m3u8
 #EXTINF:-1 group-title="Bangla",GB Gann Bangla
 http://223.29.212.14:8080/roarzone/58/index.m3u8
+#EXTINF:-1 group-title="Bangla",gan bangla (backup)
+http://103.159.4.38:9191/CH28-INBD7/index.m3u8
 #EXTINF:-1 group-title="Music",Zoom
 http://223.29.212.14:8080/roarzone/60/index.m3u8
 #EXTINF:-1 group-title="Music",Zing
@@ -121,10 +149,14 @@ http://223.29.212.14:8080/roarzone/74/index.m3u8
 
 #EXTINF:-1 group-title="Geographic", HD World
 http://223.29.212.14:8080/roarzone/43/index.m3u8
+#EXTINF:-1 group-title="Geographic", HD World (backup)
+http://103.159.4.38:9191/CH44-ENG2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geographic",BBC Earth HD
 http://223.29.212.14:8080/roarzone/44/index.m3u8
 #EXTINF:-1 group-title="Geographic",National Geographic HD
 http://223.29.212.14:8080/roarzone/35/index.m3u8
+#EXTINF:-1 group-title="Geographic",National Geographic HD(backup)
+http://103.159.4.38:9191/CH43-ENG1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geographic", 
 http://223.29.212.14:8080/roarzone/36/index.m3u8
 
@@ -138,6 +170,8 @@ http://223.29.212.14:8080/roarzone/79/index.m3u8
 http://223.29.212.14:8080/roarzone/80/index.m3u8
 #EXTINF:-1 group-title="Cartoon",NICK
 http://223.29.212.14:8080/roarzone/55/index.m3u8
+#EXTINF:-1 group-title=" Cartoon", 117. DISNEY CHANNEL
+http://103.159.4.38:9191/CH45-ENG3/tracks-v1a1/mono.m3u8
 
 
 
@@ -270,10 +304,7 @@ http://103.159.4.38:9191/CH17-BD6/index.m3u8
 http://103.159.4.38:9191/CH16-BD5/index.m3u8
 
 
-#EXTINF:-1 group-title=" Sports", 103. PTV SPORTS HD
-http://103.159.4.38:9191/CH9-SP9/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=" Sports", 104. TEN SPORTS HD
-http://103.159.4.38:9191/CH10-SP10/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title=" outhers", Dal zazera
+http://103.159.4.38:9191/CH47-ENG5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" outhers", rta
+http://103.159.4.38:9191/CH48-ENG6/tracks-v1a1/mono.m3u8
