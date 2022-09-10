@@ -7,7 +7,7 @@
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 group-title=" Sports",T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
-#EXTINF:-1 group-title=" Sports",T Sports (Roarzone)
+#EXTINF:-1 group-title=" Sports",T Sports 
 http://223.29.212.14:8080/roarzone/102/index.m3u8
 #EXTINF:-1 group-title=" Sports",T Sports (Kotha)
 https://tv.kotha.im/TSports_HD/index.m3u8
