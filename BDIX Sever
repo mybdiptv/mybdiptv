@@ -1,286 +1,33 @@
+
 #EXTM3U
-
-********Sports******
-
 
 #EXTINF:-1 group-title=" Sports",T Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+
 #EXTINF:-1 group-title=" Sports",T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
-#EXTINF:-1 group-title=" Sports",T Sports 
-http://223.29.212.14:8080/roarzone/102/index.m3u8
-#EXTINF:-1 group-title=" Sports",T Sports (Kotha)
-https://tv.kotha.im/TSports_HD/index.m3u8
-#EXTINF:-1 group-title=" Sports",T Sports,T-SPORTS HD(BDIX)
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 group-title="Sports",STAR SPORTS 1 
-http://223.29.212.14:8080/roarzone/25/index.m3u8
+
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1 (Backup)
 http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Sports",Gazi Tv (Backup)
 http://103.159.4.38:9191/CH2-SP2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports",STAR SPORTS  2
-http://223.29.212.14:8080/roarzone/26/index.m3u8
-#EXTINF:-1 group-title="Sports",STAR SPORTS SELCTED 2
-http://223.29.212.14:8080/roarzone/28/index.m3u8
-#EXTINF:-1 group-title="Sports",SONY SIX
-http://223.29.212.14:8080/roarzone/24/index.m3u8
+
 #EXTINF:-1 group-title="Sports",SONY SIX(Backup)
 http://103.159.4.38:9191/CH6-SP5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports",TEN 1
-http://223.29.212.14:8080/roarzone/20/index.m3u8
+
 #EXTINF:-1 group-title="Sports",TEN 1 (backup)
 http://103.159.4.38:9191/CH7-SP7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports",TEN 2
-http://223.29.212.14:8080/roarzone/21/index.m3u8
+
 #EXTINF:-1 group-title="Sports",TEN 2 (backup)
 http://103.159.4.38:9191/CH8-SP8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports",TEN 3
-http://223.29.212.14:8080/roarzone/22/index.m3u8
-#EXTINF:-1 group-title="Sports",SUN SKY
-http://223.29.212.14:8080/roarzone/23/index.m3u8
-#EXTINF:-1 group-title="Sports",Willow Hd
-http://223.29.212.14:8080/roarzone/70/index.m3u8
-#EXTINF:-1 group-title="Sports",ESPN
-http://223.29.212.14:8080/roarzone/71/index.m3u8
-#EXTINF:-1 group-title="Sports",Sky Sports
-http://223.29.212.14:8080/roarzone/72/index.m3u8
-#EXTINF:-1 group-title="Sports",PTV Sports
-http://223.29.212.14:8080/roarzone/73/index.m3u8
-#EXTINF:-1 group-title="Sports",SKY Net Sports
-http://223.29.212.14:8080/roarzone/92/index.m3u8
-#EXTINF:-1 group-title="Sports",SKY Net Sports
-http://223.29.212.14:8080/roarzone/102/index.m3u8
+
 #EXTINF:-1 group-title=" Sports", 103. PTV SPORTS HD (backup)
 http://103.159.4.38:9191/CH9-SP9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" Sports", 104. TEN SPORTS HD
-http://103.159.4.38:9191/CH10-SP10/tracks-v1a1/mono.m3u8
 
 
-********Indian Bangla******
+--------------------------------------------------------------------------------------------
 
-
-#EXTINF:-1 group-title=" Indian Bangla",Sony Aath
-http://223.29.212.14:8080/roarzone/33/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla", sony aath (Backup)
-http://103.159.4.38:9191/CH22-INBD1/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla",Star Jalsha HD
-http://223.29.212.14:8080/roarzone/30/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD (backup)
-http://103.159.4.38:9191/CH24-INBD3/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla",Zee Bangla SD 01
-http://223.29.212.14:8080/roarzone/34/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD (backup)
-http://103.159.4.38:9191/CH23-INBD2/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla",Jalsha Movies HD.
-http://223.29.212.14:8080/roarzone/31/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla",Colors Bangla
-http://223.29.212.14:8080/roarzone/66/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD (backup)
-http://103.159.4.38:9191/CH25-INBD4/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla",Zee Bangla Cinema HD
-http://223.29.212.14:8080/roarzone/29/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla",zee bangla cinema(Backup)
-http://103.159.4.38:9191/CH26-INBD5/index.m3u8
-
-
-********Music******
-
-
-#EXTINF:-1 group-title="Music",Bangla Talkis
-http://223.29.212.14:8080/roarzone/91/index.m3u8
-#EXTINF:-1 group-title="Music", Sangit Bangla 
-http://223.29.212.14:8080/roarzone/96/index.m3u8
-#EXTINF:-1 group-title=" Indian Bangla",songit bangla(backup)
-http://103.159.4.38:9191/CH27-INBD6/index.m3u8
-#EXTINF:-1 group-title="Bangla",GB Gann Bangla
-http://223.29.212.14:8080/roarzone/58/index.m3u8
-#EXTINF:-1 group-title="Bangla",gan bangla (backup)
-http://103.159.4.38:9191/CH28-INBD7/index.m3u8
-#EXTINF:-1 group-title="Music",Zoom
-http://223.29.212.14:8080/roarzone/60/index.m3u8
-#EXTINF:-1 group-title="Music",Zing
-http://223.29.212.14:8080/roarzone/93/index.m3u8
-#EXTINF:-1 group-title="Music",Zalwa
-http://223.29.212.14:8080/roarzone/98/index.m3u8
-#EXTINF:-1 group-title="Music",MTV
-http://223.29.212.14:8080/roarzone/46/index.m3u8
-
-
-********Hindi Moives******
-
-
-
-#EXTINF:-1 group-title=" Hindi Movies",Star Gold Hd
-http://223.29.212.14:8080/roarzone/75/index.m3u8
-#EXTINF:-1 group-title=" Hindi Movies",Zee Cinema Hd
-http://223.29.212.14:8080/roarzone/76/index.m3u8
-#EXTINF:-1 group-title=" Hindi Movies",Zee Bollyuwod
-http://223.29.212.14:8080/roarzone/94/index.m3u8
-#EXTINF:-1 group-title=" Hindi Movies",Sony Max
-http://223.29.212.14:8080/roarzone/77/index.m3u8
-#EXTINF:-1 group-title=" Hindi Movies",& Picture HD
-http://223.29.212.14:8080/roarzone/100/index.m3u8
-#EXTINF:-1 group-title=" Hindi Movies",Zee Action
-http://223.29.212.14:8080/roarzone/69/index.m3u8
-
-
-
-
-********Hindi******
-
-
-#EXTINF:-1 group-title="Hindi",Sony HD
-http://223.29.212.14:8080/roarzone/38/index.m3u8
-#EXTINF:-1 group-title="Hindi",Star Plus
-http://223.29.212.14:8080/roarzone/67/index.m3u8
-#EXTINF:-1 group-title="Hindi",Colors HD
-http://223.29.212.14:8080/roarzone/68/index.m3u8
-#EXTINF:-1 group-title="Hindi",Zee TV HD
-http://223.29.212.14:8080/roarzone/40/index.m3u8
-#EXTINF:-1 group-title="Hindi",& TV
-http://223.29.212.14:8080/roarzone/74/index.m3u8
-
-
-
-
-********Geographic******
-
-
-#EXTINF:-1 group-title="Geographic", HD World
-http://223.29.212.14:8080/roarzone/43/index.m3u8
-#EXTINF:-1 group-title="Geographic", HD World (backup)
-http://103.159.4.38:9191/CH44-ENG2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geographic",BBC Earth HD
-http://223.29.212.14:8080/roarzone/44/index.m3u8
-#EXTINF:-1 group-title="Geographic",National Geographic HD
-http://223.29.212.14:8080/roarzone/35/index.m3u8
-#EXTINF:-1 group-title="Geographic",National Geographic HD(backup)
-http://103.159.4.38:9191/CH43-ENG1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geographic", 
-http://223.29.212.14:8080/roarzone/36/index.m3u8
-
-
-********Cartoon******
-
-
-#EXTINF:-1 group-title="Cartoon",CN
-http://223.29.212.14:8080/roarzone/79/index.m3u8
-#EXTINF:-1 group-title="Cartoon",CN
-http://223.29.212.14:8080/roarzone/80/index.m3u8
-#EXTINF:-1 group-title="Cartoon",NICK
-http://223.29.212.14:8080/roarzone/55/index.m3u8
-
-
-#EXTINF:-1 group-title=" Indian Bangla", 117. DISNEY CHANNEL
-http://103.159.4.38:9191/CH45-ENG3/tracks-v1a1/mono.m3u8
-
-
-
-********English******
-
-
-#EXTINF:-1 group-title="English",Star Movies HD
-http://223.29.212.14:8080/roarzone/39/index.m3u8
-#EXTINF:-1 group-title="English",Sony Pix HD
-http://223.29.212.14:8080/roarzone/41/index.m3u8
-#EXTINF:-1 group-title="English",Eng Moive
-http://223.29.212.14:8080/roarzone/42/index.m3u8
-#EXTINF:-1 group-title="English",Moives Now HD
-http://223.29.212.14:8080/roarzone/45/index.m3u8
-
-
-
-********BanglaDeshi******
-
-
-
-#EXTINF:-1 group-title="Bangla", G TV
-http://223.29.212.14:8080/roarzone/1/index.m3u8
-#EXTINF:-1 group-title="Bangla", Atn Bangla
-http://223.29.212.14:8080/roarzone/2/index.m3u8
-#EXTINF:-1 group-title="Bangla", Bangla Vision
-http://223.29.212.14:8080/roarzone/3/index.m3u8
-#EXTINF:-1 group-title="Bangla",Chanel 9
-http://223.29.212.14:8080/roarzone/4/index.m3u8
-#EXTINF:-1 group-title="Bangla",Chanel 24
-http://223.29.212.14:8080/roarzone/5/index.m3u8
-#EXTINF:-1 group-title="Bangla",Chanel I
-http://223.29.212.14:8080/roarzone/6/index.m3u8
-#EXTINF:-1 group-title="Bangla",Independent Tv
-http://223.29.212.14:8080/roarzone/12/index.m3u8
-#EXTINF:-1 group-title="Bangla",Somoy Tv
-http://223.29.212.14:8080/roarzone/17/index.m3u8
-#EXTINF:-1 group-title="Bangla",Jamuna Tv
-http://223.29.212.14:8080/roarzone/13/index.m3u8
-#EXTINF:-1 group-title="Bangla",DBC NEWS
-http://223.29.212.14:8080/roarzone/7/index.m3u8
-#EXTINF:-1 group-title="Bangla",News 24
-http://223.29.212.14:8080/roarzone/18/index.m3u8
-#EXTINF:-1 group-title="Bangla",71 Tv
-http://223.29.212.14:8080/roarzone/11/index.m3u8
-#EXTINF:-1 group-title="Bangla",R Tv
-http://223.29.212.14:8080/roarzone/14/index.m3u8
-#EXTINF:-1 group-title="Bangla",Ananda Tv
-http://223.29.212.14:8080/roarzone/16/index.m3u8
-#EXTINF:-1 group-title="Bangla",SA Tv
-http://223.29.212.14:8080/roarzone/15/index.m3u8
-#EXTINF:-1 group-title="Bangla",Dipto
-http://223.29.212.14:8080/roarzone/8/index.m3u8
-#EXTINF:-1 group-title="Bangla",Duronto
-http://223.29.212.14:8080/roarzone/10/index.m3u8
-#EXTINF:-1 group-title="Bangla",Moive Bangla
-http://223.29.212.14:8080/roarzone/19/index.m3u8
-#EXTINF:-1 group-title="Bangla",Mohona
-http://223.29.212.14:8080/roarzone/48/index.m3u8
-#EXTINF:-1 group-title="Bangla",ATN News
-http://223.29.212.14:8080/roarzone/49/index.m3u8
-#EXTINF:-1 group-title="Bangla",Maasranga TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8
-#EXTINF:-1 group-title="Bangla",N TV
-http://223.29.212.14:8080/roarzone/54/index.m3u8
-#EXTINF:-1 group-title="Bangla",My Tv
-http://223.29.212.14:8080/roarzone/56/index.m3u8
-#EXTINF:-1 group-title="Bangla",Sports
-http://223.29.212.14:8080/roarzone/57/index.m3u8
-#EXTINF:-1 group-title="Bangla",Nagorik Tv
-http://223.29.212.14:8080/roarzone/59/index.m3u8
-#E#EXTINF:-1 group-title="Bangla",Baishakhi Tv
-http://223.29.212.14:8080/roarzone/61/index.m3u8
-#E#EXTINF:-1 group-title="Bangla",Desh Tv
-http://223.29.212.14:8080/roarzone/62/index.m3u8
-#EXTINF:-1 group-title="Bangla",ATN ISLAMIC
-http://223.29.212.14:8080/roarzone/63/index.m3u8
-#EXTINF:-1 group-title="Bangla",Ekushe Tv
-http://223.29.212.14:8080/roarzone/65/index.m3u8
-##EXTINF:-1 group-title="Bangla",ATN Music 
-http://223.29.212.14:8080/roarzone/82/index.m3u8
-#EXTINF:-1 group-title="Bangla",BTV World 
-http://223.29.212.14:8080/roarzone/84/index.m3u8
-#E#EXTINF:-1 group-title="Bangla",BTV World 
-http://223.29.212.14:8080/roarzone/85/index.m3u8
-#EXTINF:-1 group-title="Bangla",BTV Sangsad
-http://223.29.212.14:8080/roarzone/88/index.m3u8
-
-
-********Others******
-
-
-#EXTINF:-1 group-title="Others",Peace tv
-http://223.29.212.14:8080/roarzone/37/index.m3u8
-#EXTINF:-1 group-title="Others",ARY
-http://223.29.212.14:8080/roarzone/9/index.m3u8
-#EXTINF:-1 group-title="Others",Al Zazera
-http://223.29.212.14:8080/roarzone/89/index.m3u8
-
-
-
-******outhers BDIX******
-
-
-
-#EXTINF:-1 group-title="Cartoon", 124. CNN
-http://103.159.4.38:9191/CH46-ENG4/index.m3u8
 #EXTINF:-1 group-title="Bangla", 04. EKUSHEY TV
 http://103.159.4.38:9191/CH19-BD8/index.m3u8
 
@@ -288,12 +35,152 @@ http://103.159.4.38:9191/CH19-BD8/index.m3u8
 http://103.159.4.38:9191/CH17-BD6/index.m3u8
 
 
-
 #EXTINF:-1 group-title="Bangla", 27. NEWS 24 HD
 http://103.159.4.38:9191/CH16-BD5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/06/satv-resized.png" group-title="Bangla", SA TV
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", Bangla TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", MY TV
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", Anando TV
+http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="Bangla", Asian TV
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla", Channel 9
+http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", Mohona
+http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", Deepto TV
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", Movie Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/p0I5dr0.png",Channel I HD
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/pTJSGtj.png",Boishakhi TV
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",Banglavision HD
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/bahWhBG.png",My TV BD
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/4imblNY.jpg",Mohona TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kDmkexe.png",Bijoy TV
+http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Shomoy TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png",Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",Maasranga HD
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/fj8nxOw.png",Channel 9 HD
+http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/MmhxR5E.png",Channel 24 HD
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/fxq0pV2.png",Asian TV
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Jo7wzmn.png",Gaan Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/ds3aThu.jpg",Jamuna TV
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/tPZKfLr.png",Deepto TV HD
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/sekOPL6.png",JagoNews24 Tv
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/K43LsMQ.png",Bangla TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/h5FhOWT.png",Ananda TV
+http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HG69Dgb.png" group-title="Bangla", Bangla Talkies
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+XTINF:-1 group-title=" Indian Bangla", sony aath (Backup)
+http://103.159.4.38:9191/CH22-INBD1/index.m3u8
+
+XTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD (backup)
+http://103.159.4.38:9191/CH24-INBD3/index.m3u8
+
+#EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD (backup)
+http://103.159.4.38:9191/CH23-INBD2/index.m3u8
+
+#EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD (backup)
+http://103.159.4.38:9191/CH25-INBD4/index.m3u8
+
+#EXTINF:-1 group-title=" Indian Bangla",songit bangla(backup)
+http://103.159.4.38:9191/CH27-INBD6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC", Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 group-title="Bangla",gan bangla (backup)
+http://103.159.4.38:9191/CH28-INBD7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC", Music India
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC", ICC_9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dpf1I1U.png" group-title="Documentary", TravelXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Geographic",National Geographic HD(backup)
+http://103.159.4.38:9191/CH43-ENG1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Cartoon", 124. CNN
+http://103.159.4.38:9191/CH46-ENG4/index.m3u8
 
 
 #EXTINF:-1 group-title=" outhers", Dal zazera
 http://103.159.4.38:9191/CH47-ENG5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title=" outhers", rta
 http://103.159.4.38:9191/CH48-ENG6/tracks-v1a1/mono.m3u8
