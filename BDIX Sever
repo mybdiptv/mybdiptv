@@ -4,6 +4,9 @@
 #EXTINF:-1 group-title=" Sports",T Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
+#EXTINF:-1 group-title=" Sports",T Sports
+http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+
 #EXTINF:-1 group-title=" Sports",T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
 
@@ -33,6 +36,10 @@ http://103.159.4.38:9191/CH9-SP9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title=" Sports", 103.SS SPORTS HD
 http://194.233.77.24:5866/hls/shlive3.m3u8
+
+#EXTINF:-1 group-title=" Sports", 103.SPO HD
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+
 
 --------------------------------------------------------------------------------------------
 
@@ -168,6 +175,10 @@ http://103.16.24.54:8080/channel4/index.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD (backup)
 http://103.159.4.38:9191/CH25-INBD4/index.m3u8
+
+
+#EXTINF:-1 group-title=" Indian Bangla", 36. Jalsha Moives HD
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/QoRtp87p2G0C0u4uY3OKh2Ld7Q4cahx4OAZJioF7XBaDjIvMCD-kWhB_YPeka6wWlBCEqmDssRABbFipxLT48g/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title=" Indian Bangla",songit bangla(backup)
 http://103.159.4.38:9191/CH27-INBD6/index.m3u8
