@@ -10,11 +10,17 @@ http://iptv.hplink.com.bd/hp-tv.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1 (Backup)
 http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Sports",STAR SPORTS 1
+http://103.16.24.54:8080/channel1/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Gazi Tv (Backup)
 http://103.159.4.38:9191/CH2-SP2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",SONY SIX(Backup)
 http://103.159.4.38:9191/CH6-SP5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY SIX
+http://103.16.24.54:8080/channel7/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TEN 1 (backup)
 http://103.159.4.38:9191/CH7-SP7/tracks-v1a1/mono.m3u8
@@ -147,8 +153,16 @@ http://103.159.4.38:9191/CH22-INBD1/index.m3u8
 XTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD (backup)
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 
+
+XTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
+http://103.16.24.54:8080/channel5/index.m3u8
+
 #EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD (backup)
 http://103.159.4.38:9191/CH23-INBD2/index.m3u8
+
+
+#EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD
+http://103.16.24.54:8080/channel4/index.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD (backup)
 http://103.159.4.38:9191/CH25-INBD4/index.m3u8
@@ -162,6 +176,16 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 #EXTINF:-1 group-title="Bangla",gan bangla (backup)
 http://103.159.4.38:9191/CH28-INBD7/index.m3u8
 
+#EXTINF:-1 group-title="Hindi",Star Plus Hd
+http://103.16.24.54:8080/channel3/index.m3u8
+
+#EXTINF:-1 group-title="Hindi",Star Varat Hd
+http://103.16.24.54:8080/channel8/index.m3u8
+
+
+#EXTINF:-1 group-title="Hindi",& Picture Hd
+http://103.16.24.54:8080/channel6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC", Music India
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
@@ -174,6 +198,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geographic",National Geographic HD(backup)
 http://103.159.4.38:9191/CH43-ENG1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Eng",Sony Pix(backup)
+http://103.16.24.54:8080/channel2/index.m3u8
 
 #EXTINF:-1 group-title="Cartoon", 124. CNN
 http://103.159.4.38:9191/CH46-ENG4/index.m3u8
