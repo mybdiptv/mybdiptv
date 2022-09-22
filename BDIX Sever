@@ -178,7 +178,7 @@ http://103.159.4.38:9191/CH25-INBD4/index.m3u8
 
 
 #EXTINF:-1 group-title=" Indian Bangla", 36. Jalsha Moives HD
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/QoRtp87p2G0C0u4uY3OKh2Ld7Q4cahx4OAZJioF7XBaDjIvMCD-kWhB_YPeka6wWlBCEqmDssRABbFipxLT48g/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://tv.googledrivelinks.com/live.php?c=Jalsa_Movies_HD&q=400&e=.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla",songit bangla(backup)
 http://103.159.4.38:9191/CH27-INBD6/index.m3u8
@@ -198,6 +198,9 @@ http://103.16.24.54:8080/channel8/index.m3u8
 
 #EXTINF:-1 group-title="Hindi",& Picture Hd
 http://103.16.24.54:8080/channel6/index.m3u8
+
+#EXTINF:-1 group-title="Hindi",mOIVES OK
+https://tv.googledrivelinks.com/live.php?c=Movies_OK&q=400&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC", Music India
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
