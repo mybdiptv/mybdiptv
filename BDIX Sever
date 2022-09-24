@@ -293,6 +293,12 @@ http://103.159.4.38:9191/CH25-INBD4/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla", 36. Jalsha Moives HD
 http://103.99.249.107:81/play/a02w
 
+#EXTINF:-1,25-Jalsha Movies HD
+http://103.99.249.107:81/play/a00k
+
+#EXTINF:-1,INCL_Zee Bangla Cinema
+http://103.99.249.107:81/play/a039
+
 #EXTINF:-1 group-title=" Indian Bangla",songit bangla(backup)
 http://103.159.4.38:9191/CH27-INBD6/index.m3u8
 
@@ -394,8 +400,6 @@ http://103.99.249.107:81/play/a023
 http://103.99.249.107:81/play/a013
 #EXTINF:-1,24-KTV HD
 http://103.99.249.107:81/play/a02g
-#EXTINF:-1,25-Jalsha Movies HD
-http://103.99.249.107:81/play/a00k
 #EXTINF:-1,26-MN+ HD
 http://103.99.249.107:81/play/a00g
 #EXTINF:-1,27-Movies Active HD
@@ -521,6 +525,10 @@ http://103.99.249.107:81/play/a038
 #EXTINF:-1,INCL_DISCOVERY
 http://103.99.249.107:81/play/a02v
 
+
+
+
+
 #EXTINF:-1,INCL_NGC BANGLA
 http://103.99.249.107:81/play/a033
 #EXTINF:-1,INCL_NICK BANGLA
@@ -557,8 +565,7 @@ http://103.99.249.107:81/play/a02z
 http://103.99.249.107:81/play/a036
 #EXTINF:-1,INCL_ZEE TV 
 http://103.99.249.107:81/play/a03a
-#EXTINF:-1,INCL_Zee Bangla Cinema
-http://103.99.249.107:81/play/a039
+
 #EXTINF:-1,IPTV- BeiN Sports 1 EN
 http://103.99.249.107:81/play/a07q
 #EXTINF:-1,IPTV- Brat TV HD
