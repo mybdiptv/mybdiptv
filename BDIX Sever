@@ -199,6 +199,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 http://103.159.4.38:9191/CH22-INBD1/index.m3u8
 
 
+#EXTINF:-1 group-title=" Indian Bangla", sun Bangla (Backup)
+http://103.121.14.18/hls/sunbangla.m3u8
+
+
 #EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
 http://103.16.24.54:8080/channel5/index.m3u8
 
@@ -233,7 +237,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://103.159.4.38:9191/CH28-INBD7/index.m3u8
 
 
-
+#EXTINF:-1 group-title="Hindi",Colors Cinplex
+http://103.121.14.18/hls/colorscineplex.m3u8
 
 
 #EXTINF:-1 group-title=" Sports",sony max
