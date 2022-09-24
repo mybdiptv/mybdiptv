@@ -210,11 +210,11 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 
 
-XTINF:-1 group-title=" Indian Bangla", sony aath (Backup)
+#EXTINF:-1 group-title=" Indian Bangla", sony aath (Backup)
 http://103.159.4.38:9191/CH22-INBD1/index.m3u8
 
 
-XTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
+#EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
 http://103.16.24.54:8080/channel5/index.m3u8
 
 
@@ -224,7 +224,7 @@ http://172.16.128.2:8081/live/sky2006/chunks.m3u8
 #EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD (backup)
 http://103.159.4.38:9191/CH23-INBD2/index.m3u8
 
-XTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD (backup)
+#EXTINF:-1 group-title=" Indian Bangla",STAR JALSHA
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 
 
