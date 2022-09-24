@@ -23,6 +23,8 @@ http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 group-title=" Sports",T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
 
+#EXTINF:-1 group-title=" Sports",gazi tv
+http://103.121.14.18/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 group-title=" Sports",gazi tv
 http://172.16.128.2:8081/live/sky2003/chunks.m3u8
@@ -118,6 +120,9 @@ http://172.16.128.2:8081/live/sky2004/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla", 27. NEWS 24 HD
 http://103.159.4.38:9191/CH16-BD5/index.m3u8
+
+#EXTINF:-1 group-title="Bangla", 27. Masranga (backup)
+http://103.121.14.18/hls/masranga.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -263,6 +268,7 @@ http://103.159.4.38:9191/CH22-INBD1/index.m3u8
 http://103.121.14.18/hls/sunbangla.m3u8
 
 
+
 #EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
 http://103.16.24.54:8080/channel5/index.m3u8
 
@@ -299,6 +305,15 @@ http://103.159.4.38:9191/CH28-INBD7/index.m3u8
 
 #EXTINF:-1 group-title="Hindi",Colors Cinplex
 http://103.121.14.18/hls/colorscineplex.m3u8
+
+
+#EXTINF:-1 group-title="Hindi",Sun Tv
+http://103.121.14.18/hls/zee-bangla-cinema.m3u8
+
+
+
+#EXTINF:-1 group-title="Hindi",UTV action
+http://103.121.14.18/hls/utvaction.m3u8
 
 
 #EXTINF:-1 group-title=" Sports",sony max
