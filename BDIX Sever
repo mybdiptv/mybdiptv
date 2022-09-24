@@ -291,7 +291,7 @@ http://103.159.4.38:9191/CH25-INBD4/index.m3u8
 
 
 #EXTINF:-1 group-title=" Indian Bangla", 36. Jalsha Moives HD
-https://tv.googledrivelinks.com/live.php?c=Jalsa_Movies_HD&q=400&e=.m3u8
+http://103.99.249.107:81/play/a02w
 
 #EXTINF:-1 group-title=" Indian Bangla",songit bangla(backup)
 http://103.159.4.38:9191/CH27-INBD6/index.m3u8
@@ -520,8 +520,7 @@ http://103.99.249.107:81/play/a02x
 http://103.99.249.107:81/play/a038
 #EXTINF:-1,INCL_DISCOVERY
 http://103.99.249.107:81/play/a02v
-#EXTINF:-1,INCL_JALSHA MOVIES
-http://103.99.249.107:81/play/a02w
+
 #EXTINF:-1,INCL_NGC BANGLA
 http://103.99.249.107:81/play/a033
 #EXTINF:-1,INCL_NICK BANGLA
