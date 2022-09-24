@@ -10,11 +10,28 @@ http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 group-title=" Sports",T Sports (Akash Digital)
 http://iptv.hplink.com.bd/hp-tv.m3u8
 
+
+#EXTINF:-1 group-title=" Sports",gazi tv
+http://172.16.128.2:8081/live/sky2003/chunks.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",Gtv
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1 (Backup)
 http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 http://103.16.24.54:8080/channel1/index.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",star sports select 1
+http://172.16.128.2:8081/live/sky1009/chunks.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",star sports 2
+http://172.16.128.2:8081/live/sky1012/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports",Gazi Tv (Backup)
 http://103.159.4.38:9191/CH2-SP2/tracks-v1a1/mono.m3u8
@@ -26,6 +43,10 @@ http://103.159.4.38:9191/CH6-SP5/tracks-v1a1/mono.m3u8
 http://103.16.24.54:8080/channel7/index.m3u8
 
 
+#EXTINF:-1 group-title=" Sports",Sony six
+http://172.16.128.2:8081/live/sky1008/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Sports",SONY SIX
 https://engbishal.ml/PakvsEng.m3u8
 
@@ -35,11 +56,19 @@ http://116.204.149.11:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Sports",TEN 1 (backup)
 http://103.159.4.38:9191/CH7-SP7/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 group-title=" Sports",ten 1
+http://172.16.128.2:8081/live/sky1011/chunks.m3u8
+
 #EXTINF:-1 group-title="Sports",TEN 2 (backup)
 http://103.159.4.38:9191/CH8-SP8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title=" Sports", 103. PTV SPORTS HD (backup)
 http://103.159.4.38:9191/CH9-SP9/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",ptv
+http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 
 #EXTINF:-1 group-title=" Sports", 103.SS SPORTS HD
 http://194.233.77.24:5866/hls/shlive3.m3u8
@@ -55,6 +84,11 @@ http://103.159.4.38:9191/CH19-BD8/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", 26. DBC NEWS HD
 http://103.159.4.38:9191/CH17-BD6/index.m3u8
+
+
+
+#EXTINF:-1 group-title=" Sports",somoy tv
+http://172.16.128.2:8081/live/sky2004/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Bangla", 27. NEWS 24 HD
@@ -173,6 +207,11 @@ http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 XTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
 http://103.16.24.54:8080/channel5/index.m3u8
 
+
+
+#EXTINF:-1 group-title=" Sports",star jalsha
+http://172.16.128.2:8081/live/sky2006/chunks.m3u8
+
 #EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD (backup)
 http://103.159.4.38:9191/CH23-INBD2/index.m3u8
 
@@ -195,6 +234,14 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 
 #EXTINF:-1 group-title="Bangla",gan bangla (backup)
 http://103.159.4.38:9191/CH28-INBD7/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title=" Sports",sony max
+http://172.16.128.2:8081/live/sky2005/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Hindi",Star Plus Hd
 http://103.16.24.54:8080/channel3/index.m3u8
