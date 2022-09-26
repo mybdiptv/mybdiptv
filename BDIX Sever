@@ -618,40 +618,40 @@ http://103.99.249.107:81/play/a02f
 -----------------Internet Tv--------------
 
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,INDEPENDENT
 http://103.121.14.18/hls/indepen.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,SOMOY TV
 http://103.121.14.18/hls/somoy.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,GAZI TV
 http://103.121.14.18/hls/Gazi-TV.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,NEXUS
 http://103.121.14.18/hls/nexus.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,CHANEL I
 http://103.121.14.18/hls/channeli.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,TRAVEL XP
 http://103.121.14.18/hls/travelxp.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,JAMUNA
 http://103.121.14.18/hls/jamuna.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,NAGORIK
 http://103.121.14.18/hls/nagorik.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,ATN
 http://103.121.14.18/hls/atn.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,DURANTA
 http://103.121.14.18/hls/duranta.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,BANGLAVISUION
 http://103.121.14.18/hls/banglavision.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,GAAN BANGLA
 http://103.121.14.18/hls/gb.m3u8
 
 
@@ -700,91 +700,91 @@ http://103.121.14.18/hls/bindass.m3u8
 #EXTINF:-1,utvaction(internet tv)
 http://103.121.14.18/hls/utvaction.m3u8
 
-.#EXTINF:-1,INTERNET TV
+.#EXTINF:-1,ZOOM
 http://103.121.14.18/hls/zoom.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,& PICTURE
 http://103.121.14.18/hls/andpictures.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,COLORS HD
 http://103.121.14.18/hls/colore-tv-hd.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,ZEE CINEMA HD
 http://103.121.14.18/hls/zeecinemahd.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,STAR PLUS
 http://103.121.14.18/hls/starplus.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,COLORS CINPLEX
 http://103.121.14.18/hls/colorscineplex.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,STAR GOLD 2
 http://103.121.14.18/hls/stargold2hd.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,SONY
 http://103.121.14.18/hls/sonyen.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,SONY TEN
 http://103.121.14.18/hls/sonyen.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,SONY MAX HD
 http://103.121.14.18/hls/sony-maxhd.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,ZEETV
 http://103.121.14.18/hls/zeetv.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,DISCOVRY SCINCE
 http://103.121.14.18/hls/dis-science.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,STAR GOLD HD
 http://103.121.14.18/hls/stargold.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,DHIN
 http://103.121.14.18/hls/dhin.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,9XM
 http://103.121.14.18/hls/9xm.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,MASTI
 http://103.121.14.18/hls/masti.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,BOJPURI
 http://103.121.14.18/hls/bhojpuri.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,SONY SIX
 http://103.121.14.18/hls/sonysix.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,EUROSPORTS
 http://103.121.14.18/hls/euro.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,STAR SPORTS 1 SELECT HD
 http://103.121.14.18/hls/Star_Sport_Select1HD.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,STAR SPORTS 1 HD
 http://103.121.14.18/hls/stersports1hd.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,STAR SPORTS 2
 http://103.121.14.18/hls/starsports2.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,SONY TEN 3
 http://103.121.14.18/hls/sonyten3.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,STAR SPORTS SELECT 2
 http://103.121.14.18/hls/select2.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,TEN 2
 http://103.121.14.18/hls/sonyten2.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,SONY TEN 1
 http://103.121.14.18/hls/sonyten1.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,T SPORTS
 http://103.121.14.18/hls/t-sports.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,TEN SPORTS
 http://103.121.14.18/hls/ten.m3u8
 
-#EXTINF:-1,INTERNET TV
+#EXTINF:-1,PTV
 http://103.121.14.18/hls/ptv.m3u8
 
 
