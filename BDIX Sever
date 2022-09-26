@@ -618,173 +618,173 @@ http://103.99.249.107:81/play/a02f
 -----------------Internet Tv--------------
 
 
-#EXTINF:-1,INDEPENDENT
+#EXTINF:-1 group-title=" Internet Tv",INDEPENDENT
 http://103.121.14.18/hls/indepen.m3u8
 
-#EXTINF:-1,SOMOY TV
+#EXTINF:-1 group-title=" Internet Tv",SOMOY TV
 http://103.121.14.18/hls/somoy.m3u8
 
-#EXTINF:-1,GAZI TV
+#EXTINF:-1 group-title=" Internet Tv",GAZI TV
 http://103.121.14.18/hls/Gazi-TV.m3u8
 
-#EXTINF:-1,NEXUS
+#EXTINF:-1 group-title=" Internet Tv",NEXUS
 http://103.121.14.18/hls/nexus.m3u8
 
-#EXTINF:-1,CHANEL I
+#EXTINF:-1 group-title=" Internet Tv",CHANEL I
 http://103.121.14.18/hls/channeli.m3u8
 
-#EXTINF:-1,TRAVEL XP
+#EXTINF:-1 group-title=" Internet Tv",TRAVEL XP
 http://103.121.14.18/hls/travelxp.m3u8
 
-#EXTINF:-1,JAMUNA
+#EXTINF:-1 group-title=" Internet Tv",JAMUNA
 http://103.121.14.18/hls/jamuna.m3u8
 
-#EXTINF:-1,NAGORIK
+#EXTINF:-1 group-title=" Internet Tv",NAGORIK
 http://103.121.14.18/hls/nagorik.m3u8
 
-#EXTINF:-1,ATN
+#EXTINF:-1 group-title=" Internet Tv",ATN
 http://103.121.14.18/hls/atn.m3u8
 
-#EXTINF:-1,DURANTA
+#EXTINF:-1 group-title=" Internet Tv",DURANTA
 http://103.121.14.18/hls/duranta.m3u8
 
-#EXTINF:-1,BANGLAVISUION
+#EXTINF:-1 group-title=" Internet Tv",BANGLAVISUION
 http://103.121.14.18/hls/banglavision.m3u8
 
-#EXTINF:-1,GAAN BANGLA
+#EXTINF:-1 group-title=" Internet Tv",GAAN BANGLA
 http://103.121.14.18/hls/gb.m3u8
 
 
 
 
-#EXTINF:-1,Sunbangla (internet tv)
+#EXTINF:-1 group-title=" Internet Tv",Sunbangla (internet tv)
 http://103.121.14.18/hls/sunbangla.m3u8
 
-#EXTINF:-1,jalshamovies (internet tv)
+#EXTINF:-1 group-title=" Internet Tv",jalshamovies (internet tv)
 http://103.121.14.18/hls/jalshamovies.m3u8
 
-#EXTINF:-1,colore-bangla-cinema (internet tv)
+#EXTINF:-1 group-title=" Internet Tv",colore-bangla-cinema (internet tv)
 http://103.121.14.18/hls/colore-bangla-cinema.m3u8
 
-#EXTINF:-1,colorsbangla (internet tv)
+#EXTINF:-1 group-title=" Internet Tv",colorsbangla (internet tv)
 http://103.121.14.18/hls/colorsbangla.m3u8
 
-#EXTINF:-1,enterr10(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",enterr10(internet tv)
 http://103.121.14.18/hls/enterr10.m3u8
 
-#EXTINF:-1,akash8(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",akash8(internet tv)
 http://103.121.14.18/hls/akash.m3u8
 
-#EXTINF:-1,zeebanglahd(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",zeebanglahd(internet tv)
 http://103.121.14.18/hls/zeebanglahd.m3u8
 
-#EXTINF:-1,starjalsha(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",starjalsha(internet tv)
 http://103.121.14.18/hls/starjalsha.m3u8
 
-.#EXTINF:-1,sangeetbangl(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",sangeetbangl(internet tv)
 http://103.121.14.18/hls/sangeetbangla.m3u8
 
-.#EXTINF:-1,Sony_Aath(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",Sony_Aath(internet tv)
 http://103.121.14.18/hls/Sony_Aath.m3u8
 
-.#EXTINF:-1,khushboo(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",khushboo(internet tv)
 http://103.121.14.18/hls/khushboo.m3u8
 
-.#EXTINF:-1,zee-bangla-cinema(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",zee-bangla-cinema(internet tv)
 http://103.121.14.18/hls/zee-bangla-cinema.m3u8
 
-.#EXTINF:-1,bindass(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",bindass(internet tv)
 http://103.121.14.18/hls/bindass.m3u8
 
 
-#EXTINF:-1,utvaction(internet tv)
+#EXTINF:-1 group-title=" Internet Tv",utvaction(internet tv)
 http://103.121.14.18/hls/utvaction.m3u8
 
-.#EXTINF:-1,ZOOM
+#EXTINF:-1 group-title=" Internet Tv",ZOOM
 http://103.121.14.18/hls/zoom.m3u8
 
-#EXTINF:-1,& PICTURE
+#EXTINF:-1 group-title=" Internet Tv",& PICTURE
 http://103.121.14.18/hls/andpictures.m3u8
 
-#EXTINF:-1,COLORS HD
+#EXTINF:-1 group-title=" Internet Tv",COLORS HD
 http://103.121.14.18/hls/colore-tv-hd.m3u8
 
-#EXTINF:-1,ZEE CINEMA HD
+#EXTINF:-1 group-title=" Internet Tv",ZEE CINEMA HD
 http://103.121.14.18/hls/zeecinemahd.m3u8
 
-#EXTINF:-1,STAR PLUS
+#EXTINF:-1 group-title=" Internet Tv",STAR PLUS
 http://103.121.14.18/hls/starplus.m3u8
 
-#EXTINF:-1,COLORS CINPLEX
+#EXTINF:-1 group-title=" Internet Tv",COLORS CINPLEX
 http://103.121.14.18/hls/colorscineplex.m3u8
 
-#EXTINF:-1,STAR GOLD 2
+#EXTINF:-1 group-title=" Internet Tv",STAR GOLD 2
 http://103.121.14.18/hls/stargold2hd.m3u8
 
-#EXTINF:-1,SONY
+#EXTINF:-1 group-title=" Internet Tv",SONY
 http://103.121.14.18/hls/sonyen.m3u8
 
-#EXTINF:-1,SONY TEN
+#EXTINF:-1 group-title=" Internet Tv",SONY TEN
 http://103.121.14.18/hls/sonyen.m3u8
 
-#EXTINF:-1,SONY MAX HD
+#EXTINF:-1 group-title=" Internet Tv",SONY MAX HD
 http://103.121.14.18/hls/sony-maxhd.m3u8
 
-#EXTINF:-1,ZEETV
+#EXTINF:-1 group-title=" Internet Tv",ZEETV
 http://103.121.14.18/hls/zeetv.m3u8
 
-#EXTINF:-1,DISCOVRY SCINCE
+#EXTINF:-1 group-title=" Internet Tv",DISCOVRY SCINCE
 http://103.121.14.18/hls/dis-science.m3u8
 
-#EXTINF:-1,STAR GOLD HD
+#EXTINF:-1 group-title=" Internet Tv",STAR GOLD HD
 http://103.121.14.18/hls/stargold.m3u8
 
-#EXTINF:-1,DHIN
+#EXTINF:-1 group-title=" Internet Tv",DHIN
 http://103.121.14.18/hls/dhin.m3u8
 
-#EXTINF:-1,9XM
+#EXTINF:-1 group-title=" Internet Tv",9XM
 http://103.121.14.18/hls/9xm.m3u8
 
-#EXTINF:-1,MASTI
+#EXTINF:-1 group-title=" Internet Tv",MASTI
 http://103.121.14.18/hls/masti.m3u8
 
-#EXTINF:-1,BOJPURI
+#EXTINF:-1 group-title=" Internet Tv",BOJPURI
 http://103.121.14.18/hls/bhojpuri.m3u8
 
-#EXTINF:-1,SONY SIX
+#EXTINF:-1 group-title=" Internet Tv",SONY SIX
 http://103.121.14.18/hls/sonysix.m3u8
 
-#EXTINF:-1,EUROSPORTS
+#EXTINF:-1 group-title=" Internet Tv",EUROSPORTS
 http://103.121.14.18/hls/euro.m3u8
 
-#EXTINF:-1,STAR SPORTS 1 SELECT HD
+#EXTINF:-1 group-title=" Internet Tv",STAR SPORTS 1 SELECT HD
 http://103.121.14.18/hls/Star_Sport_Select1HD.m3u8
 
-#EXTINF:-1,STAR SPORTS 1 HD
+#EXTINF:-1 group-title=" Internet Tv",STAR SPORTS 1 HD
 http://103.121.14.18/hls/stersports1hd.m3u8
 
-#EXTINF:-1,STAR SPORTS 2
+#EXTINF:-1 group-title=" Internet Tv",STAR SPORTS 2
 http://103.121.14.18/hls/starsports2.m3u8
 
-#EXTINF:-1,SONY TEN 3
+#EXTINF:-1 group-title=" Internet Tv",SONY TEN 3
 http://103.121.14.18/hls/sonyten3.m3u8
 
-#EXTINF:-1,STAR SPORTS SELECT 2
+#EXTINF:-1 group-title=" Internet Tv",STAR SPORTS SELECT 2
 http://103.121.14.18/hls/select2.m3u8
 
-#EXTINF:-1,TEN 2
+#EXTINF:-1 group-title=" Internet Tv",TEN 2
 http://103.121.14.18/hls/sonyten2.m3u8
 
-#EXTINF:-1,SONY TEN 1
+#EXTINF:-1 group-title=" Internet Tv",SONY TEN 1
 http://103.121.14.18/hls/sonyten1.m3u8
 
-#EXTINF:-1,T SPORTS
+#EXTINF:-1 group-title=" Internet Tv",T SPORTS
 http://103.121.14.18/hls/t-sports.m3u8
 
-#EXTINF:-1,TEN SPORTS
+#EXTINF:-1 group-title=" Internet Tv",TEN SPORTS
 http://103.121.14.18/hls/ten.m3u8
 
-#EXTINF:-1,PTV
+#EXTINF:-1 group-title=" Internet Tv",PTV
 http://103.121.14.18/hls/ptv.m3u8
 
 
