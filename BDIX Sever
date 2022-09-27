@@ -678,8 +678,11 @@ http://103.121.14.18/hls/akash.m3u8
 #EXTINF:-1 group-title=" Internet Tv",zeebanglahd(internet tv)
 http://103.121.14.18/hls/zeebanglahd.m3u8
 
-#EXTINF:-1 group-title=" Internet Tv",starjalsha(internet tv)
-http://103.121.14.18/hls/starjalsha.m3u8
+#EXTINF:-1 group-title=" Internet Tv",starjalsha(internet )
+http://103.99.249.107:81/play/a00l
+
+#EXTINF:-1 group-title=" Internet Tv",starjalsha
+http://103.99.249.107:81/play/a030
 
 #EXTINF:-1 group-title=" Internet Tv",sangeetbangl(internet tv)
 http://103.121.14.18/hls/sangeetbangla.m3u8
