@@ -1,22 +1,22 @@
 
 
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha HD
+#EXTINF:-1,Star Jalsha HD
 http://103.99.249.107:81/play/a030
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/e5Ldh7e.png",Zee Bangla HD
+#EXTINF:-1,Zee Bangla HD
 http://103.99.249.107:81/play/a02z
 
 
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png",Colors Bangla
+#EXTINF:-1,Colors Bangla
 http://103.99.249.107:81/play/a02x
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/PW9hRDa.png",Sun Bangla
+#EXTINF:-1,Sun Bangla
 http://103.99.249.107:81/play/a037
 
 
-#EXTINF:-1 group-title=" Indian Bangla", 36. Jalsha Moives HD
+#EXTINF:-1, Jalsha Moives HD
 http://103.99.249.107:81/play/a02w
 
 
