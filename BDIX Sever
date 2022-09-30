@@ -65,6 +65,10 @@ http://172.16.128.2:8081/live/sky1008/chunks.m3u8
 #EXTINF:-1 group-title="Sports",SONY SIX
 https://engbishal.ml/PakvsEng.m3u8
 
+#EXTINF:-1 group-title="Sports",SONY SIX
+http://50.7.237.4:8080/SONYSIXHD/index.m3u8
+
+
 #EXTINF:-1 group-title="Sports",Sky Sports 
 http://116.204.149.11:8000/play/a00l/index.m3u8
 
@@ -252,6 +256,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 
+#EXTINF:-1 group-title="Cartoon",CARTOONNETWORK
+http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon",SONYYAY
+http://50.7.237.4:8080/SONYYAY/index.m3u8 
+#EXTINF:-1 group-title="Cartoon",NICKELODEON
+http://50.7.237.4:8080/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Cartoon",SONYYAY
+http://50.7.237.4:8080/SONYYAY/index.m3u8
+
 
 
 
@@ -312,6 +326,9 @@ http://103.99.249.107:81/play/a00f
 
 http://103.99.249.107:81/play/a03f
 
+#EXTINF:-1,SONY AATH
+http://50.7.237.4:8080/SONYAATH/index.m3u8
+
 #EXTINF:-1 group-title=" Indian Bangla", sony aath (Backup)
 http://103.159.4.38:9191/CH22-INBD1/index.m3u8
 
@@ -333,6 +350,9 @@ http://103.159.4.38:9191/CH23-INBD2/index.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla",STAR JALSHA
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
+
+#EXTINF:-1 group-title=" Indian Bangla",STAR JALSHA
+http://50.7.237.4:8080/STARJALSHA/index.m3u8
 
 
 #EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD
@@ -383,6 +403,12 @@ http://103.16.24.54:8080/channel3/index.m3u8
 
 #EXTINF:-1 group-title="Hindi",Star Varat Hd
 http://103.16.24.54:8080/channel8/index.m3u8
+
+#EXTINF:-1 group-title="Hindi",SONY TV HD
+http://50.7.237.4:8080/SONYTV/index.m3u8
+
+#EXTINF:-1 group-title="Hindi",SET MAX
+http://50.7.237.4:8080/SETMAX/index.m3u8
 
 
 #EXTINF:-1 group-title="Hindi",& Picture Hd
