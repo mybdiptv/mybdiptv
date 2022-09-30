@@ -11,17 +11,6 @@ http://iptv.hplink.com.bd:8080/hls/sportssd.m3u8
 #EXTINF:-1 group-title=" Sports",T Sports 720 (Akash Digital)
 http://iptv.hplink.com.bd:8080/hls/sportss.m3u8
 
-#EXTINF:-1 group-title=" Sports",gazi tv
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-
-#EXTINF:-1 group-title=" Sports",T Sports
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-
-#EXTINF:-1 group-title=" Sports",T Sports
-http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-
-#EXTINF:-1 group-title=" Sports",T Sports (Akash Digital)
-http://iptv.hplink.com.bd/hp-tv.m3u8
 
 #EXTINF:-1 group-title=" Sports",gazi tv
 http://103.121.14.18/hls/Gazi-TV.m3u8
@@ -70,7 +59,7 @@ http://50.7.237.4:8080/SONYSIXHD/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports",Sky Sports 
-http://116.204.149.11:8000/play/a00l/index.m3u8
+http://14.192.129.138:8000/play/ASD/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TEN 1 (backup)
 http://103.159.4.38:9191/CH7-SP7/tracks-v1a1/mono.m3u8
