@@ -1009,3 +1009,123 @@ http://103.121.14.18/hls/ten.m3u8
 http://103.121.14.18/hls/ptv.m3u8
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD IN" tvg-logo="" group-title="India",Colors Bangla HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136592
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD IN" tvg-logo="" group-title="India",Sony HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136583
+#EXTINF:-1 tvg-id="" tvg-name="Sony MAX HD IN" tvg-logo="" group-title="India",Sony MAX HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136654
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal IN." tvg-logo="" group-title="India",Sony Pal IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136434
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="India",Sony Pix HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136688
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD IN" tvg-logo="" group-title="India",Sony SAB HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136614
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="Sony Six HD IN" tvg-logo="" group-title="India",Sony Six HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136701
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat IN" tvg-logo="" group-title="India",Star Bharat IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136579
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD IN" tvg-logo="" group-title="India",Star Gold HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136619
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select HD IN" tvg-logo="" group-title="India",Star Gold Select HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136582
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-name="Star Jalsha IN." tvg-logo="" group-title="India",Star Jalsha IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136480
+#EXTINF:-1 tvg-id="" tvg-name="Star Maa Gold IN." tvg-logo="" group-title="India",Star Maa Gold IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136477
+#EXTINF:-1 tvg-id="" tvg-name="Star Maa HD IN" tvg-logo="" group-title="India",Star Maa HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136590
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="India",Star Movies HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136629
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD IN" tvg-logo="" group-title="India",Star Plus HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136633
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="" group-title="India",Star Sports 1 HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136657
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="" group-title="India",Star Sports 2 HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136615
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD IN" tvg-logo="" group-title="India",Star Sports Select 1 HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136612
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="" group-title="India",Star Sports select 2 HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136616
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav IN" tvg-logo="" group-title="India",Star Utsav IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136693
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay HD IN" tvg-logo="" group-title="India",Star Vijay HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136649
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay Super IN" tvg-logo="" group-title="India",Star Vijay Super IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136663
+#EXTINF:-1 tvg-id="" tvg-name="Star World HD IN" tvg-logo="" group-title="India",Star World HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136651
+#EXTINF:-1 tvg-id="" tvg-name="Star World Premiere HD IN" tvg-logo="" group-title="India",Star World Premiere HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136639
+#EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life  IN." tvg-logo="" group-title="India",Sun Life  IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136474
+#EXTINF:-1 tvg-id="" tvg-name="Sun Music IN" tvg-logo="" group-title="India",Sun Music IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136594
+#EXTINF:-1 tvg-id="" tvg-name="Surya Samachar IN" tvg-logo="" group-title="India",Surya Samachar IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136532
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="" group-title="India",TEN 1 HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136578
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="" group-title="India",TEN 2 HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136666
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports IN" tvg-logo="" group-title="India",Ten Sports IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136667
+#EXTINF:-1 tvg-id="" tvg-name="TEN Sports Pak IN" tvg-logo="" group-title="India",TEN Sports Pak IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136555
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP HD IN" tvg-logo="" group-title="India",Travel XP HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136648
+#EXTINF:-1 tvg-id="" tvg-name="TV One IN" tvg-logo="" group-title="India",TV One IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136573
+#EXTINF:-1 tvg-id="tv9marathi.in" tvg-name="Tv9 Marathi IN." tvg-logo="" group-title="India",Tv9 Marathi IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136427
+#EXTINF:-1 tvg-id="" tvg-name="Urdu one IN" tvg-logo="" group-title="India",Urdu one IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136561
+#EXTINF:-1 tvg-id="" tvg-name="Vision Punjabi Music IN" tvg-logo="" group-title="India",Vision Punjabi Music IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136699
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD IN" tvg-logo="" group-title="India",Zee Bangla HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136584
+#EXTINF:-1 tvg-id="" tvg-name="Zee Biscope IN" tvg-logo="" group-title="India",Zee Biscope IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136691
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="" group-title="India",Zee Cafe IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136588
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD IN" tvg-logo="" group-title="India",Zee Cinema HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136635
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic IN" tvg-logo="" group-title="India",Zee Classic IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136700
+#EXTINF:-1 tvg-id="" tvg-name="Zee Hindustan IN" tvg-logo="" group-title="India",Zee Hindustan IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136537
+#EXTINF:-1 tvg-id="" tvg-name="Zee Kannada HD IN." tvg-logo="" group-title="India",Zee Kannada HD IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136475
+#EXTINF:-1 tvg-id="" tvg-name="Zee News IN" tvg-logo="" group-title="India",Zee News IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136542
+#EXTINF:-1 tvg-id="zeetalkies.in" tvg-name="Zee Talkies IN" tvg-logo="" group-title="India",Zee Talkies IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136585
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil HD IN" tvg-logo="" group-title="India",Zee Tamil HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136595
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD IN" tvg-logo="" group-title="India",Zee TV HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136627
+#EXTINF:-1 tvg-id="zing.in" tvg-name="Zing TV IN." tvg-logo="" group-title="India",Zing TV IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136482
+#EXTINF:-1 tvg-id="" tvg-name="-= Tamil =-" tvg-logo="" group-title="India",-= Tamil =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/134452
+#EXTINF:-1 tvg-id="" tvg-name="-= Punjabi =-" tvg-logo="" group-title="India",-= Punjabi =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/134451
+#EXTINF:-1 tvg-id="" tvg-name="-= Urdu =-" tvg-logo="" group-title="India",-= Urdu =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/134392
+#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="HUM Masala IN" tvg-logo="" group-title="India",HUM Masala IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/134405
+#EXTINF:-1 tvg-id="" tvg-name="-= Marathi =-" tvg-logo="" group-title="India",-= Marathi =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/135640
+#EXTINF:-1 tvg-id="" tvg-name="-= Kannada =-" tvg-logo="" group-title="India",-= Kannada =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/135639
+#EXTINF:-1 tvg-id="" tvg-name="-= Bengali =-" tvg-logo="" group-title="India",-= Bengali =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/135638
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 BD" tvg-logo="" group-title="Bangladesh",Channel 9 BD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131625
+
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom HD BD" tvg-logo="" group-title="Bangladesh",Dhoom HD BD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131643
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music BD" tvg-logo="" group-title="Bangladesh",Dhoom Music BD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131645
