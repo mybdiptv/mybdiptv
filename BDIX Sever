@@ -1155,3 +1155,45 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131625
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131643
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom Music BD" tvg-logo="" group-title="Bangladesh",Dhoom Music BD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131645
+
+
+
+http://208.86.19.13:81/601.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Somoy tv [6]
+http://208.86.19.13:81/693.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",DBC [6]
+http://208.86.19.13:81/614.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",My tv [6]
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",SA tv [6]
+http://208.86.19.13:81/613.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",MY tv [6]
+http://208.86.19.13:81/624.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",ATN Bangla [6]
+http://208.86.19.13:81/626.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",BTV World [6]
+http://208.86.19.13:81/627.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Deepto tv [6]
+http://208.86.19.13:81/609.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Gaan Bangla [6]
+http://208.86.19.13:81/612.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Sangeet Bangla [6]
+http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Jalsha Movies HD [6]
+http://208.86.19.13:81/716.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Zee Bangla Cinama [6]
+http://208.86.19.13:81/708.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Colors Bangla HD [6]
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Akash Aath [6]
+http://208.86.19.13:81/902.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Star Sports-2 [6]
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Astro Cricket [6]
+http://208.86.19.13:81/720.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Zee Bollywood [6]
+http://208.86.19.13:81/701.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Sony Sab [6]
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Max-2 [6]
+http://208.86.19.13:81/730.stream/index.m3u8
