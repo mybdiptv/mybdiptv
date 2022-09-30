@@ -358,6 +358,10 @@ http://50.7.237.4:8080/STARJALSHA/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD
 http://103.16.24.54:8080/channel4/index.m3u8
 
+#EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD
+http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
+
+
 #EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD (backup)
 http://103.159.4.38:9191/CH25-INBD4/index.m3u8
 
@@ -383,6 +387,9 @@ http://103.159.4.38:9191/CH28-INBD7/index.m3u8
 
 #EXTINF:-1 group-title="Hindi",Colors Cinplex
 http://103.121.14.18/hls/colorscineplex.m3u8
+
+#EXTINF:-1 group-title="Hindi",ZEE CINEMA HD
+http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
 
 
 #EXTINF:-1 group-title="Hindi",Sun Tv
