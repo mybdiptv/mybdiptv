@@ -237,7 +237,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/D1K9xTh/Channel9.jpg",CHANNEL 9
-http://jupiter.bdcabletv.com/CHANNELNINEBD-IRD/video.m3u8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131625
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/44QmsDx/Channeli.jpg",CHANNEL I
 https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
@@ -450,16 +450,22 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC", ICC_9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom HD BD" tvg-logo="" group-title="MUSIC",Dhoom HD BD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131643
+
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music BD" tvg-logo="" group-title="MUSIC",Dhoom Music BD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131645
+
 #EXTINF:-1 tvg-logo="https://imgur.com/dpf1I1U.png" group-title="Documentary", TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Geographic",National Geographic HD(backup)
+#EXTINF:-1 group-title="Documentary",National Geographic HD(backup)
 http://103.159.4.38:9191/CH43-ENG1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Eng",Sony Pix(backup)
+#EXTINF:-1 group-title="outhers",Sony Pix(backup)
 http://103.16.24.54:8080/channel2/index.m3u8
 
-#EXTINF:-1 group-title="Cartoon", 124. CNN
+#EXTINF:-1 group-title="outhers", 124. CNN
 http://103.159.4.38:9191/CH46-ENG4/index.m3u8
 
 
@@ -1133,16 +1139,12 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/135639
 #EXTINF:-1 tvg-id="" tvg-name="-= Bengali =-" tvg-logo="" group-title="India",-= Bengali =-
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/135638
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9 BD" tvg-logo="" group-title="Bangladesh",Channel 9 BD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131625
-
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom HD BD" tvg-logo="" group-title="Bangladesh",Dhoom HD BD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131643
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music BD" tvg-logo="" group-title="Bangladesh",Dhoom Music BD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131645
 
 
 
+
+
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.ibb.co/tC6c5SC/Independent-News.jpg",Independent TV
 http://208.86.19.13:81/601.stream/index.m3u8
 #EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Somoy tv [6]
 http://208.86.19.13:81/693.stream/index.m3u8
