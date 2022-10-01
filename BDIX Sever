@@ -108,7 +108,7 @@ http://103.159.4.38:9191/CH17-BD6/index.m3u8
 
 
 
-#EXTINF:-1 group-title=" Sports",somoy tv
+#EXTINF:-1 group-title="Bangla",somoy tv
 http://172.16.128.2:8081/live/sky2004/chunks.m3u8
 
 
