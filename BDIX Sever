@@ -440,93 +440,92 @@ http://103.159.4.38:9191/CH48-ENG6/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 
-#EXTINF:-1,Star Jalsha HD(BDIX)3
+#EXTINF:-1 group-title="BDIX SERVER",Star Jalsha HD
 
 http://103.99.249.107:81/play/a00l
 
-#EXTINF:-1,STAR JALSHA(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",Star Jalsha
 
 http://103.99.249.107:81/play/a030
 
-#EXTINF:-1,Zee Bangla HD(BDIX)3
-
+#EXTINF:-1 group-title="BDIX SERVER",ZEE BANGLA HD
 http://103.99.249.107:81/play/a01a
 
-#EXTINF:-1,ZEE BANGLA(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",ZEE BANGLA
 
 http://103.99.249.107:81/play/a02z
 
-#EXTINF:-1,Color Bangla HD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",COLORS BANGLA HD
 
 http://103.99.249.107:81/play/a00j
 
-#EXTINF:-1,COLORS BANGLA(BDIX)2
+#EXTINF:-1 group-title="BDIX SERVER",COLORS BANGLA
 
 http://103.99.249.107:81/play/a02x
 
-#EXTINF:-1,Sun Bangla SD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",Sun Bangla HD
 
 http://103.99.249.107:81/play/a02h
 
-#EXTINF:-1,Sun Bangla(BDIX)2
+#EXTINF:-1 group-title="BDIX SERVER",Sun Bangla
 
 http://103.99.249.107:81/play/a037
 
-#EXTINF:-1,Jalsha Movies(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",JALSHA MOVIES HD
 
 http://103.99.249.107:81/play/a00k
 
-#EXTINF:-1,JALSHA MOVIES(BDIX)2
+#EXTINF:-1 group-title="BDIX SERVER",JALSHA MOVIES HD
 
 http://103.99.249.107:81/play/a02w
 
-#EXTINF:-1,Zee Bangla Cinema SD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",JALSHA MOVIES 
 
 http://103.99.249.107:81/play/a01m
 
-#EXTINF:-1,Sony Aath(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",SONY AATH HD
 
 http://103.99.249.107:81/play/a00f
 
-#EXTINF:-1,SONY AATH(BDIX)2
+#EXTINF:-1 group-title="BDIX SERVER",SONY AATH
 
 http://103.99.249.107:81/play/a03f
 
-#EXTINF:-1,T Sports HD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",T SPORTS HD
 
 http://103.99.249.107:81/play/a02k
 
-#EXTINF:-1,GAZI TV HD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",GAZI TV
 
 http://103.99.249.107:81/play/a02m
 
-#EXTINF:-1,A Sports(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",A SPORTS
 
 http://103.99.249.107:81/play/golfsports
 
-#EXTINF:-1,EuroSports HD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",EURO SPORTS
 
 http://103.99.249.107:81/play/a00y
 
-#EXTINF:-1,Sony Six HD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",SONY SIX HD
 
 http://103.99.249.107:81/play/a03o
 
-#EXTINF:-1,SONY TEN 1 HD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",SONY TEN 1 HD
 
 http://103.99.249.107:81/play/a00b
 
-#EXTINF:-1,SONY TEN 2 HD(BDIX)
+#EXTINF:-1,#EXTINF:-1 group-title="BDIX SERVER",SONY TEN 2 HD
 
 http://103.99.249.107:81/play/a01f
 
-#EXTINF:-1,SONY TEN 3 HD(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",SONY TEN 3 HD
 
 http://103.99.249.107:81/play/a006
 
-#EXTINF:-1,SONY TEN 4(BDIX)
+#EXTINF:-1 group-title="BDIX SERVER",SONY TEN 4
 
-http://103.99.249.107:81/play/a021
+http://103.99.249.107:81/play/a02
 
 #EXTINF:-1,Star Sports 1 HD(BDIX)
 
