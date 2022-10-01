@@ -98,6 +98,21 @@ https://cricket.localiptv.tk/CRICKET_SERIES_2_LIVE_2.m3u8
 #EXTINF:-1 group-title=" Sports", unknown
 http://10.100.100.134/live/skyfeed1002/index.m3u8
 
+#EXTINF:-1 group-title=" Sports",ptv
+https://play13.cdn786.com:999/hls/ptvpk.m3u8?md5=LZxGGEuW-x9iJ1X2ntjQeA&expires=1664634743
+
+#EXTINF:-1 group-title=" Sports",SONY LIV 1
+https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=st=1659493577~exp=1659493877~acl=*~id=2e839798-5dfa-4121-b6a9-b983e87b4414~hmac=f3ca9fe5a79b9884f09a137b9b0d9df2b9f8a04778b06a7feaa45c64768e958f&originpath=/linear/hls/pb/event/g1cPcUIdSQC_3FXsrgV5iA/stream/6ad1bd74-01b9-40e2-b3ba-77cf15fefefb:TPE2/master.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",SONY LIV 2
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=st=1659493717~exp=1659494017~acl=*~id=8ad4b750-bfa7-42ad-8ad8-0b93a95fe9af~hmac=4e226909c6c0cc0d9d1070c1e5a732de4fa4c74974c22f1df87b7b5fda810ff9&originpath=/linear/hls/pb/event/hQXQ8apwTJeGKlGD7Oi7lQ/stream/e4373bca-0ac2-4a04-b122-ccfc2da98763:TPE2/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title=" Sports",SONY LIV 2
+https://tv.googledrivelinks.com/play.php?c=Sony_Six_SD
 --------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Bangla", 04. EKUSHEY TV
