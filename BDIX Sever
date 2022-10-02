@@ -13,6 +13,14 @@ http://iptv.hplink.com.bd:8080/hls/sportssd.m3u8
 http://iptv.hplink.com.bd:8080/hls/sportss.m3u8
 
 
+#EXTINF:-1 group-title=" Sports",T Sports
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",gazi tv
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title=" Sports",gazi tv
 http://103.121.14.18/hls/Gazi-TV.m3u8
 
