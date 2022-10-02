@@ -102,7 +102,7 @@ http://10.100.100.134/live/skyfeed1002/index.m3u8
 https://play13.cdn786.com:999/hls/ptvpk.m3u8?md5=LZxGGEuW-x9iJ1X2ntjQeA&expires=1664634743
 
 #EXTINF:-1 group-title=" Sports",SONY LIV 1
-https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=st=1659493577~exp=1659493877~acl=*~id=2e839798-5dfa-4121-b6a9-b983e87b4414~hmac=f3ca9fe5a79b9884f09a137b9b0d9df2b9f8a04778b06a7feaa45c64768e958f&originpath=/linear/hls/pb/event/g1cPcUIdSQC_3FXsrgV5iA/stream/6ad1bd74-01b9-40e2-b3ba-77cf15fefefb:TPE2/master.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME/master_mdh.m3u8?hdnea=st=1664728090~exp=1664728390~acl=*~id=5cc26afa-1e16-4ade-a681-74e72472354e~hmac=758a31bb4c208775b7e88a775df545680983f9b3d274a308bafad1f449694109&originpath=/linear/hls/pb/event/ARSsLLOjSl2bsGjkQB2UAw/stream/03b8b7be-3f69-4265-9f09-5a0fdf6b848b:TPE2/master.m3u8
 
 
 #EXTINF:-1 group-title=" Sports",SONY LIV 2
