@@ -342,7 +342,14 @@ http://50.7.237.4:8080/NICKELODEON/index.m3u8
 http://50.7.237.4:8080/SONYYAY/index.m3u8
 
 
-
+#EXTINF: -1 group-title="music", 9X Jalwa Tv
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF: -1 group-title="music", 9X Jhakaas
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9Xjhakaas/9Xjhakaas.isml/9Xjhakaas-audio_208482_und=208000-video=877600.m3u8
+#EXTINF: -1 group-title="music", 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF: -1 group-title="music", 9X Tashan
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9Xtashan/9Xtashan.isml/9Xtashan-audio_208482_und=208000-video=877600.m3u8
 
 ----------------------------------------------------------------------------------------------------------
 
