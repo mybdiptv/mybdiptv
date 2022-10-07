@@ -1478,3 +1478,24 @@ http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
 #EXTINF:-1 group-title=" BDIPTV",Sony Yah
 http://50.7.237.4:8080/SONYYAY/index.m3u8
 
+---------------------------------------------------------------------
+#EXTM3U
+
+#EXTINF:-1 group-title="SUN NEXT",CHUTTI TV
+http://watchindia.net:8880/live/vvv/vvv/882.m3u8
+#EXTINF:-1 group-title="SUN NEXT",GEMINI MOVIES HD
+http://watchindia.net:8880/live/vvv/vvv/930.m3u8
+#EXTINF:-1 group-title="SUN NEXT",KTV HD
+http://watchindia.net:8880/live/vvv/vvv/845.m3u8
+#EXTINF:-1 group-title="SUN NEXT",SUN MUSIC
+http://watchindia.net:8880/live/vvv/vvv/844.m3u8
+#EXTINF:-1 group-title="SUN NEXT",SUN TV HD
+http://watchindia.net:8880/live/vvv/vvv/843.m3u8
+#EXTINF:-1 group-title="SUN NEXT",SURYA COMEDY
+http://watchindia.net:8880/live/vvv/vvv/299.m3u8
+#EXTINF:-1 group-title="SUN NEXT",SURYA MOVIES
+http://watchindia.net:8880/live/vvv/vvv/298.m3u8
+#EXTINF:-1 group-title="SUN NEXT",SURYA TV HD
+http://watchindia.net:8880/live/vvv/vvv/2261.m3u8
+#EXTINF:-1 group-title="SUN NEXT",UDYA HD
+http://watchindia.net:8880/live/vvv/vvv/1002.m3u8
