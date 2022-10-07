@@ -38,6 +38,9 @@ http://172.16.128.2:8081/live/sky2003/chunks.m3u8
 #EXTINF:-1 group-title=" Sports",Gtv
 http://172.16.128.2:8081/live/sky1010/chunks.m3u8
 
+#EXTINF:-1 group-title=" Sports",BT Sports
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1 (Backup)
 http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
@@ -1392,3 +1395,86 @@ http://103.162.136.235:4500/play/a003/index.m3u8
 http://103.162.136.235:4500/play/a00h/index.m3u8
 #EXTINF:-1 ,Zee TV HD
 http://103.162.136.235:4500/play/a00e/index.m3u8
+
+-------------------------------------------------------------------
+
+#EXTM3U
+
+#EXTINF:-1 group-title=" BDIPTV", Star Plus
+http://50.7.237.4:8080/STARPLUS/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Zee Tv
+http://50.7.237.4:8080/ZEETV/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Zee Cafe HD
+http://50.7.237.4:8080/ZEECAFEHD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Zee Action
+http://50.7.237.4:8080/ZEEACTION/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Zee Cinema
+http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Zee Anmol
+http://50.7.237.4:8080/ZEEANMOLCINEMA/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Sonh Max HD
+http://50.7.237.4:8080/SONYMAXHD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Sony Pix
+http://50.7.237.4:8080/SONYPIXHD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Star Gold
+http://50.7.237.4:8080/STARGOLD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Star Gold 2
+http://50.7.237.4:8080/STARGOLD2/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Music India
+http://50.7.237.4:8080/MUSICINDIA/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Zing
+http://50.7.237.4:8080/ZING/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",9xm
+http://50.7.237.4:8080/9XM/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Sony Aath
+http://50.7.237.4:8080/SONYAATH/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Zee Bangla Cinema
+http://50.7.237.4:8080/ZEEBANGLACINEMA/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Colors Bangla
+http://50.7.237.4:8080/COLORSBANGLAHD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Zee Bangla
+http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Star Jalsha
+http://50.7.237.4:8080/STARJALSHA/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Sony Six
+http://50.7.237.4:8080/SONYSIXHD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Sony Ten 1 HD
+http://50.7.237.4:8080/TEN1HD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Sony Ten 2 HD
+http://50.7.237.4:8080/TEN2HD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Sony Ten 3HD
+http://50.7.237.4:8080/TEN3HD/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Wwe Network
+http://50.7.237.4:8080/WWE/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Nickelodeon
+http://50.7.237.4:8080/NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",CN
+http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
+
+#EXTINF:-1 group-title=" BDIPTV",Sony Yah
+http://50.7.237.4:8080/SONYYAY/index.m3u8
+
