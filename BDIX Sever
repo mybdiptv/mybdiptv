@@ -16,6 +16,9 @@ http://iptv.hplink.com.bd:8080/hls/sportss.m3u8
 #EXTINF:-1 group-title=" Sports",T Sports
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title=" Sports",TOFFEE
+https://mprod-cdn.toffeelive.com/live-event-1/master_1500.m3u8
+
 
 #EXTINF:-1 group-title=" Sports",gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
@@ -47,6 +50,10 @@ http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 http://103.16.24.54:8080/channel1/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports",STAR SPORTS 1
+https://s7.gocast123.me:8201/hd/hls/DX7ZEfnDGaAP7zPohT5ZPg/1665126783/starhindi.m3u8
 
 
 #EXTINF:-1 group-title=" Sports",star sports select 1
@@ -129,8 +136,8 @@ https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?h
 
 
 
-#EXTINF:-1 group-title=" Sports",SONY LIV 2
-https://tv.googledrivelinks.com/play.php?c=Sony_Six_SD
+#EXTINF:-1 group-title=" Sports",WILLOW HD
+https://play.cdn786.com:999/hls/willowusa.m3u8?md5=iV9s7TY7mp5mhFCbvdGrwA&expires=1665131964
 --------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Bangla", 04. EKUSHEY TV
@@ -1499,3 +1506,10 @@ http://watchindia.net:8880/live/vvv/vvv/298.m3u8
 http://watchindia.net:8880/live/vvv/vvv/2261.m3u8
 #EXTINF:-1 group-title="SUN NEXT",UDYA HD
 http://watchindia.net:8880/live/vvv/vvv/1002.m3u8
+
+
+
+#EXTM3U
+
+#EXTINF:-1,9
+https://toffeelive.com/#video/ecb6877b3aebce07deb660a0ff6d0fcb
