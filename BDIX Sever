@@ -20,6 +20,13 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Sports",gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title=" Sports",gazi tv
+http://tvs.embedsite.xyz:1936/live/sky_12/chunklist_w2121676567_tkd293emF0b2tlbmVuZHRpbWU9MTY2NTEyMjAyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjUxMTUwMjAmd293emF0b2tlbmhhc2g9X1NBOUk1QWxFRHdBY29iLTlpa0FPY0ZpYXdRY3RJdmFRREIySTR4N2YxYz0=.m3u8
+
+
+
+#EXTINF:-1 group-title=" Sports",gazi tv
+http://tvs.embedsite.xyz:1936/live/sky_16/chunklist_w1829110016_tkd293emF0b2tlbmVuZHRpbWU9MTY2NTEyMjE0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjUxMTUxNDAmd293emF0b2tlbmhhc2g9SXAwTGZGb0R3MkFZWkJBRGtwMkUzZkhaOXBiR3hEanVlV09FUjdCRUI3TT0=.m3u8
 
 #EXTINF:-1 group-title=" Sports",gazi tv
 http://103.121.14.18/hls/Gazi-TV.m3u8
