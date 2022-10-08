@@ -51,6 +51,9 @@ http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 http://103.16.24.54:8080/channel1/index.m3u8
 
+#EXTINF:-1 group-title="Sports",STAR SPORTS 1
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 https://s7.gocast123.me:8201/hd/hls/DX7ZEfnDGaAP7zPohT5ZPg/1665126783/starhindi.m3u8
@@ -93,6 +96,9 @@ http://103.159.4.38:9191/CH7-SP7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title=" Sports",ten 1
 http://172.16.128.2:8081/live/sky1011/chunks.m3u8
+
+#EXTINF:-1 group-title=" Sports",ten 1
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TEN 2 (backup)
 http://103.159.4.38:9191/CH8-SP8/tracks-v1a1/mono.m3u8
@@ -138,6 +144,66 @@ https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?h
 
 #EXTINF:-1 group-title=" Sports",WILLOW HD
 https://play.cdn786.com:999/hls/willowusa.m3u8?md5=iV9s7TY7mp5mhFCbvdGrwA&expires=1665131964
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports",SONY Ten 1
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136578
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports",SONY Ten 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136666
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", Star Sports 1
+http://103.16.24.54:8080/channel1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", GTV
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/tsports.jpg" group-title=" Sports", T Sports HD
+http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", Star Sports 2 HD
+http://208.86.19.13:81/715.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title=" Sports" , TEN CRICKET
+http://tv.univisionlive.net:25461/sojib2/73689834/5073
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", PTV Sports
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/ten_sports.jpg" group-title=" Sports", Ten Sports
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136667
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", FOX Sports 1
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8254
+#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_sports2_us.png" group-title=" Sports", FOX Sports 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8255
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title=" Sports", ESPN 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10881
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title=" Sports", ESPN 3
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10880
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title=" Sports", BT Sport 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", Arena Sport 1
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/103935
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", Arena Sport 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/103936
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", Sport1
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76561
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", DUBAI SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title=" Sports", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-logo="http://stariptv.org:80/logo/countryies/india.jpg" group-title=" Sports", WILLOW CRICKET HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/40967
+
+
+
 --------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Bangla", 04. EKUSHEY TV
@@ -368,6 +434,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF: -1 group-title="music", 9X Tashan
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9Xtashan/9Xtashan.isml/9Xtashan-audio_208482_und=208000-video=877600.m3u8
 
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg" group-title="music", Music India
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+
 ----------------------------------------------------------------------------------------------------------
 
 #EXTM3U
@@ -424,11 +493,21 @@ http://103.99.249.107:81/play/a00f
 
 http://103.99.249.107:81/play/a03f
 
+
+
+
+
+
+
 #EXTINF:-1,SONY AATH
 http://50.7.237.4:8080/SONYAATH/index.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla", sony aath (Backup)
 http://103.159.4.38:9191/CH22-INBD1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/07/25/akash%20Aath.jpg" group-title=" Indian Bangla", Akash Aath
+http://208.86.19.13:81/902.stream/index.m3u8
 
 
 #EXTINF:-1 group-title=" Indian Bangla", sun Bangla (Backup)
@@ -439,12 +518,18 @@ http://103.121.14.18/hls/sunbangla.m3u8
 #EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA HD
 http://103.16.24.54:8080/channel5/index.m3u8
 
+#EXTINF:-1 group-title=" Indian Bangla", 35. STAR JALSHA
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+
 
 #EXTINF:-1 group-title=" Sports",star jalsha
 http://172.16.128.2:8081/live/sky2006/chunks.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD (backup)
 http://103.159.4.38:9191/CH23-INBD2/index.m3u8
+
+#EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla",STAR JALSHA
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
@@ -458,6 +543,12 @@ http://103.16.24.54:8080/channel4/index.m3u8
 
 #EXTINF:-1 group-title=" Indian Bangla", 34. ZEE BANGLA HD
 http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsa HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136480
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="Bangla", Zee Bangla HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136584
 
 
 #EXTINF:-1 group-title=" Indian Bangla", 36. COLORS BANGLA HD (backup)
@@ -478,6 +569,11 @@ http://103.159.4.38:9191/CH27-INBD6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HG69Dgb.png" group-title="MUSIC", Bangla Talkies
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u
 
 #EXTINF:-1 group-title="Bangla",gan bangla (backup)
 http://103.159.4.38:9191/CH28-INBD7/index.m3u8
@@ -518,6 +614,34 @@ http://50.7.237.4:8080/SETMAX/index.m3u8
 
 #EXTINF:-1 group-title="Hindi",& Picture Hd
 http://103.16.24.54:8080/channel6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136634
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136583
+#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi", Star Plus
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136633
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iCOQK4B.png", Star Movies HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136629
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://103.55.144.46/img/sony-maxhd.jpg", Sony Max HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136654
+
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/zeecinemahd.jpg" group-title="Hindi", zee cinema hd
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136635
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/stargold.jpg" group-title="Hindi", Star Gold
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136619
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Bflix Movies
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136444
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Colors Cineplex
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136435
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Manoranjan Movies IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136500
+
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/zeetv.png" group-title="Hindi", ZEE TV
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136627
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC", Music India
@@ -1506,6 +1630,19 @@ http://watchindia.net:8880/live/vvv/vvv/298.m3u8
 http://watchindia.net:8880/live/vvv/vvv/2261.m3u8
 #EXTINF:-1 group-title="SUN NEXT",UDYA HD
 http://watchindia.net:8880/live/vvv/vvv/1002.m3u8
+
+
+-------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136613
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/dis.png" group-title="Documentary", Discovery 
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Nat_Geo_HD.png" group-title="Documentary", National Geographic HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24795
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/wild.png" group-title="Documentary", Wild HD 
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30512
 
 
 
