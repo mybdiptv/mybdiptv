@@ -18,9 +18,13 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title=" Sports",TOFFEE
 https://mprod-cdn.toffeelive.com/live-event-1/master_1500.m3u8
+#EXTINF:-1 group-title=" Sports",TOFFEE 480PX
+https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 
-#EXTINF:-1 group-title=" Sports",TOFFEE
-https://mprod-cdn.toffeelive.com/live-event-1/index.m3u8
+#EXTINF:-1 group-title=" Sports",TOFFEE 360PX
+https://mprod-cdn.toffeelive.com/live-event-1/master_640.m3u8
+#EXTINF:-1 group-title=" Sports",TOFFEE 240PX
+https://mprod-cdn.toffeelive.com/live-event-1/master_360.m3u8
 
 
 #EXTINF:-1 group-title=" Sports",gazi tv
@@ -626,6 +630,9 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136583
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136633
 #EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iCOQK4B.png", Star Movies HD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136629
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vB5TQMg/Star-Gold-Select.jpg" group-title="Hindi", Star Gold Select
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136582
 
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://103.55.144.46/img/sony-maxhd.jpg", Sony Max HD
