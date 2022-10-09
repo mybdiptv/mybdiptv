@@ -29,6 +29,9 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_640.m3u8
 https://mprod-cdn.toffeelive.com/live-event-1/master_360.m3u8
 
 
+#EXTINF:-1 group-title=" Sports",S Sports 
+http://liveisl.com:8080/India/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title=" Sports",gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
