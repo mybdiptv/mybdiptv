@@ -126,6 +126,9 @@ http://194.233.77.24:5866/hls/shlive3.m3u8
 
 ------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="Bangla", B TV
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
@@ -198,7 +201,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 http://208.86.19.13:81/652.stream/index.m3u8
 
 
-#
+#EXTINF:-1 group-title="Bangla" ,Chanel S uk 
+http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/28DBQc7/Maasranga-TV.jpg",Maasranga TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
@@ -222,6 +226,10 @@ https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/KXsOj3L.png",BOISHAKHI PLUS
 https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Movie Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Jagobd",DW(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
@@ -253,8 +261,8 @@ http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
 
-
-
+#EXTINF: -1 group-title="music",Bangla Talkis
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF: -1 group-title="music", 9X Jalwa Tv
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
