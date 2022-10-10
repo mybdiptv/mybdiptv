@@ -66,6 +66,8 @@ http://103.16.24.54:8080/channel1/index.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
+#EXTINF:-1 group-title="Sports",STAR SPORTS 1
+http://edge.thunderbd.com:25461/live/tvappsports/roarzone/26.m3u8
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 https://s7.gocast123.me:8201/hd/hls/DX7ZEfnDGaAP7zPohT5ZPg/1665126783/starhindi.m3u8
