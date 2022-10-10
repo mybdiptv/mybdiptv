@@ -67,7 +67,7 @@ http://103.16.24.54:8080/channel1/index.m3u8
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
-http://edge.thunderbd.com:25461/live/tvappsports/roarzone/24.m3u8
+http://edge.thunderbd.com:25461/live/tvappsports/roarzone/25.m3u8
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 https://s7.gocast123.me:8201/hd/hls/DX7ZEfnDGaAP7zPohT5ZPg/1665126783/starhindi.m3u8
@@ -75,7 +75,7 @@ https://s7.gocast123.me:8201/hd/hls/DX7ZEfnDGaAP7zPohT5ZPg/1665126783/starhindi.
 
 #EXTINF:-1 group-title=" Sports",star sports select 1
 http://172.16.128.2:8081/live/sky1009/chunks.m3u8
-
+http://edge.thunderbd.com:25461/live/tvappsports/roarzone/27.m3u8
 
 #EXTINF:-1 group-title=" Sports",star sports 2
 http://172.16.128.2:8081/live/sky1012/chunks.m3u8
@@ -99,6 +99,9 @@ https://engbishal.ml/PakvsEng.m3u8
 
 #EXTINF:-1 group-title="Sports",SONY SIX
 http://50.7.237.4:8080/SONYSIXHD/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY SIX
+http://edge.thunderbd.com:25461/live/tvappsports/roarzone/24.m3u8
 
 
 #EXTINF:-1 group-title="Sports",Sky Sports 
@@ -129,6 +132,11 @@ http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-1 group-title=" Sports", 103.SS SPORTS HD
 http://194.233.77.24:5866/hls/shlive3.m3u8
+
+
+
+#EXTINF:-1 group-title=" Sports",espn
+http://edge.thunderbd.com:25461/live/tvappsports/roarzone/23.m3u8
 
 
 ------------------------------------------------------------------------------------------------------
