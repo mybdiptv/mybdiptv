@@ -160,44 +160,116 @@ http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/106647
 http://103.143.235.50:8080/ch4/ch4.m3u8
 
 
-
-
-
 #EXTM3U
-#EXTINF:-1, star sports 1
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports 1
+http://quality-restream.com:8080/asadmanzur/39e379b23d/3630
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports 1 (backup 1)
+https://tvs1.aynaott.com/StartSports1hd/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports 1 (backup 2)
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/71664
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports 1 (backup 3)
+http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/105106
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports 1 (backup 4)
+http://live.easy24dar.tk:80/aPSgHexSDy/mtXJX1qqLv/71664
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports Hindi
+http://live.wolfiptv.tk:80/live/XsmK1tgJ9t/xD9eKuWm7Q/91987.m3u8
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports Hindi (backup 1)
+https://cdn1.mkhossain.ga/hls/star1en/.m3u8
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports Hindi (backup 2)
+http://live.easy24dar.tk:80/aPSgHexSDy/mtXJX1qqLv/91987
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports Tamil
+http://tptv.cz:80/7744A39042695C1/ISM5qh405N/34487
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports Tamil (backup 1)
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/93731
+#EXTINF:-1 group-title=" T20 World Cup", PTV Sports
+http://quality-restream.com:8080/asadmanzur/39e379b23d/16633
+#EXTINF:-1 group-title=" T20 World Cup", PTV Sports (backup 1)
+https://iptv.livetvuhd.com:25463/sports8d7JH7d8jHHUd8lm/passdu8Jd9jddJhdiI8dj87dyTtd8a/25
+#EXTINF:-1 group-title=" T20 World Cup", PTV Sports (backup 2)
+https://iptv.livetvuhd.com:25463/sports8d7JH7d8jHHUd8lm/passdu8Jd9jddJhdiI8dj87dyTtd8a/30
+#EXTINF:-1 group-title=" T20 World Cup", PTV Sports (backup 3)
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
+#EXTINF:-1 group-title=" T20 World Cup", ARY Digital
+http://quality-restream.com:8080/asadmanzur/39e379b23d/49510
+#EXTINF:-1 group-title=" T20 World Cup", ARY Digital (backup 1)
+http://42.200.67.161:8090/play/a0qc
+#EXTINF:-1 group-title=" T20 World Cup", Gazi TV
+http://103.143.235.50:8080/ch2/ch2.m3u8
+#EXTINF:-1 group-title=" T20 World Cup", Gazi TV (backup 1)
+https://iptv.livetvuhd.com:25463/sports8d7JH7d8jHHUd8lm/passdu8Jd9jddJhdiI8dj87dyTtd8a/33
+#EXTINF:-1 group-title=" T20 World Cup", Gazi TV (backup 2)
+http://103.99.249.107:81/play/a02m
 
-http://172.16.172.126:8081/roarzone/25/chunks.m3u8?nimblesessionid=50916806&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxMjo1NzoxNSBBTSZoYXNoX3ZhbHVlPUF5dzFRZnlaUDJzYzNRZVE3YVNnZVE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
+#EXTINF:-1 group-title=" T20 World Cup", ESPN+
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/93
+#EXTINF:-1 group-title=" T20 World Cup", ESPN+ (backup 1)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
+#EXTINF:-1 group-title=" T20 World Cup", ESPN+ (backup 2)
+http://ys-users.com:8080/christa/christa/420913
+#EXTINF:-1 group-title=" T20 World Cup", ESPN+ (backup 3)
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/50339
+#EXTINF:-1 group-title=" T20 World Cup", Sky Sports
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3886
+#EXTINF:-1 group-title=" T20 World Cup", Sky Sports (backup 1)
+http://quality-restream.com:8080/asadmanzur/39e379b23d/269
+#EXTINF:-1 group-title=" T20 World Cup", Sky Sports (backup 2)
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/3094
+#EXTINF:-1 group-title=" T20 World Cup", Sky Sports (backup 3)
+http://ys-users.com:8080/christa/christa/428286
+#EXTINF:-1 group-title=" T20 World Cup", Sky Sports (backup 4)
+http://ttv.bz:80/manolopc1/7U49kuozK8/1471
+#EXTINF:-1 group-title=" T20 World Cup", Willow
+http://ys-users.com:8080/christa/christa/418212
+#EXTINF:-1 group-title=" T20 World Cup", Willow (backup 1)
+http://quality-restream.com:8080/asadmanzur/39e379b23d/2372
+#EXTINF:-1 group-title=" T20 World Cup", Willow (backup 2)
+https://iptv.livetvuhd.com:25463/sports8d7JH7d8jHHUd8lm/passdu8Jd9jddJhdiI8dj87dyTtd8a/34
+#EXTINF:-1 group-title=" T20 World Cup", Willow (backup 3)
+https://iptv.livetvuhd.com:25463/sports8d7JH7d8jHHUd8lm/passdu8Jd9jddJhdiI8dj87dyTtd8a/29
+#EXTINF:-1 group-title=" T20 World Cup", Willow (backup 4)
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/68211
+#EXTINF:-1 group-title=" T20 World Cup", Willow (backup 5)
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100936
+#EXTINF:-1 group-title=" T20 World Cup", Willow (backup 6)
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/68211
+#EXTINF:-1 group-title=" T20 World Cup", ESPN
+http://ys-users.com:8080/christa/christa/367070
+#EXTINF:-1 group-title=" T20 World Cup", ESPN (backup 1)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
+#EXTINF:-1 group-title=" T20 World Cup", ESPN (backup 2)
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100401
+#EXTINF:-1 group-title=" T20 World Cup", ESPN (backup 3)
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/74481
+#EXTINF:-1 group-title=" T20 World Cup", ESPN (backup 4)
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2928.ts
+#EXTINF:-1 group-title=" T20 World Cup", ESPN (backup 5)
+http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1644
+#EXTINF:-1 group-title=" T20 World Cup", SuperSports
+http://ys-users.com:8080/christa/christa/377948
+#EXTINF:-1 group-title=" T20 World Cup", SuperSports (backup 1)
+http://quality-restream.com:8080/asadmanzur/39e379b23d/11637
+#EXTINF:-1 group-title=" T20 World Cup", SuperSports (backup 2)
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/91285
+#EXTINF:-1 group-title=" T20 World Cup", SuperSports (backup 3)
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/91285
+#EXTINF:-1 group-title=" T20 World Cup", SuperSports (backup 4)
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1440547.ts
+#EXTINF:-1 group-title=" T20 World Cup", Astro Cricket
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157565
+#EXTINF:-1 group-title=" T20 World Cup", Astro Cricket (backup 1)
+http://ys-users.com:8080/christa/christa/377941
+#EXTINF:-1 group-title=" T20 World Cup", Fox sports
+http://ys-users.com:8080/christa/christa/425262
+#EXTINF:-1 group-title=" T20 World Cup", Channel nine
+http://ys-users.com:8080/christa/christa/434736
+#EXTINF:-1 group-title=" T20 World Cup", Star Sports 2
+https://tvs1.aynaott.com/StartSports2hd/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1,ntv
-http://172.16.172.126:8081/roarzone/54/chunks.m3u8?nimblesessionid=50916817&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxMjo1OTowMiBBTSZoYXNoX3ZhbHVlPVZQVTQwdHdOeUdmRWwzVkxFb2N2eGc9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
-#EXTINF:-1,ch9
-
-http://172.16.172.126:8081/roarzone/4/chunks.m3u8?nimblesessionid=50916826&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxMjo1OTo1MiBBTSZoYXNoX3ZhbHVlPXIxQ2pWaVZuQ1o2cENhL2dQa3hKeEE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01
-
-#EXTINF:-1,dbc
-http://172.16.172.126:8081/roarzone/7/chunks.m3u8?nimblesessionid=50916835&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxOjAwOjI4IEFNJmhhc2hfdmFsdWU9M21JNWRmSkEwNG42cXgzSVljT29zUT09JnZhbGlkbWludXRlcz0yJmlkPTU=
 
 
-#EXTINF:-1,depto
-http://172.16.172.126:8081/roarzone/8/chunks.m3u8?nimblesessionid=50916838&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxOjAwOjU4IEFNJmhhc2hfdmFsdWU9aXRrRTRBeVVnTmFad3hKZllGMkVPQT09JnZhbGlkbWludXRlcz0yJmlkPTU=
 
 
-#EXTINF:-1,71 tv
-http://172.16.172.126:8081/roarzone/11/chunks.m3u8?nimblesessionid=50916841&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxOjAxOjI4IEFNJmhhc2hfdmFsdWU9WnZtNW45WGNIWmhoaklyeVdyTlFEdz09JnZhbGlkbWludXRlcz0yJmlkPTU=
-nagorik
-http://172.16.172.126:8081/roarzone/59/chunks.m3u8?nimblesessionid=50916846&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxOjAyOjAyIEFNJmhhc2hfdmFsdWU9QUJtKzErY014QWdrWTFNR0lqTHJzdz09JnZhbGlkbWludXRlcz0yJmlkPTU=
 
-
-#EXTINF:-1,jalsha moives hd
-http://172.16.172.126:8081/roarzone/31/chunks.m3u8?nimblesessionid=50916850&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxOjAyOjU3IEFNJmhhc2hfdmFsdWU9Nkd2aUNYYWNlM0YvYlNPODA3OWVqQT09JnZhbGlkbWludXRlcz0yJmlkPTU=
-
-#EXTINF:-1,zee cinema
-http://172.16.172.126:8081/roarzone/76/chunks.m3u8?nimblesessionid=50916859&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxOjAzOjQ1IEFNJmhhc2hfdmFsdWU9YmtrMjQxOVNFU1pUdXlrdFY0WWpnQT09JnZhbGlkbWludXRlcz0yJmlkPTU=
-#EXTINF:-1,max
-http://172.16.172.126:8081/roarzone/77/chunks.m3u8?nimblesessionid=50916862&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxOjA0OjE3IEFNJmhhc2hfdmFsdWU9a250R200S0JxZFFaVlhhN3dvQ2lyQT09JnZhbGlkbWludXRlcz0yJmlkPTU=
-
-#EXTINF:-1,zoom
-http://172.16.172.126:8081/roarzone/60/chunks.m3u8?nimblesessionid=50916879&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiAxOjA1OjEwIEFNJmhhc2hfdmFsdWU9ZTRsdERkR2pDWkZFY1M2aTFqZDFsQT09JnZhbGlkbWludXRlcz0yJmlkPTU=
 ------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Bangla", B TV
