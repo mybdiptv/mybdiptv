@@ -70,8 +70,8 @@ http://172.16.128.2:8081/live/sky2003/chunks.m3u8
 #EXTINF:-1 group-title=" Sports",Gtv
 http://172.16.128.2:8081/live/sky1010/chunks.m3u8
 
-#EXTINF:-1 group-title=" Sports",BT Sports
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title=" Sports",Ptv Sports
+http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1 (Backup)
@@ -79,6 +79,9 @@ http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 http://103.16.24.54:8080/channel1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ASPORTS
+http://221.120.204.3/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 http://103.109.56.116/live/skyfeed1002/index.m3u8
