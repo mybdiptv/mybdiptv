@@ -7,6 +7,13 @@ http://iptv.hplink.com.bd:8080/hls/sports.m3u8
 #EXTINF:-1 group-title=" Sports",T Sports 1080 (Akash Digital)
 http://103.143.235.50:8080/ch4/ch4.m3u8
 
+#EXTINF:-1 group-title=" Sports",T Sports 1080
+http://175.41.46.16:8081/hls/4.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",Star Sports 1
+http://175.41.46.16:8081/hls/2.m3u8
+
 #EXTINF:-1 group-title=" Sports",BTV (Akash Digital)
 http://103.143.235.50:8080/ch2/ch2.m3u8
 
@@ -19,6 +26,13 @@ http://103.119.94.254:8000/play/4236966184/index.m3u8
 
 #EXTINF:-1 group-title=" Sports",T Sports
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title=" Sports",Ten 1
+http://175.41.46.16:8081/hls/3.m3u8
+
+#EXTINF:-1 group-title=" Sports",Ten 1
+http://175.41.46.16:8081/hls/1.m3u8
+
 
 #EXTINF:-1 group-title=" Sports",TOFFEE
 https://mprod-cdn.toffeelive.com/live-event-1/master_1500.m3u8
