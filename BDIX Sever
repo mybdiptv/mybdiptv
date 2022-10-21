@@ -1634,3 +1634,132 @@ http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
 http://50.7.237.4:8080/SONYYAY/index.m3u8
 
 
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title=" TATA PLAY ",Zee Cinema HD :-
+https://nayeem.chadasaniya.ml/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Zee TV HD :-
+https://nayeem.chadasaniya.ml/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star Plus HD :-
+https://nayeem.chadasaniya.ml/star-plus-LOCKLE/tracks-v1a1/mono.m3u8  
+#EXTINF:-1 group-title=" TATA PLAY ",Sony HD :-
+https://nayeem.chadasaniya.ml/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Sony Max HD :-
+https://nayeem.chadasaniya.ml/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Sony Sab HD :-
+https://nayeem.chadasaniya.ml/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Colors HD :-
+https://nayeem.chadasaniya.ml/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star Movies :-
+https://nayeem.chadasaniya.ml/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Fox Life HD :-
+https://nayeem.chadasaniya.ml/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star World :-
+https://nayeem.chadasaniya.ml/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",National Geographic :-
+https://nayeem.chadasaniya.ml/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",A Sports HD :-
+https://nayeem.chadasaniya.ml/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Deepto TV :-
+https://nayeem-ban.chadasaniya.ml/Deepto_TV_HD_bd/index.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Star Jalsha HD :-
+https://nayeem-ban.chadasaniya.ml/STARJALSAIND-Bang/index.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Jalsha Movies HD :-
+https://nayeem-ban.chadasaniya.ml/STAR_JHALSA_MOVIES_Bang/index.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Colors Bangla HD :-
+https://nayeem-ban.chadasaniya.ml/COLORSBANGLAIND-Bang/index.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Zee Cinema HD :-
+http://221.120.204.3/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Zee TV HD :-
+http://221.120.204.3/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star Plus HD
+http://221.120.204.3/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Sony HD 
+http://221.120.204.3/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Sony Max HD :-
+http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Sony Sab HD :-
+http://221.120.204.3/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Colors HD :-
+http://221.120.204.3/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",PTV Sports HD :-
+http://221.120.204.3/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star Movies :-
+http://221.120.204.3/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Fox Life HD :-
+http://221.120.204.3/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star World
+http://221.120.204.3/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Colors Infinity :-
+http://221.120.204.3/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",National Geographic :-
+http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
+drvA Sports HD
+http://221.120.204.3/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Disney India
+http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Disney-IN/playlist.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Hungama Kids :-
+http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Hungama-Kids/playlist.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Wow Kidz :-
+http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Wow-Kidz/playlist.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",T Sports HD :-
+http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/TSports-HD/playlist.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Gazi TV :-
+http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Gazi-TV/playlist.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star Sports Hindi
+http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Star-Sports-Hindi/playlist.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star Sports 1 HD
+http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/StarSports-1/playlist.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star Sports Bangla
+http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Star-Sports-Bangla/playlist.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",Star plus
+http://144.217.70.181:9587/hin2/STARPLUSHD/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",B4U MUSIC
+http://144.217.70.181:9587/hin2/B4UMUSIC/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Showbox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 group-title=" TATA PLAY ",MTVBEATSHD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Zoom
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",E24
+http://144.217.70.181:9587/hin2/E24/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Star Bharat 
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",Sony max
+http://144.217.70.181:9587/hin2/SONYMAXHD/playlist.m3u8?token=test
+#EXTINF:-1 group-title=" TATA PLAY ",UTSAV BHARAT HD
+http://31.172.87.20:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",STAR PLUS HD
+http://31.172.87.20:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",SONY MAX HD
+http://31.172.87.20:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",& PICTURES HD
+http://31.172.87.20:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",& TV HD
+http://31.172.87.20:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",STAR SPORTS HINDI HD
+http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",MTV HD
+http://31.172.87.20:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",STAR GOLD SELECT
+http://31.172.87.20:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",ZEE CINEMA HD
+http://31.172.87.20:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",CINEPLEX HD
+http://31.172.87.20:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+ #EXTINF:-1 group-title=" TATA PLAY ",MTV BEATS HD
+http://31.172.87.20:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",ENTER 10
+http://31.172.87.20:2200/R-EX/HINDI_ENTER_10_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title=" TATA PLAY ",HUNGAMA TV KIDS
+http://31.172.87.20:2200/R-EX/KIDS_Hungama_TV-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
