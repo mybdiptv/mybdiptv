@@ -1763,3 +1763,57 @@ http://31.172.87.20:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RED_Hqqv1c3
 http://31.172.87.20:2200/R-EX/HINDI_ENTER_10_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 group-title=" TATA PLAY ",HUNGAMA TV KIDS
 http://31.172.87.20:2200/R-EX/KIDS_Hungama_TV-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+
+
+
+#EXTINF:-1 group-title=" FTPBD",Star Sports 1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/gazi-tvs/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title=" FTPBD",Star Sports 1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsportshd-2/chunks.m3u8
+
+#EXTINF:-1 group-title=" FTPBD",Star Sports Select1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsportsselect-1/chunks.m3u8
+
+
+#EXTINF:-1 group-title=" FTPBD",Wollow
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/willow-cric/chunks.m3u8
+
+
+#EXTINF:-1 group-title=" FTPBD",TenSports
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/ten-sports/playlist.m3u8
+
+
+#EXTINF:-1 group-title=" FTPBD",PTV
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/ptvsports/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title=" FTPBD",Ze Bangla HD
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-bangla/chunks.m3u8
+
+#EXTINF:-1 group-title=" FTPBD",Colors Bangla HD
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/colors-bangla/chunks.m3u8
+
+
+#EXTINF:-1 group-title=" FTPBD",Ze Bangla Cinema
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema-bangla/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title=" FTPBD",Star Gold
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/star-gold/chunks.m3u8
+
+
+#EXTINF:-1 group-title=" FTPBD",Ze  Cinema
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title=" FTPBD",Sony Max
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sony-max/chunks.m3u8
