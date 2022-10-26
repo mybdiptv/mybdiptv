@@ -2002,3 +2002,136 @@ http://xtream.efiberbd.net:25461/mkaua/stream/58
 http://xtream.efiberbd.net:25461/mkaua/stream/59
 #EXTINF:-1 group-title=" BDIX ",Bangla Talkies
 http://xtream.efiberbd.net:25461/mkaua/stream/60
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cd33154eab952e9d97e7a7c6c73edcf5.png" group-title=" Restream", ATN Bangla
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69329
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d394cffdeba2805f97a1a1d0eb7f8785.png" group-title=" Restream", ATN News
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69342
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla 21" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Restream", Bangla 21
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296843
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c6ae7725df17d9750bbc6aa0fd4d9d83.png" group-title=" Restream", Bangla TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296842
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla Vision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/52a497823b27a223e68ce582420a2583.png" group-title=" Restream", Bangla Vision
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69335
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bijoy TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ea68f980ad3412a6e5e1cca724acfb7f.png" group-title=" Restream", Bijoy TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69367
+#EXTINF:-1 tvg-id="" tvg-name="BD: Boishakhi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10c4c4084969ce8fa7192440475e3bb7.png" group-title=" Restream", Boishakhi TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69337
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5188701230417ef09681e00ca025e5dc.png" group-title=" Restream", Channel 9
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69344
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/826b047114cef0562fe7e78f0d52e579.png" group-title=" Restream", Channel 24
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69341
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel S" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/15c7f1897b851cb9db284c3d6e5de248.png" group-title=" Restream", Channel S
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69346
+#EXTINF:-1 tvg-id="" tvg-name="BD: DBC NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fdad9ee99b6195c099c2448cb97eefc7.png" group-title=" Restream", DBC NEWS
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/172577
+#EXTINF:-1 tvg-id="" tvg-name="BD: Desh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04d05e7169b99de84d191a7405999bda.png" group-title=" Restream", Desh TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69347
+#EXTINF:-1 tvg-id="" tvg-name="BD: DesheBideshe TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/46f330e7b267ce38c1fc3305c58d9279.png" group-title=" Restream", DesheBideshe TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294920
+#EXTINF:-1 tvg-id="" tvg-name="BD: Doyel TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b396b1dd2fcefb5be81f7d0dd928a5bd.jfif" group-title=" Restream", Doyel TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286202
+#EXTINF:-1 tvg-id="" tvg-name="BD: Ekushey TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/15348398afde9ceae92fbeff2d6daf34.png" group-title=" Restream", Ekushey TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69350
+#EXTINF:-1 tvg-id="" tvg-name="BD: Gaan Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5d894f28c2bf535aab0a8a6ab260bae9.png" group-title=" Restream", Gaan Bangla
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69349
+#EXTINF:-1 tvg-id="" tvg-name="BD: Independent TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f45e3c9130146add84d6dd841a7452ec.png" group-title=" Restream", Independent TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165826
+#EXTINF:-1 tvg-id="" tvg-name="BD: Iqra Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6881ab8f9f2f5e5c0f338eac264e2839.png" group-title=" Restream", Iqra Bangla
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69364
+#EXTINF:-1 tvg-id="" tvg-name="BD: Jamuna TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a5b1d3b59975784de98d1637724f1c7a.png" group-title=" Restream", Jamuna TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69353
+#EXTINF:-1 tvg-id="" tvg-name="BD: Maasranga TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d227c25759153c7e6410d066ee7ca495.png" group-title=" Restream", Maasranga TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/172588
+#EXTINF:-1 tvg-id="" tvg-name="BD: Millennium TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a4b9abfcba3bc8548cc78b52f691ac3.png" group-title=" Restream", Millennium TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/196241
+#EXTINF:-1 tvg-id="" tvg-name="BD: Mohona TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/3e2e91ff0d9bd8c2ce6e9cdfae4ddec6.jfif" group-title=" Restream", Mohona TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69354
+#EXTINF:-1 tvg-id="" tvg-name="BD: NANDAN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5ed587dd5dba8f4f7221d46390cedea9.png" group-title=" Restream", NANDAN TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/172582
+#EXTINF:-1 tvg-id="" tvg-name="BD: News 24" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1cb7e13ea26f0a51688517b8cd84ca4a.png" group-title=" Restream", News 24
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5127
+#EXTINF:-1 tvg-id="" tvg-name="BD: NTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/cc145f6b549680ae384e9718421ccf57.png" group-title=" Restream", NTV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3647
+#EXTINF:-1 tvg-id="" tvg-name="BD: SA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/746105fde55cb7b3302737e35edcd537.png" group-title=" Restream", SA TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69357
+#EXTINF:-1 tvg-id="" tvg-name="BD: Somoy News TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9ea9ce147b648b97f06d1251da84fa39.png" group-title=" Restream", Somoy News TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69359
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rtv Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2577568c9de695bd6d55ff309c4ed03b.jpeg" group-title="India ➾ Music",IN: Rtv Music
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296559
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b706945ff908d5911a0be1eafffb46f.png" group-title=" Restream India", COLORS
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1366
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title=" Restream India", Star Jalsha
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12979
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/22132696b5c83d7204c4a3a571abae44.png" group-title=" Restream India", COLORS Bangla
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/247530
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title=" Restream India", Zee Bangla
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145632
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1a22ad3bdf83c44cc513c8ff2490fdd9.png" group-title=" Restream India", Zee Bangla Cinema
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/21658
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Aath" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/83941203168207f8d8a6c05fd4fc800c.png" group-title=" Restream India", Sony Aath
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/17005
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Cineplex" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title=" Restream India", COLORS Cineplex
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/19741
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c8999c3f7f2a94b767b604985edbc245.jpg" group-title=" Restream India", Sony
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281867
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/01624dbf5b113c4b044aa7bb9e7104f1.png" group-title=" Restream India", Sony Max
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1359
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title=" Restream India", Sony Max 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4862
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/204aab77089639f2bc393838adfd5580.png" group-title=" Restream India", Sony Max India
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/63397
+#EXTINF:-1 tvg-id="" tvg-name="IN: Enterr 10" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/b29014faedf40cfc7accdbf0fdbc89a4.png" group-title=" Restream India", Enterr 10
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193025
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title=" Restream India", Star Gold
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1070
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title=" Restream India", Zee Cinema
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1350
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title=" Restream India", Star Gold 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/43919
+XTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e1336a57c7f6dfb301b73836cead0c3.png" group-title=" Restream India", B4U Kadak
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49556
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/91625361b83e16f929b69d33fb9e52d5.png" group-title="India ➾ Movie",IN: B4U Movies
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1369
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title=" Restream India", B4U Music
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1368
+#EXTINF:-1 tvg-id="" tvg-name="PK: 8XM" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e6f3b2e8848c942ed7b6922458ac526c.png" group-title="Pakistan",PK: 8XM
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82577
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV Beats" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c167264b1c8ed82ac209f94dec1319c2.png" group-title=" Restream India", MTV Beats
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193068
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Bharat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e9606491d54a8c3000c382f141b2aaf2.png" group-title=" Restream India", Utsav Bharat
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16614
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a65ad5eaab77bbe22fac0884eb1a7774.png" group-title=" Restream India", Utsav Plus
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/60347
+#EXTINF:-1 tvg-id="" tvg-name="IN: UTV Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6870989348707321e9d14b5b3232666f.png" group-title=" Restream India", UTV Movies
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0f3c82f5b0a45a6fd211505522dd40a8.png" group-title=" Restream India", Utsav Gold
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82623
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Six" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/73301e189b695b51e416e9631ee986a8.png" group-title=" Restream India", Sony Six
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4853
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title=" Restream India", Sony Ten 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16622
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title=" Restream India", Sony Ten 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title=" Restream India", Sony Ten 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/56191
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7990c9248d459185d9b92ea4665bad06.png" group-title="Pakistan",PK: PTV Sports
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16633
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title=" Restream India", Star Sports 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title=" Restream India", Star Sports 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title=" Restream India", Star Sports 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/32dd229ae9dd6bb71e041ba5545ca2b9.jpg" group-title=" Restream India", Star Sports Select 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title=" Restream India", Star Sports Select 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16619
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title=" Restream India", Sony Wah
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165801
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6e32dd2e7ffc5d81134832bcbd16e03d.png" group-title=" Restream India", Sony Yay
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1355
