@@ -1176,3 +1176,14 @@ http://bestsave.ltd:2052/77774444/44447777/7723
 http://bestsave.ltd:2052/77774444/44447777/41906
 #EXTINF:-1 tvg-name="SP ➤ STAR SPORTS SELECT 2 HD" tvg-logo="http://imagesvr.biz/localsvr/STARSPORT2.jpg",SP ➤ STAR SPORTS SELECT 2 HD
 http://bestsave.ltd:2052/77774444/44447777/41907
+
+
+
+
+
+#EXTINF:-1 tvg-id="476" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+http://3.110.187.2/tsjiotv/live.php?c=Sony_Max_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://3.110.187.2/tsjiotv/live.php?c=Zee_Cinema_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="155" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
+http://3.110.187.2/tsjiotv/live.php?c=Six_HD&q=400&e=junk.m3u8
