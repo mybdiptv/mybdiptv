@@ -610,204 +610,6 @@ http://50.7.237.4:8080/SETMAX/index.m3u8
 #EXTINF:-1 group-title="Hindi",& Picture Hd
 http://103.16.24.54:8080/channel6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136634
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136583
-#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi", Star Plus
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136633
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iCOQK4B.png", Star Movies HD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136629
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vB5TQMg/Star-Gold-Select.jpg" group-title="Hindi", Star Gold Select
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136582
-
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://103.55.144.46/img/sony-maxhd.jpg", Sony Max HD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136654
-
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/zeecinemahd.jpg" group-title="Hindi", zee cinema hd
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136635
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/stargold.jpg" group-title="Hindi", Star Gold
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136619
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Bflix Movies
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136444
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Colors Cineplex
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136435
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Manoranjan Movies IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136500
-
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/zeetv.png" group-title="Hindi", ZEE TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136627
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC", Music India
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC", ICC_9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom HD BD" tvg-logo="" group-title="MUSIC",Dhoom HD BD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131643
-
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music BD" tvg-logo="" group-title="MUSIC",Dhoom Music BD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131645
-
-#EXTINF:-1 tvg-logo="https://imgur.com/dpf1I1U.png" group-title="Documentary", TravelXP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary",National Geographic HD(backup)
-http://103.159.4.38:9191/CH43-ENG1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="outhers",Sony Pix(backup)
-http://103.16.24.54:8080/channel2/index.m3u8
-
-#EXTINF:-1 group-title="outhers", 124. CNN
-http://103.159.4.38:9191/CH46-ENG4/index.m3u8
-
-
-#EXTINF:-1 group-title=" outhers", Dal zazera
-http://103.159.4.38:9191/CH47-ENG5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=" outhers", rta
-http://103.159.4.38:9191/CH48-ENG6/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title=" Internet Tv",Sunbangla (internet tv)
-http://103.121.14.18/hls/sunbangla.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",jalshamovies (internet tv)
-http://103.121.14.18/hls/jalshamovies.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",colore-bangla-cinema (internet tv)
-http://103.121.14.18/hls/colore-bangla-cinema.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",colorsbangla (internet tv)
-http://103.121.14.18/hls/colorsbangla.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",enterr10(internet tv)
-http://103.121.14.18/hls/enterr10.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",akash8(internet tv)
-http://103.121.14.18/hls/akash.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",zeebanglahd(internet tv)
-http://103.121.14.18/hls/zeebanglahd.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",starjalsha(internet )
-http://103.99.249.107:81/play/a00l
-
-#EXTINF:-1 group-title=" Internet Tv",starjalsha
-http://103.99.249.107:81/play/a030
-
-#EXTINF:-1 group-title=" Internet Tv",sangeetbangl(internet tv)
-http://103.121.14.18/hls/sangeetbangla.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",Sony_Aath(internet tv)
-http://103.121.14.18/hls/Sony_Aath.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",khushboo(internet tv)
-http://103.121.14.18/hls/khushboo.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",zee-bangla-cinema(internet tv)
-http://103.121.14.18/hls/zee-bangla-cinema.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",bindass(internet tv)
-http://103.121.14.18/hls/bindass.m3u8
-
-
-#EXTINF:-1 group-title=" Internet Tv",utvaction(internet tv)
-http://103.121.14.18/hls/utvaction.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",ZOOM
-http://103.121.14.18/hls/zoom.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",& PICTURE
-http://103.121.14.18/hls/andpictures.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",COLORS HD
-http://103.121.14.18/hls/colore-tv-hd.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",ZEE CINEMA HD
-http://103.121.14.18/hls/zeecinemahd.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",STAR PLUS
-http://103.121.14.18/hls/starplus.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",COLORS CINPLEX
-http://103.121.14.18/hls/colorscineplex.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",STAR GOLD 2
-http://103.121.14.18/hls/stargold2hd.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",SONY
-http://103.121.14.18/hls/sonyen.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",SONY TEN
-http://103.121.14.18/hls/sonyen.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",SONY MAX HD
-http://103.121.14.18/hls/sony-maxhd.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",ZEETV
-http://103.121.14.18/hls/zeetv.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",DISCOVRY SCINCE
-http://103.121.14.18/hls/dis-science.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",STAR GOLD HD
-http://103.121.14.18/hls/stargold.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",DHIN
-http://103.121.14.18/hls/dhin.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",9XM
-http://103.121.14.18/hls/9xm.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",MASTI
-http://103.121.14.18/hls/masti.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",BOJPURI
-http://103.121.14.18/hls/bhojpuri.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",SONY SIX
-http://103.121.14.18/hls/sonysix.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",EUROSPORTS
-http://103.121.14.18/hls/euro.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",STAR SPORTS 1 SELECT HD
-http://103.121.14.18/hls/Star_Sport_Select1HD.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",STAR SPORTS 1 HD
-http://103.121.14.18/hls/stersports1hd.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",STAR SPORTS 2
-http://103.121.14.18/hls/starsports2.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",SONY TEN 3
-http://103.121.14.18/hls/sonyten3.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",STAR SPORTS SELECT 2
-http://103.121.14.18/hls/select2.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",TEN 2
-http://103.121.14.18/hls/sonyten2.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",SONY TEN 1
-http://103.121.14.18/hls/sonyten1.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",T SPORTS
-http://103.121.14.18/hls/t-sports.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",TEN SPORTS
-http://103.121.14.18/hls/ten.m3u8
-
-#EXTINF:-1 group-title=" Internet Tv",PTV
-http://103.121.14.18/hls/ptv.m3u8
-
-
 
 
 
@@ -860,357 +662,8 @@ http://208.86.19.13:81/730.stream/index.m3u8
 
 
 
-#EXTINF:-1 ,&flix HD
-http://103.162.136.235:4500/play/a00c/index.m3u8
-#EXTINF:-1 ,&pictures HD
-http://103.162.136.235:4500/play/a00n/index.m3u8
-#EXTINF:-1 ,&prive HD
-http://103.162.136.235:4500/play/a00s/index.m3u8
-#EXTINF:-1 ,&tv HD
-http://103.162.136.235:4500/play/a00u/index.m3u8
-#EXTINF:-1 ,13 Ulica HD
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,AXN SPIN
-http://103.162.136.235:4500/play/a02q/index.m3u8
-#EXTINF:-1 ,BBC EARTH HD
-http://103.162.136.235:4500/play/a035/index.m3u8
-#EXTINF:-1 ,BLACK
-http://103.162.136.235:4500/play/a039/index.m3u8
-#EXTINF:-1 ,Boomerang HD
-http://103.162.136.235:4500/play/a01n/index.m3u8
-#EXTINF:-1 ,Colors HD
-http://103.162.136.235:4500/play/a00f/index.m3u8
-#EXTINF:-1 ,Colors Infinity HD
-http://103.162.136.235:4500/play/a00q/index.m3u8
-#EXTINF:-1 ,Discovery HD
-http://103.162.136.235:4500/play/a008/index.m3u8
-#EXTINF:-1 ,Discovery Kids
-http://103.162.136.235:4500/play/a01j/index.m3u8
-#EXTINF:-1 ,Discovery Science
-http://103.162.136.235:4500/play/a00y/index.m3u8
-#EXTINF:-1 ,Discovry Life
-http://103.162.136.235:4500/play/a031/index.m3u8
-#EXTINF:-1 ,Discovry Poland
-http://103.162.136.235:4500/play/a02y/index.m3u8
-#EXTINF:-1 ,Disney Channel
-http://103.162.136.235:4500/play/a01g/index.m3u8
-#EXTINF:-1 ,Disney Jr.
-http://103.162.136.235:4500/play/a01e/index.m3u8
-#EXTINF:-1 ,Fox Life HD
-http://103.162.136.235:4500/play/a011/index.m3u8
-#EXTINF:-1 ,Golf Chanell
-http://103.162.136.235:4500/play/a02v/index.m3u8
-#EXTINF:-1 ,HBO 3
-http://103.162.136.235:4500/play/a02p/index.m3u8
-#EXTINF:-1 ,HGTV
-http://103.162.136.235:4500/play/a033/index.m3u8
-#EXTINF:-1 ,Hungama
-http://103.162.136.235:4500/play/a01h/index.m3u8
-#EXTINF:-1 ,MN+ HD
-http://103.162.136.235:4500/play/a004/index.m3u8
-#EXTINF:-1 ,MNX
-http://103.162.136.235:4500/play/a012/index.m3u8
-#EXTINF:-1 ,Max HD
-http://103.162.136.235:4500/play/a01b/index.m3u8
-#EXTINF:-1 ,Movies Now
-http://103.162.136.235:4500/play/a00a/index.m3u8
-#EXTINF:-1 ,Mtv
-http://103.162.136.235:4500/play/a01l/index.m3u8
-#EXTINF:-1 ,Nat Geo HD
-http://103.162.136.235:4500/play/a007/index.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD
-http://103.162.136.235:4500/play/a01c/index.m3u8
-#EXTINF:-1 ,Nick
-http://103.162.136.235:4500/play/a01f/index.m3u8
-#EXTINF:-1 ,Nick HD+
-http://103.162.136.235:4500/play/a00r/index.m3u8
-#EXTINF:-1 ,Nick Jr.
-http://103.162.136.235:4500/play/a01m/index.m3u8
-#EXTINF:-1 ,Pix HD
-http://103.162.136.235:4500/play/a00m/index.m3u8
-#EXTINF:-1 ,Pogo
-http://103.162.136.235:4500/play/a01i/index.m3u8
-#EXTINF:-1 ,RED SD
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Romedy Now
-http://103.162.136.235:4500/play/a009/index.m3u8
-#EXTINF:-1 ,SCI- FI
-http://103.162.136.235:4500/play/a01v/index.m3u8
-#EXTINF:-1 ,SET HD
-http://103.162.136.235:4500/play/a00g/index.m3u8
-#EXTINF:-1 ,Sab HD
-http://103.162.136.235:4500/play/a00t/index.m3u8
-#EXTINF:-1 ,SciFi HD
-http://103.162.136.235:4500/play/a02s/index.m3u8
-#EXTINF:-1 ,Six HD
-http://103.162.136.235:4500/play/a01a/index.m3u8
-#EXTINF:-1 ,Sonic
-http://103.162.136.235:4500/play/a01k/index.m3u8
-#EXTINF:-1 ,Sony BBC Earth HD
-http://103.162.136.235:4500/play/a00l/index.m3u8
-#EXTINF:-1 ,Sony Ten 1 HD
-http://103.162.136.235:4500/play/a018/index.m3u8
-#EXTINF:-1 ,Sony Ten 2 HD
-http://103.162.136.235:4500/play/a00o/index.m3u8
-#EXTINF:-1 ,Sony Ten 3 HD
-http://103.162.136.235:4500/play/a01d/index.m3u8
-#EXTINF:-1 ,Star Bharat HD
-http://103.162.136.235:4500/play/a00p/index.m3u8
-#EXTINF:-1 ,Star Gold 2
-http://103.162.136.235:4500/play/a00x/index.m3u8
-#EXTINF:-1 ,Star Gold HD
-http://103.162.136.235:4500/play/a00j/index.m3u8
-#EXTINF:-1 ,Star Gold Select HD
-http://103.162.136.235:4500/play/a00k/index.m3u8
-#EXTINF:-1 ,Star Movies HD
-http://103.162.136.235:4500/play/a005/index.m3u8
-#EXTINF:-1 ,Star Movies Select HD
-http://103.162.136.235:4500/play/a006/index.m3u8
-#EXTINF:-1 ,Star Plus HD
-http://103.162.136.235:4500/play/a00d/index.m3u8
-#EXTINF:-1 ,Star Select 1 HD
-http://103.162.136.235:4500/play/a00v/index.m3u8
-#EXTINF:-1 ,Star Select 2 HD
-http://103.162.136.235:4500/play/a00w/index.m3u8
-#EXTINF:-1 ,Star Sports 1 HD
-http://103.162.136.235:4500/play/a015/index.m3u8
-#EXTINF:-1 ,Star Sports 1 Hindi HD
-http://103.162.136.235:4500/play/a017/index.m3u8
-#EXTINF:-1 ,Star Sports 2 HD
-http://103.162.136.235:4500/play/a016/index.m3u8
-#EXTINF:-1 ,Star World Premier HD
-http://103.162.136.235:4500/play/a014/index.m3u8
-#EXTINF:-1 ,Super Sports HD
-http://103.162.136.235:4500/play/a02a/index.m3u8
-#EXTINF:-1 ,TLC
-http://103.162.136.235:4500/play/a02z/index.m3u8
-#EXTINF:-1 ,TLC HD
-http://103.162.136.235:4500/play/a001/index.m3u8
-#EXTINF:-1 ,Utv Movies
-http://103.162.136.235:4500/play/a00z/index.m3u8
-#EXTINF:-1 ,Zee Cafe HD
-http://103.162.136.235:4500/play/a003/index.m3u8
-#EXTINF:-1 ,Zee Cinema HD
-http://103.162.136.235:4500/play/a00h/index.m3u8
-#EXTINF:-1 ,Zee TV HD
-http://103.162.136.235:4500/play/a00e/index.m3u8
 
 -------------------------------------------------------------------
-
-#EXTM3U
-
-#EXTINF:-1 group-title=" BDIPTV", Star Plus
-http://50.7.237.4:8080/STARPLUS/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Zee Tv
-http://50.7.237.4:8080/ZEETV/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Zee Cafe HD
-http://50.7.237.4:8080/ZEECAFEHD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Zee Action
-http://50.7.237.4:8080/ZEEACTION/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Zee Cinema
-http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Zee Anmol
-http://50.7.237.4:8080/ZEEANMOLCINEMA/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Sonh Max HD
-http://50.7.237.4:8080/SONYMAXHD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Sony Pix
-http://50.7.237.4:8080/SONYPIXHD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Star Gold
-http://50.7.237.4:8080/STARGOLD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Star Gold 2
-http://50.7.237.4:8080/STARGOLD2/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Music India
-http://50.7.237.4:8080/MUSICINDIA/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Zing
-http://50.7.237.4:8080/ZING/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",9xm
-http://50.7.237.4:8080/9XM/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Sony Aath
-http://50.7.237.4:8080/SONYAATH/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Zee Bangla Cinema
-http://50.7.237.4:8080/ZEEBANGLACINEMA/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Colors Bangla
-http://50.7.237.4:8080/COLORSBANGLAHD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Zee Bangla
-http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Star Jalsha
-http://50.7.237.4:8080/STARJALSHA/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Sony Six
-http://50.7.237.4:8080/SONYSIXHD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Sony Ten 1 HD
-http://50.7.237.4:8080/TEN1HD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Sony Ten 2 HD
-http://50.7.237.4:8080/TEN2HD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Sony Ten 3HD
-http://50.7.237.4:8080/TEN3HD/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Wwe Network
-http://50.7.237.4:8080/WWE/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Nickelodeon
-http://50.7.237.4:8080/NICKELODEON/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",CN
-http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
-
-#EXTINF:-1 group-title=" BDIPTV",Sony Yah
-http://50.7.237.4:8080/SONYYAY/index.m3u8
-
-
-
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title=" TATA PLAY ",Zee Cinema HD :-
-https://nayeem.chadasaniya.ml/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Zee TV HD :-
-https://nayeem.chadasaniya.ml/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star Plus HD :-
-https://nayeem.chadasaniya.ml/star-plus-LOCKLE/tracks-v1a1/mono.m3u8  
-#EXTINF:-1 group-title=" TATA PLAY ",Sony HD :-
-https://nayeem.chadasaniya.ml/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Sony Max HD :-
-https://nayeem.chadasaniya.ml/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Sony Sab HD :-
-https://nayeem.chadasaniya.ml/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Colors HD :-
-https://nayeem.chadasaniya.ml/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star Movies :-
-https://nayeem.chadasaniya.ml/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Fox Life HD :-
-https://nayeem.chadasaniya.ml/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star World :-
-https://nayeem.chadasaniya.ml/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",National Geographic :-
-https://nayeem.chadasaniya.ml/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",A Sports HD :-
-https://nayeem.chadasaniya.ml/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Deepto TV :-
-https://nayeem-ban.chadasaniya.ml/Deepto_TV_HD_bd/index.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Star Jalsha HD :-
-https://nayeem-ban.chadasaniya.ml/STARJALSAIND-Bang/index.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Jalsha Movies HD :-
-https://nayeem-ban.chadasaniya.ml/STAR_JHALSA_MOVIES_Bang/index.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Colors Bangla HD :-
-https://nayeem-ban.chadasaniya.ml/COLORSBANGLAIND-Bang/index.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Zee Cinema HD :-
-http://221.120.204.3/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Zee TV HD :-
-http://221.120.204.3/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star Plus HD
-http://221.120.204.3/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Sony HD 
-http://221.120.204.3/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Sony Max HD :-
-http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Sony Sab HD :-
-http://221.120.204.3/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Colors HD :-
-http://221.120.204.3/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",PTV Sports HD :-
-http://221.120.204.3/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star Movies :-
-http://221.120.204.3/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Fox Life HD :-
-http://221.120.204.3/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star World
-http://221.120.204.3/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Colors Infinity :-
-http://221.120.204.3/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",National Geographic :-
-http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
-drvA Sports HD
-http://221.120.204.3/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Disney India
-http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Disney-IN/playlist.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Hungama Kids :-
-http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Hungama-Kids/playlist.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Wow Kidz :-
-http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Wow-Kidz/playlist.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",T Sports HD :-
-http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/TSports-HD/playlist.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Gazi TV :-
-http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Gazi-TV/playlist.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star Sports Hindi
-http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Star-Sports-Hindi/playlist.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star Sports 1 HD
-http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/StarSports-1/playlist.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star Sports Bangla
-http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/hls/Star-Sports-Bangla/playlist.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",Star plus
-http://144.217.70.181:9587/hin2/STARPLUSHD/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Star Gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",B4U MUSIC
-http://144.217.70.181:9587/hin2/B4UMUSIC/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Showbox
-https://epiconvh.s.llnwi.net/showbox/master.m3u8
-#EXTINF:-1 group-title=" TATA PLAY ",MTVBEATSHD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Zoom
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",E24
-http://144.217.70.181:9587/hin2/E24/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",MTV
-http://144.217.70.181:9587/hin2/MTVINDIA/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",UTV HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Star Bharat 
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",Sony max
-http://144.217.70.181:9587/hin2/SONYMAXHD/playlist.m3u8?token=test
-#EXTINF:-1 group-title=" TATA PLAY ",UTSAV BHARAT HD
-http://31.172.87.20:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",STAR PLUS HD
-http://31.172.87.20:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",SONY MAX HD
-http://31.172.87.20:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",& PICTURES HD
-http://31.172.87.20:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",& TV HD
-http://31.172.87.20:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",STAR SPORTS HINDI HD
-http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",MTV HD
-http://31.172.87.20:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",STAR GOLD SELECT
-http://31.172.87.20:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",ZEE CINEMA HD
-http://31.172.87.20:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",CINEPLEX HD
-http://31.172.87.20:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
- #EXTINF:-1 group-title=" TATA PLAY ",MTV BEATS HD
-http://31.172.87.20:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",ENTER 10
-http://31.172.87.20:2200/R-EX/HINDI_ENTER_10_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title=" TATA PLAY ",HUNGAMA TV KIDS
-http://31.172.87.20:2200/R-EX/KIDS_Hungama_TV-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-
-
-
-
 
 
 
@@ -1343,49 +796,49 @@ http://xtream.efiberbd.net:25461/mkaua/stream/60
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="IN: UTSAV GOLD" tvg-logo="" group-title="Good Serverl",IN: UTSAV GOLD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: UTSAV GOLD" tvg-logo=""  group-title="Good Server",,IN: UTSAV GOLD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51375
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SIX" tvg-logo="" group-title="Good Serverl",IN: SONY SIX
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SIX" tvg-logo=""  group-title="Good Server",,IN: SONY SIX
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47239
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 1 HD" tvg-logo="" group-title="Good Serverl",IN: TEN 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 1 HD" tvg-logo=""  group-title="Good Server",,IN: TEN 1 HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2905
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 2" tvg-logo="" group-title="Good Serverl",IN: TEN 2
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 2" tvg-logo=""  group-title="Good Server",,IN: TEN 2
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2906
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 3" tvg-logo="" group-title="Good Serverl",IN: TEN 3
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 3" tvg-logo=""  group-title="Good Server",,IN: TEN 3
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2907
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN CRICKET" tvg-logo="" group-title="Good Serverl",IN: TEN CRICKET
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN CRICKET" tvg-logo=""  group-title="Good Server",,IN: TEN CRICKET
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47297
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Cricket" tvg-logo="" group-title="Malaysia Channel",MY: Astro Cricket
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Cricket" tvg-logo=""  group-title="Good Server",MY: Astro Cricket
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54242
-#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR SPORTS 3" tvg-logo="" group-title="Good Serverl",IN: STAR SPORTS 3
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR SPORTS 3" tvg-logo=""  group-title="Good Server",,IN: STAR SPORTS 3
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52056
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Sports" tvg-logo="" group-title="Good Serverl",IN: DD Sports
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Sports" tvg-logo=""  group-title="Good Server",,IN: DD Sports
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54368
-#EXTINF:-1 tvg-ID="" tvg-name="PK: PTV SPORTS" tvg-logo="" group-title="Good Serverl",PK: PTV SPORTS
+#EXTINF:-1 tvg-ID="" tvg-name="PK: PTV SPORTS" tvg-logo=""  group-title="Good Server",,PK: PTV SPORTS
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/490
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TV HD" tvg-logo="" group-title="Good Serverl",IN: SONY TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TV HD" tvg-logo=""  group-title="Good Server",,IN: SONY TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1718
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TV UK" tvg-logo="" group-title="Good Serverl",IN: SONY TV UK
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TV UK" tvg-logo=""  group-title="Good Server",,IN: SONY TV UK
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47241
-#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR GOLD" tvg-logo="" group-title="Good Serverl",IN: STAR GOLD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR GOLD" tvg-logo=""  group-title="Good Server",,IN: STAR GOLD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1714
-#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR JALSHA" tvg-logo="" group-title="Good Serverl",IN: STAR JALSHA
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR JALSHA" tvg-logo=""  group-title="Good Server",,IN: STAR JALSHA
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47243
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BANGLA" tvg-logo="" group-title="Good Serverl",IN: ZEE BANGLA
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BANGLA" tvg-logo=""  group-title="Good Server",,IN: ZEE BANGLA
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/432
-#EXTINF:-1 tvg-ID="" tvg-name="PK:  ZEE Bangla HD" tvg-logo="" group-title="Good Server",PK:  ZEE Bangla HD
+#EXTINF:-1 tvg-ID="" tvg-name="PK:  ZEE Bangla HD" tvg-logo=" group-title="Good Server",PK:  ZEE Bangla HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/441
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jalsa HD" tvg-logo="" group-title="Good Server",BAN: Star Jalsa HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jalsa HD" tvg-logo=" group-title="Good Server",BAN: Star Jalsa HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50236
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jalsha IN" tvg-logo="" group-title="Good Server",BAN: Star Jalsha IN
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jalsha IN" tvg-logo=" group-title="Good Server",BAN: Star Jalsha IN
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50229
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jhalsa Movies HD" tvg-logo="" group-title="Good Server",BAN: Star Jhalsa Movies HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jhalsa Movies HD" tvg-logo=" group-title="Good Server",BAN: Star Jhalsa Movies HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50235
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: JALSA MOVIES" tvg-logo="" group-title="Good Server",BAN: JALSA MOVIES
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: JALSA MOVIES" tvg-logo=" group-title="Good Server",BAN: JALSA MOVIES
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50282
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Dhoom Music HD" tvg-logo="" group-title="Good Server",BAN: Dhoom Music HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Dhoom Music HD" tvg-logo=" group-title="Good Server",BAN: Dhoom Music HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50265
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee Bangla Cinema IN" tvg-logo="" group-title="Good Server",BAN: Zee Bangla Cinema IN
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee Bangla Cinema IN" tvg-logo=" group-title="Good Server",BAN: Zee Bangla Cinema IN
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50230
 
 
@@ -1395,224 +848,227 @@ http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50230
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="##### BANGLADESH #####" tvg-logo="" group-title="Good Server",##### BANGLADESH #####
+#EXTINF:-1 tvg-ID="" tvg-name="##### BANGLADESH #####" tvg-logo=" group-title="Good Server",##### BANGLADESH #####
 direct
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Aamar HD" tvg-logo="" group-title="Good Server",BAN: Aamar HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Aamar HD" tvg-logo=" group-title="Good Server",BAN: Aamar HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50290
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: ABP Ananda HD" tvg-logo="" group-title="Good Server",BAN: ABP Ananda HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ABP Ananda HD" tvg-logo=" group-title="Good Server",BAN: ABP Ananda HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50289
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Asian TV HD" tvg-logo="" group-title="Good Server",BAN: Asian TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Asian TV HD" tvg-logo=" group-title="Good Server",BAN: Asian TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50288
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN HD" tvg-logo="" group-title="Good Server",BAN: ATN HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN HD" tvg-logo=" group-title="Good Server",BAN: ATN HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50287
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN News HD" tvg-logo="" group-title="Good Server",BAN: ATN News HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN News HD" tvg-logo=" group-title="Good Server",BAN: ATN News HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50285
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN HD" tvg-logo="" group-title="Good Server",BAN: ATN HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN HD" tvg-logo=" group-title="Good Server",BAN: ATN HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50284
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Bangla Vision HD" tvg-logo="" group-title="Good Server",BAN: Bangla Vision HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Bangla Vision HD" tvg-logo=" group-title="Good Server",BAN: Bangla Vision HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50283
 
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Boishakhi HD" tvg-logo="" group-title="Good Server",BAN: Boishakhi HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Boishakhi HD" tvg-logo=" group-title="Good Server",BAN: Boishakhi HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50281
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: BTV HD" tvg-logo="" group-title="Good Server",BAN: BTV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: BTV HD" tvg-logo=" group-title="Good Server",BAN: BTV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50280
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: BTV World HD" tvg-logo="" group-title="Good Server",BAN: BTV World HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: BTV World HD" tvg-logo=" group-title="Good Server",BAN: BTV World HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50279
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 24 HD" tvg-logo="" group-title="Good Server",BAN: Channel 24 HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 24 HD" tvg-logo=" group-title="Good Server",BAN: Channel 24 HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50278
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 9 HD" tvg-logo="" group-title="Good Server",BAN: Channel 9 HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 9 HD" tvg-logo=" group-title="Good Server",BAN: Channel 9 HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50277
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 99 HD" tvg-logo="" group-title="Good Server",BAN: Channel 99 HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 99 HD" tvg-logo=" group-title="Good Server",BAN: Channel 99 HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50276
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel I EU HD" tvg-logo="" group-title="Good Server",BAN: Channel I EU HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel I EU HD" tvg-logo=" group-title="Good Server",BAN: Channel I EU HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50275
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel I HD" tvg-logo="" group-title="Good Server",BAN: Channel I HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel I HD" tvg-logo=" group-title="Good Server",BAN: Channel I HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50273
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel S HD" tvg-logo="" group-title="Good Server",BAN: Channel S HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel S HD" tvg-logo=" group-title="Good Server",BAN: Channel S HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50274
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Colors  HD" tvg-logo="" group-title="Good Server",BAN: Colors  HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Colors  HD" tvg-logo=" group-title="Good Server",BAN: Colors  HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50272
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: DBC News HD" tvg-logo="" group-title="Good Server",BAN: DBC News HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: DBC News HD" tvg-logo=" group-title="Good Server",BAN: DBC News HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50271
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: DD Bangla HD" tvg-logo="" group-title="Good Server",BAN: DD Bangla HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: DD Bangla HD" tvg-logo=" group-title="Good Server",BAN: DD Bangla HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50270
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Deepto HD HD" tvg-logo="" group-title="Good Server",BAN: Deepto HD HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Deepto HD HD" tvg-logo=" group-title="Good Server",BAN: Deepto HD HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50269
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Deshe Bideshe TV HD" tvg-logo="" group-title="Good Server",BAN: Deshe Bideshe TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Deshe Bideshe TV HD" tvg-logo=" group-title="Good Server",BAN: Deshe Bideshe TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50268
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: DeshTV HD" tvg-logo="" group-title="Good Server",BAN: DeshTV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: DeshTV HD" tvg-logo=" group-title="Good Server",BAN: DeshTV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50266
 
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Ekatoor TV HD" tvg-logo="" group-title="Good Server",BAN: Ekatoor TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Ekatoor TV HD" tvg-logo=" group-title="Good Server",BAN: Ekatoor TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50263
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: ETV HD" tvg-logo="" group-title="Good Server",BAN: ETV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ETV HD" tvg-logo=" group-title="Good Server",BAN: ETV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50262
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Gaan HD" tvg-logo="" group-title="Good Server",BAN: Gaan HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Gaan HD" tvg-logo=" group-title="Good Server",BAN: Gaan HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50260
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Independent HD" tvg-logo="" group-title="Good Server",BAN: Independent HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Independent HD" tvg-logo=" group-title="Good Server",BAN: Independent HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50259
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: iTV HD" tvg-logo="" group-title="Good Server",BAN: iTV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: iTV HD" tvg-logo=" group-title="Good Server",BAN: iTV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50258
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Jamuna TV HD" tvg-logo="" group-title="Good Server",BAN: Jamuna TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Jamuna TV HD" tvg-logo=" group-title="Good Server",BAN: Jamuna TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50257
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Maasaranga HD" tvg-logo="" group-title="Good Server",BAN: Maasaranga HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Maasaranga HD" tvg-logo=" group-title="Good Server",BAN: Maasaranga HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50256
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Masranga TV HD" tvg-logo="" group-title="Good Server",BAN: Masranga TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Masranga TV HD" tvg-logo=" group-title="Good Server",BAN: Masranga TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50255
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Millennium TV HD" tvg-logo="" group-title="Good Server",BAN: Millennium TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Millennium TV HD" tvg-logo=" group-title="Good Server",BAN: Millennium TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50254
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Mohana HD" tvg-logo="" group-title="Good Server",BAN: Mohana HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Mohana HD" tvg-logo=" group-title="Good Server",BAN: Mohana HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50253
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Movie HD" tvg-logo="" group-title="Good Server",BAN: Movie HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Movie HD" tvg-logo=" group-title="Good Server",BAN: Movie HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50252
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Music HD" tvg-logo="" group-title="Good Server",BAN: Music HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Music HD" tvg-logo=" group-title="Good Server",BAN: Music HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50251
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: MyTV HD" tvg-logo="" group-title="Good Server",BAN: MyTV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: MyTV HD" tvg-logo=" group-title="Good Server",BAN: MyTV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50250
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: News 24 HD" tvg-logo="" group-title="Good Server",BAN: News 24 HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: News 24 HD" tvg-logo=" group-title="Good Server",BAN: News 24 HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50249
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: NRB TV HD" tvg-logo="" group-title="Good Server",BAN: NRB TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: NRB TV HD" tvg-logo=" group-title="Good Server",BAN: NRB TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50248
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: NTV UK HD" tvg-logo="" group-title="Good Server",BAN: NTV UK HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: NTV UK HD" tvg-logo=" group-title="Good Server",BAN: NTV UK HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50246
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Probashi HD" tvg-logo="" group-title="Good Server",BAN: Probashi HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Probashi HD" tvg-logo=" group-title="Good Server",BAN: Probashi HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50245
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: R Plus News HD" tvg-logo="" group-title="Good Server",BAN: R Plus News HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: R Plus News HD" tvg-logo=" group-title="Good Server",BAN: R Plus News HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50244
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Ruposhi HD" tvg-logo="" group-title="Good Server",BAN: Ruposhi HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Ruposhi HD" tvg-logo=" group-title="Good Server",BAN: Ruposhi HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50242
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Sangeet HD" tvg-logo="" group-title="Good Server",BAN: Sangeet HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Sangeet HD" tvg-logo=" group-title="Good Server",BAN: Sangeet HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50241
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Somoy HD" tvg-logo="" group-title="Good Server",BAN: Somoy HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Somoy HD" tvg-logo=" group-title="Good Server",BAN: Somoy HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50237
 
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Tarang Muzik HD" tvg-logo="" group-title="Good Server",BAN: Tarang Muzik HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Tarang Muzik HD" tvg-logo=" group-title="Good Server",BAN: Tarang Muzik HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50234
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Time Television HD" tvg-logo="" group-title="Good Server",BAN: Time Television HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Time Television HD" tvg-logo=" group-title="Good Server",BAN: Time Television HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50233
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: TV UK HD" tvg-logo="" group-title="Good Server",BAN: TV UK HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: TV UK HD" tvg-logo=" group-title="Good Server",BAN: TV UK HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50232
-#EXTINF:-1 tvg-ID="" tvg-name="PK: HUM TV" tvg-logo="" group-title="Good Serverl",PK: HUM TV
+#EXTINF:-1 tvg-ID="" tvg-name="PK: HUM TV" tvg-logo=""  group-title="Good Server",,PK: HUM TV
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47218
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BOLLYWOOD" tvg-logo="" group-title="Good Serverl",IN: ZEE BOLLYWOOD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BOLLYWOOD" tvg-logo=""  group-title="Good Server",,IN: ZEE BOLLYWOOD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/445
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BUSINESS" tvg-logo="" group-title="Good Serverl",IN: ZEE BUSINESS
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BUSINESS" tvg-logo=""  group-title="Good Server",,IN: ZEE BUSINESS
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47278
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CAFE HD" tvg-logo="" group-title="Good Serverl",IN: ZEE CAFE HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CAFE HD" tvg-logo=""  group-title="Good Server",,IN: ZEE CAFE HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/433
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CINEMA ASIA" tvg-logo="" group-title="Good Serverl",IN: ZEE CINEMA ASIA
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CINEMA ASIA" tvg-logo=""  group-title="Good Server",,IN: ZEE CINEMA ASIA
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47280
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CINEMA HD" tvg-logo="" group-title="Good Serverl",IN: ZEE CINEMA HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CINEMA HD" tvg-logo=""  group-title="Good Server",,IN: ZEE CINEMA HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/452
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SAB ASIA" tvg-logo="" group-title="Good Serverl",IN: SONY SAB ASIA
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SAB ASIA" tvg-logo=""  group-title="Good Server",,IN: SONY SAB ASIA
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1721
 
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee Cinema HD" tvg-logo="" group-title="Good Server",BAN: Zee Cinema HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee Cinema HD" tvg-logo=" group-title="Good Server",BAN: Zee Cinema HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50231
-#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee HD" tvg-logo="" group-title="Good Server",BAN: Zee HD
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee HD" tvg-logo=" group-title="Good Server",BAN: Zee HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50228
 #EXTINF:-1 tvg-ID="" tvg-name="PK: AWAZ ENTERTAINMENT" tvg-logo="" group-title="",PK: AWAZ ENTERTAINMENT
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51386
-#EXTINF:-1 tvg-ID="" tvg-name="IN: 9X MUSIC" tvg-logo="" group-title="Good Serverl",IN: 9X MUSIC
-ht#EXTINF:-1 tvg-ID="" tvg-name="IN: & PICTURE HD" tvg-logo="" group-title="Good Serverl",IN: & PICTURE HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 9X MUSIC" tvg-logo=""  group-title="Good Server",,IN: 9X MUSIC
+ht#EXTINF:-1 tvg-ID="" tvg-name="IN: & PICTURE HD" tvg-logo=""  group-title="Good Server",,IN: & PICTURE HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47234
-#EXTINF:-1 tvg-ID="" tvg-name="IN: & TV" tvg-logo="" group-title="Good Serverl",IN: & TV
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & TV" tvg-logo=""  group-title="Good Server",,IN: & TV
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47223tp://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47215
-#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U MOVIE" tvg-logo="" group-title="Good Serverl",IN: B4U MOVIE
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U MOVIE" tvg-logo=""  group-title="Good Server",,IN: B4U MOVIE
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/455
-#EXTINF:-1 tvg-ID="" tvg-name="IN: B4u kadak" tvg-logo="" group-title="Good Serverl",IN: B4u kadak
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4u kadak" tvg-logo=""  group-title="Good Server",,IN: B4u kadak
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52957
-#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U MUSIC" tvg-logo="" group-title="Good Serverl",IN: B4U MUSIC
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U MUSIC" tvg-logo=""  group-title="Good Server",,IN: B4U MUSIC
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47224
-#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR UTSAV MOVIES" tvg-logo="" group-title="Good Serverl",IN: STAR UTSAV MOVIES
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR UTSAV MOVIES" tvg-logo=""  group-title="Good Server",,IN: STAR UTSAV MOVIES
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51380
-#EXTINF:-1 tvg-ID="" tvg-name="IN: MTV Beats HD" tvg-logo="" group-title="Good Serverl",IN: MTV Beats HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: MTV Beats HD" tvg-logo=""  group-title="Good Server",,IN: MTV Beats HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51379
-#EXTINF:-1 tvg-ID="" tvg-name="PK: 8XM" tvg-logo="" group-title="Good Serverl",PK: 8XM
+#EXTINF:-1 tvg-ID="" tvg-name="PK: 8XM" tvg-logo=""  group-title="Good Server",,PK: 8XM
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50821
 
-#EXTINF:-1 tvg-ID="" tvg-name="PK: 9X TASHAN" tvg-logo="" group-title="Good Serverl",PK: 9X TASHAN
+#EXTINF:-1 tvg-ID="" tvg-name="PK: 9X TASHAN" tvg-logo=""  group-title="Good Server",,PK: 9X TASHAN
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47214
-#EXTINF:-1 tvg-ID="" tvg-name="PK: 9X JALWA" tvg-logo="" group-title="Good Serverl",PK: 9X JALWA
+#EXTINF:-1 tvg-ID="" tvg-name="PK: 9X JALWA" tvg-logo=""  group-title="Good Server",,PK: 9X JALWA
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/501
-#EXTINF:-1 tvg-ID="" tvg-name="IN: UTV Bindas" tvg-logo="" group-title="Good Serverl",IN: UTV Bindas
+#EXTINF:-1 tvg-ID="" tvg-name="IN: UTV Bindas" tvg-logo=""  group-title="Good Server",,IN: UTV Bindas
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51434
-#EXTINF:-1 tvg-ID="" tvg-name="IN: COLORS HD" tvg-logo="" group-title="Good Serverl",IN: COLORS HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: COLORS HD" tvg-logo=""  group-title="Good Server",,IN: COLORS HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/426
-#EXTINF:-1 tvg-ID="" tvg-name="IN: MUSIC INDIA" tvg-logo="" group-title="Good Serverl",IN: MUSIC INDIA
+#EXTINF:-1 tvg-ID="" tvg-name="IN: MUSIC INDIA" tvg-logo=""  group-title="Good Server",,IN: MUSIC INDIA
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47232
-#EXTINF:-1 tvg-ID="" tvg-name="PK: ANIMAL PLANET" tvg-logo="" group-title="Good Serverl",PK: ANIMAL PLANET
+#EXTINF:-1 tvg-ID="" tvg-name="PK: ANIMAL PLANET" tvg-logo=""  group-title="Good Server",,PK: ANIMAL PLANET
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51475
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY MAX 2" tvg-logo="" group-title="Good Serverl",IN: SONY MAX 2
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY MAX 2" tvg-logo=""  group-title="Good Server",,IN: SONY MAX 2
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47237
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY MAX" tvg-logo="" group-title="Good Serverl",IN: SONY MAX
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY MAX" tvg-logo=""  group-title="Good Server",,IN: SONY MAX
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47238
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY Pix HD" tvg-logo="" group-title="Good Serverl",IN: SONY Pix HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY Pix HD" tvg-logo=""  group-title="Good Server",,IN: SONY Pix HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51428
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE ACTION" tvg-logo="" group-title="Good Serverl",IN: ZEE ACTION
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE ACTION" tvg-logo=""  group-title="Good Server",,IN: ZEE ACTION
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/423
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE TV" tvg-logo="" group-title="Good Serverl",IN: ZEE TV
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE TV" tvg-logo=""  group-title="Good Server",,IN: ZEE TV
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/449
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE TV HD" tvg-logo="" group-title="Good Serverl",IN: ZEE TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE TV HD" tvg-logo=""  group-title="Good Server",,IN: ZEE TV HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47286
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan TV" tvg-logo="" group-title="Good Serverl",IN: Manoranjan TV
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan TV" tvg-logo=""  group-title="Good Server",,IN: Manoranjan TV
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52958
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan Movies" tvg-logo="" group-title="Good Serverl",IN: Manoranjan Movies
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan Movies" tvg-logo=""  group-title="Good Server",,IN: Manoranjan Movies
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52959
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2 HD" tvg-logo="" group-title="Malaysia Channel",MY: FOX SPORTS 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2 HD" tvg-logo=""  group-title="Good Server",MY: FOX SPORTS 2 HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52858
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1 FHD" tvg-logo="" group-title="Malaysia Channel",MY: ASTRO SUPERSPORTS 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1 FHD" tvg-logo=""  group-title="Good Server",MY: ASTRO SUPERSPORTS 1 FHD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52859
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 2 FHD" tvg-logo="" group-title="Malaysia Channel",MY: ASTRO SUPERSPORTS 2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 2 FHD" tvg-logo=""  group-title="Good Server",MY: ASTRO SUPERSPORTS 2 FHD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52860
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 3 FHD" tvg-logo="" group-title="Malaysia Channel",MY: ASTRO SUPERSPORTS 3 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 3 FHD" tvg-logo=""  group-title="Good Server",MY: ASTRO SUPERSPORTS 3 FHD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52861
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 4 FHD" tvg-logo="" group-title="Malaysia Channel",MY: ASTRO SUPERSPORTS 4 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 4 FHD" tvg-logo=""  group-title="Good Server",MY: ASTRO SUPERSPORTS 4 FHD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52862
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_01_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_01_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_02_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_02_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_04_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_04_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_04_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_04_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_05_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_05_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_05_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_05_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/5
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_06_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_06_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_06_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_06_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/6
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_07_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_07_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_07_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_07_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/7
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_01_PREMIUM_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_01_PREMIUM_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/9
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_02_PREMIUM_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_02_PREMIUM_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_03_PREMIUM_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo=" group-title="Good Server",BeIN_Sport_03_PREMIUM_HD
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/11
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_XTRA_01" tvg-logo="" group-title="Good Server",BeIN_Sport_XTRA_01
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_XTRA_01" tvg-logo=" group-title="Good Server",BeIN_Sport_XTRA_01
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/10
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_XTRA_02" tvg-logo="" group-title="Good Server",BeIN_Sport_XTRA_02
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_XTRA_02" tvg-logo=" group-title="Good Server",BeIN_Sport_XTRA_02
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53670
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_01_Hevc50" tvg-logo="" group-title="Good Server",BEIN_Sport_01_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_01_Hevc50" tvg-logo=" group-title="Good Server",BEIN_Sport_01_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52269
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_02_Hevc50" tvg-logo="" group-title="Good Server",BEIN_Sport_02_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_02_Hevc50" tvg-logo=" group-title="Good Server",BEIN_Sport_02_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48878
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_03_Hevc50" tvg-logo="" group-title="Good Server",BEIN_Sport_03_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_03_Hevc50" tvg-logo=" group-title="Good Server",BEIN_Sport_03_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48879
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_07_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_07_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_07_Hevc50" tvg-logo=" group-title="Good Server",BeIN_Sport_07_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49433
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_05_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_05_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_05_Hevc50" tvg-logo=" group-title="Good Server",BeIN_Sport_05_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49605
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_04_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_04_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_04_Hevc50" tvg-logo=" group-title="Good Server",BeIN_Sport_04_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49606
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_06_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_06_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_06_Hevc50" tvg-logo=" group-title="Good Server",BeIN_Sport_06_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49621
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_01_PREMIUM_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_Hevc50" tvg-logo=" group-title="Good Server",BeIN_Sport_01_PREMIUM_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49622
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_02_PREMIUM_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_Hevc50" tvg-logo=" group-title="Good Server",BeIN_Sport_02_PREMIUM_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51018
-#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_03_PREMIUM_Hevc50" tvg-logo="" group-title="Good Server",Bein_sport_03_PREMIUM_Hevc50
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_03_PREMIUM_Hevc50" tvg-logo=" group-title="Good Server",Bein_sport_03_PREMIUM_Hevc50
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52271
+
+
+
 
 
