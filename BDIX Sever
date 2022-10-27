@@ -808,120 +808,6 @@ http://103.121.14.18/hls/ten.m3u8
 http://103.121.14.18/hls/ptv.m3u8
 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD IN" tvg-logo="" group-title="India",Colors Bangla HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136592
-#EXTINF:-1 tvg-id="" tvg-name="Sony HD IN" tvg-logo="" group-title="India",Sony HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136583
-#EXTINF:-1 tvg-id="" tvg-name="Sony MAX HD IN" tvg-logo="" group-title="India",Sony MAX HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136654
-#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal IN." tvg-logo="" group-title="India",Sony Pal IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136434
-#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="India",Sony Pix HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136688
-#EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD IN" tvg-logo="" group-title="India",Sony SAB HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136614
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="Sony Six HD IN" tvg-logo="" group-title="India",Sony Six HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136701
-#EXTINF:-1 tvg-id="" tvg-name="Star Bharat IN" tvg-logo="" group-title="India",Star Bharat IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136579
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD IN" tvg-logo="" group-title="India",Star Gold HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136619
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select HD IN" tvg-logo="" group-title="India",Star Gold Select HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136582
-#EXTINF:-1 tvg-id="starjalsha.in" tvg-name="Star Jalsha IN." tvg-logo="" group-title="India",Star Jalsha IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136480
-#EXTINF:-1 tvg-id="" tvg-name="Star Maa Gold IN." tvg-logo="" group-title="India",Star Maa Gold IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136477
-#EXTINF:-1 tvg-id="" tvg-name="Star Maa HD IN" tvg-logo="" group-title="India",Star Maa HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136590
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="India",Star Movies HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136629
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD IN" tvg-logo="" group-title="India",Star Plus HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136633
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="" group-title="India",Star Sports 1 HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136657
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="" group-title="India",Star Sports 2 HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136615
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD IN" tvg-logo="" group-title="India",Star Sports Select 1 HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136612
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="" group-title="India",Star Sports select 2 HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136616
-#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav IN" tvg-logo="" group-title="India",Star Utsav IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136693
-#EXTINF:-1 tvg-id="" tvg-name="Star Vijay HD IN" tvg-logo="" group-title="India",Star Vijay HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136649
-#EXTINF:-1 tvg-id="" tvg-name="Star Vijay Super IN" tvg-logo="" group-title="India",Star Vijay Super IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136663
-#EXTINF:-1 tvg-id="" tvg-name="Star World HD IN" tvg-logo="" group-title="India",Star World HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136651
-#EXTINF:-1 tvg-id="" tvg-name="Star World Premiere HD IN" tvg-logo="" group-title="India",Star World Premiere HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136639
-#EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life  IN." tvg-logo="" group-title="India",Sun Life  IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136474
-#EXTINF:-1 tvg-id="" tvg-name="Sun Music IN" tvg-logo="" group-title="India",Sun Music IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136594
-#EXTINF:-1 tvg-id="" tvg-name="Surya Samachar IN" tvg-logo="" group-title="India",Surya Samachar IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136532
-#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="" group-title="India",TEN 1 HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136578
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="" group-title="India",TEN 2 HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136666
-#EXTINF:-1 tvg-id="" tvg-name="Ten Sports IN" tvg-logo="" group-title="India",Ten Sports IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136667
-#EXTINF:-1 tvg-id="" tvg-name="TEN Sports Pak IN" tvg-logo="" group-title="India",TEN Sports Pak IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136555
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP HD IN" tvg-logo="" group-title="India",Travel XP HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136648
-#EXTINF:-1 tvg-id="" tvg-name="TV One IN" tvg-logo="" group-title="India",TV One IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136573
-#EXTINF:-1 tvg-id="tv9marathi.in" tvg-name="Tv9 Marathi IN." tvg-logo="" group-title="India",Tv9 Marathi IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136427
-#EXTINF:-1 tvg-id="" tvg-name="Urdu one IN" tvg-logo="" group-title="India",Urdu one IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136561
-#EXTINF:-1 tvg-id="" tvg-name="Vision Punjabi Music IN" tvg-logo="" group-title="India",Vision Punjabi Music IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136699
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD IN" tvg-logo="" group-title="India",Zee Bangla HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136584
-#EXTINF:-1 tvg-id="" tvg-name="Zee Biscope IN" tvg-logo="" group-title="India",Zee Biscope IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136691
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="" group-title="India",Zee Cafe IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136588
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD IN" tvg-logo="" group-title="India",Zee Cinema HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136635
-#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic IN" tvg-logo="" group-title="India",Zee Classic IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136700
-#EXTINF:-1 tvg-id="" tvg-name="Zee Hindustan IN" tvg-logo="" group-title="India",Zee Hindustan IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136537
-#EXTINF:-1 tvg-id="" tvg-name="Zee Kannada HD IN." tvg-logo="" group-title="India",Zee Kannada HD IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136475
-#EXTINF:-1 tvg-id="" tvg-name="Zee News IN" tvg-logo="" group-title="India",Zee News IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136542
-#EXTINF:-1 tvg-id="zeetalkies.in" tvg-name="Zee Talkies IN" tvg-logo="" group-title="India",Zee Talkies IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136585
-#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil HD IN" tvg-logo="" group-title="India",Zee Tamil HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136595
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD IN" tvg-logo="" group-title="India",Zee TV HD IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136627
-#EXTINF:-1 tvg-id="zing.in" tvg-name="Zing TV IN." tvg-logo="" group-title="India",Zing TV IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136482
-#EXTINF:-1 tvg-id="" tvg-name="-= Tamil =-" tvg-logo="" group-title="India",-= Tamil =-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/134452
-#EXTINF:-1 tvg-id="" tvg-name="-= Punjabi =-" tvg-logo="" group-title="India",-= Punjabi =-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/134451
-#EXTINF:-1 tvg-id="" tvg-name="-= Urdu =-" tvg-logo="" group-title="India",-= Urdu =-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/134392
-#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="HUM Masala IN" tvg-logo="" group-title="India",HUM Masala IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/134405
-#EXTINF:-1 tvg-id="" tvg-name="-= Marathi =-" tvg-logo="" group-title="India",-= Marathi =-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/135640
-#EXTINF:-1 tvg-id="" tvg-name="-= Kannada =-" tvg-logo="" group-title="India",-= Kannada =-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/135639
-#EXTINF:-1 tvg-id="" tvg-name="-= Bengali =-" tvg-logo="" group-title="India",-= Bengali =-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/135638
-
-
 
 
 
@@ -1325,556 +1211,6 @@ http://31.172.87.20:2200/R-EX/KIDS_Hungama_TV-in/tracks-v1a1/mono.m3u8?token=RED
 
 
 
-#EXTINF:-1 group-title=" FTPBD",Star Sports 1
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/gazi-tvs/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title=" FTPBD",Star Sports 1
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsportshd-2/chunks.m3u8
-
-#EXTINF:-1 group-title=" FTPBD",Star Sports Select1
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsportsselect-1/chunks.m3u8
-
-
-#EXTINF:-1 group-title=" FTPBD",Wollow
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/willow-cric/chunks.m3u8
-
-
-#EXTINF:-1 group-title=" FTPBD",TenSports
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/ten-sports/playlist.m3u8
-
-
-#EXTINF:-1 group-title=" FTPBD",PTV
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/ptvsports/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title=" FTPBD",Ze Bangla HD
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-bangla/chunks.m3u8
-
-#EXTINF:-1 group-title=" FTPBD",Colors Bangla HD
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/colors-bangla/chunks.m3u8
-
-
-#EXTINF:-1 group-title=" FTPBD",Ze Bangla Cinema
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema-bangla/chunks.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title=" FTPBD",Star Gold
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/star-gold/chunks.m3u8
-
-
-#EXTINF:-1 group-title=" FTPBD",Ze  Cinema
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title=" FTPBD",Sony Max
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sony-max/chunks.m3u8
-
-
-
-
-
-
-#EXTM3U 
-#EXTINF: -1 group-title="Ungrouped", IN: SONY (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98854.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY SAB (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98853.ts
-#EXTINF: -1 group-title="Ungrouped", IN: COLORS (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98851.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR PLUS (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98849.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR BHARAT (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98855.ts
-#EXTINF: -1 group-title="Ungrouped", IN: &TV (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98852.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ZEETV (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98850.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY MAX (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98857.ts
-#EXTINF: -1 group-title="Ungrouped", IN: &PICTURE (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98856.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR GOLD (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98858.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR GOLD SELECT (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98859.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ZEE CINEMA (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98860.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Colors Cineplex (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98908.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR MOVIE (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98842.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR MOVIE SELECT (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98843.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR WORLD (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98844.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR WORLD PREMIUM (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98845.ts
-#EXTINF: -1 group-title="Ungrouped", IN: &PRIVE (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98840.ts
-#EXTINF: -1 group-title="Ungrouped", IN: &FLIX (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98841.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY PIX (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98846.ts
-#EXTINF: -1 group-title="Ungrouped", IN: MN+ (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98847.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ZEE CAFE (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98848.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Colors INFINITY (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98879.ts
-#EXTINF: -1 group-title="Ungrouped", IN: FOX LIFE (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98876.ts
-#EXTINF: -1 group-title="Ungrouped", IN: AXN (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98915.ts
-#EXTINF: -1 group-title="Ungrouped", IN: TLC (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98878.ts
-#EXTINF: -1 group-title="Ungrouped", IN: DISCOVERY (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98872.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ANIMAL PLANET (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98873.ts
-#EXTINF: -1 group-title="Ungrouped", IN: National GEO (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98874.ts
-#EXTINF: -1 group-title="Ungrouped", IN: NAT Geo Wild (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98875.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Sony BBC EARTH (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98871.ts
-#EXTINF: -1 group-title="Ungrouped", IN: HISTORY TV (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98877.ts
-#EXTINF: -1 group-title="Ungrouped", IN: NICK (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98880.ts
-#EXTINF: -1 group-title="Ungrouped", BD: ZEE BANGLA (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98881.ts
-#EXTINF: -1 group-title="Ungrouped", BD: COLORS BANGLA (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98882.ts
-#EXTINF: -1 group-title="Ungrouped", BD: STAR JALSHA (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98883.ts
-
-#EXTINF: -1 group-title="Ungrouped", IN: Colors_Bengali_HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/183.ts
-
-#EXTINF: -1 group-title="Ungrouped", BD: JALSHA MOVIES (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98884.ts
-
-#EXTINF: -1 group-title="Ungrouped", BD : Star Jalsa HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/198.ts
-
-
-http://starshare.live:8080/live/cheryl0125290/529042906173/398.ts
-#EXTINF: -1 group-title="Ungrouped", BD_AnandaTV
-http://starshare.live:8080/live/cheryl0125290/529042906173/399.ts
-#EXTINF: -1 group-title="Ungrouped", BD_RTV HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/401.ts
-#EXTINF: -1 group-title="Ungrouped", BD_BANGLA TIMES
-http://starshare.live:8080/live/cheryl0125290/529042906173/402.ts
-#EXTINF: -1 group-title="Ungrouped", BD_RPlusGold
-http://starshare.live:8080/live/cheryl0125290/529042906173/403.ts
-#EXTINF: -1 group-title="Ungrouped", BD_DHOOM MUSIC
-http://starshare.live:8080/live/cheryl0125290/529042906173/404.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Sangeet Bangali
-http://starshare.live:8080/live/cheryl0125290/529042906173/405.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Discovery_Channel_Bengali
-http://starshare.live:8080/live/cheryl0125290/529042906173/406.ts
-#EXTINF: -1 group-title="Ungrouped", BD_IQRA BANGALI
-http://starshare.live:8080/live/cheryl0125290/529042906173/407.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Bijoy Tv
-http://starshare.live:8080/live/cheryl0125290/529042906173/408.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Rupashi bangla
-http://starshare.live:8080/live/cheryl0125290/529042906173/409.ts
-#EXTINF: -1 group-title="Ungrouped", BD_ZEE CINMEA Bangali
-http://starshare.live:8080/live/cheryl0125290/529042906173/410.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Nexus TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/411.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Songsad TV FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/413.ts
-#EXTINF: -1 group-title="Ungrouped", BD_DESHITV HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/414.ts
-#EXTINF: -1 group-title="Ungrouped", BD_NRB Bangla HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/418.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Nokshi TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/419.ts
-#EXTINF: -1 group-title="Ungrouped", BD_DBC HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/420.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Jamuna TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/421.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Somoy TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/422.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Independent TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/423.ts
-#EXTINF: -1 group-title="Ungrouped", BD_NTV Bangla HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/424.ts
-#EXTINF: -1 group-title="Ungrouped", BD: STAR JALSHA MOVIES FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/425.ts
-#EXTINF: -1 group-title="Ungrouped", BD: BANGLA VISION
-http://starshare.live:8080/live/cheryl0125290/529042906173/426.ts
-#EXTINF: -1 group-title="Ungrouped", BD: ATN NEWS HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/427.ts
-#EXTINF: -1 group-title="Ungrouped", BD:Ekattor tv
-http://starshare.live:8080/live/cheryl0125290/529042906173/428.ts
-#EXTINF: -1 group-title="Ungrouped", BD: BOISAKHI HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/429.ts
-
-
-#EXTINF: -1 group-title="Ungrouped", BD : BTV BD
-http://starshare.live:8080/live/cheryl0125290/529042906173/998.ts
-#EXTINF: -1 group-title="Ungrouped", BD: iTV
-http://starshare.live:8080/live/cheryl0125290/529042906173/999.ts
-#EXTINF: -1 group-title="Ungrouped", BD : NRB TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/1000.ts
-#EXTINF: -1 group-title="Ungrouped", BD: ASIAN TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/430.ts
-#EXTINF: -1 group-title="Ungrouped", BD: ATN BANGLA
-http://starshare.live:8080/live/cheryl0125290/529042906173/431.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Duronto TV HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/433.ts
-#EXTINF: -1 group-title="Ungrouped", BD_Channel 9 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/434.ts
-#EXTINF: -1 group-title="Ungrouped", BD: ZEE BANGLA HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/435.ts
-
-#EXTINF: -1 group-title="Ungrouped", BD: Deepto
-http://starshare.live:8080/live/cheryl0125290/529042906173/1034.ts
-#EXTINF: -1 group-title="Ungrouped", BD: TIMES24 TV FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/1035.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Maasranga TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/1036.ts
-
-#EXTINF: -1 group-title="Ungrouped", IN: STAR SPORTS 1 (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98864.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR SPORTS 2 (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98865.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR SPORTS 1 HINDI (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98866.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR SPORTS SELECT 1 (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98867.ts
-#EXTINF: -1 group-title="Ungrouped", IN: START SPORTS SELECT 2 (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98868.ts
-#EXTINF: -1 group-title="Ungrouped", IN: TEN 1 (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98861.ts
-#EXTINF: -1 group-title="Ungrouped", IN: TEN 2 (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98862.ts
-#EXTINF: -1 group-title="Ungrouped", IN: TEN 3 (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98863.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY SIX (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98870.ts
-#EXTINF: -1 group-title="Ungrouped", IN: EUROSPORTS (4K).
-http://starshare.live:8080/live/cheryl0125290/529042906173/98869.ts
-
-
-
-
-
-
-http://starshare.live:8080/live/cheryl0125290/529042906173/23566.ts
-#EXTINF: -1 group-title="Ungrouped", CRI:ASTRO CRICKET HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/2494.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: FOX CRICKET 501
-http://starshare.live:8080/live/cheryl0125290/529042906173/1856.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: PTV SPORTS
-http://starshare.live:8080/live/cheryl0125290/529042906173/89.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: GEO SUPER
-http://starshare.live:8080/live/cheryl0125290/529042906173/101.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: TEN SPORTS
-http://starshare.live:8080/live/cheryl0125290/529042906173/98.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: WILLOW CRICKET
-http://starshare.live:8080/live/cheryl0125290/529042906173/215.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: WILLOW CRICKET XTRA
-http://starshare.live:8080/live/cheryl0125290/529042906173/5040.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: TEN CRICKET
-http://starshare.live:8080/live/cheryl0125290/529042906173/9886.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: BEIN CRICKET HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/9115.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: FREE SPORTS HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/24123.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: FFREE SPORTS (FHD).
-http://starshare.live:8080/live/cheryl0125290/529042906173/24122.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: STAR SPORT 1 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/148.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: STAR SPORTS 2 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/239.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: STAR SPORTS 3
-http://starshare.live:8080/live/cheryl0125290/529042906173/1080.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: STAR SPORTS HINDI HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/211.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: STAR SPORTS SELECT 1 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/238.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: STAR SPORTS SELECT 2 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/200.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: STAR SPORTS TAMIL 1
-http://starshare.live:8080/live/cheryl0125290/529042906173/9722.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: SONY TEN 1 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/154.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: SONY Ten 2 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/192.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: SONY TEN 3 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/146.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: Six HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/176.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: SONY ESPN HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/155.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: T SPORTS
-http://starshare.live:8080/live/cheryl0125290/529042906173/18452.ts
-
-
-#EXTINF: -1 group-title="Ungrouped", CRI: SUPER SPORTS (CRICKET)
-http://starshare.live:8080/live/cheryl0125290/529042906173/2496.ts
-#EXTINF: -1 group-title="Ungrouped", CRI: SUPER SPORTS CRICKET (4K)
-http://starshare.live:8080/live/cheryl0125290/529042906173/24115.ts
-
-#EXTINF: -1 group-title="Ungrouped", IN: STAR PLUS
-http://starshare.live:8080/live/cheryl0125290/529042906173/3744.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SUN Bangla
-http://starshare.live:8080/live/cheryl0125290/529042906173/3753.ts
-#EXTINF: -1 group-title="Ungrouped", BD: RTV Music
-http://starshare.live:8080/live/cheryl0125290/529042906173/3799.ts
-#EXTINF: -1 group-title="Ungrouped", BD: ATN Bangla uk
-http://starshare.live:8080/live/cheryl0125290/529042906173/3800.ts
-#EXTINF: -1 group-title="Ungrouped", BD: enter 10 bangla HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/3801.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Nagorik Tv HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/3802.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Bangla Tv
-http://starshare.live:8080/live/cheryl0125290/529042906173/3803.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Tv9 bangla
-http://starshare.live:8080/live/cheryl0125290/529042906173/3804.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Meem TV NY
-http://starshare.live:8080/live/cheryl0125290/529042906173/3806.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Gaan Bangla
-http://starshare.live:8080/live/cheryl0125290/529042906173/3807.ts
-#EXTINF: -1 group-title="Ungrouped", BD : KHUSHBOO TV HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/3808.ts
-#EXTINF: -1 group-title="Ungrouped", BD : BISWA BANGLA 24
-http://starshare.live:8080/live/cheryl0125290/529042906173/3809.ts
-#EXTINF: -1 group-title="Ungrouped", BD: News 24 Tv
-http://starshare.live:8080/live/cheryl0125290/529042906173/3810.ts
-#EXTINF: -1 group-title="Ungrouped", BD : News 18 Bangla
-http://starshare.live:8080/live/cheryl0125290/529042906173/3811.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Gaan Bangla
-http://starshare.live:8080/live/cheryl0125290/529042906173/3812.ts
-#EXTINF: -1 group-title="Ungrouped", BD : ETV TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/3813.ts
-#EXTINF: -1 group-title="Ungrouped", BD: SA Tv
-http://starshare.live:8080/live/cheryl0125290/529042906173/3814.ts
-#EXTINF: -1 group-title="Ungrouped", BD : calcutta News
-http://starshare.live:8080/live/cheryl0125290/529042906173/3815.ts
-#EXTINF: -1 group-title="Ungrouped", BD: NAN TV FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/3816.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Sristy_TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/3817.ts
-#EXTINF: -1 group-title="Ungrouped", BD : BTvChattogram
-http://starshare.live:8080/live/cheryl0125290/529042906173/3818.ts
-#EXTINF: -1 group-title="Ungrouped", BD: calcutta News
-http://starshare.live:8080/live/cheryl0125290/529042906173/3819.ts
-#EXTINF: -1 group-title="Ungrouped", BD: Nandan TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/3823.ts
-#EXTINF: -1 group-title="Ungrouped", COVID-19 LIVE UPDATE
-http://starshare.live:8080/live/cheryl0125290/529042906173/4031.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  DD National HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/4037.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  DD Bihar
-http://starshare.live:8080/live/cheryl0125290/529042906173/4038.ts
-#EXTINF: -1 group-title="Ungrouped", IN: DD India
-http://starshare.live:8080/live/cheryl0125290/529042906173/4039.ts
-#EXTINF: -1 group-title="Ungrouped", BD: millennium Tv
-http://starshare.live:8080/live/cheryl0125290/529042906173/4230.ts
-#EXTINF: -1 group-title="Ungrouped", BD: GlobalTv_HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/4231.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Star_Gold_2
-http://starshare.live:8080/live/cheryl0125290/529042906173/4324.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY WAH
-http://starshare.live:8080/live/cheryl0125290/529042906173/4077.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY MIX
-http://starshare.live:8080/live/cheryl0125290/529042906173/4079.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY Aath
-http://starshare.live:8080/live/cheryl0125290/529042906173/4083.ts
-#EXTINF: -1 group-title="Ungrouped", IN: DD Bharati
-http://starshare.live:8080/live/cheryl0125290/529042906173/4040.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  DD Kashir
-http://starshare.live:8080/live/cheryl0125290/529042906173/4041.ts
-#EXTINF: -1 group-title="Ungrouped", IN: DD Kisan
-http://starshare.live:8080/live/cheryl0125290/529042906173/4042.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  DD News
-http://starshare.live:8080/live/cheryl0125290/529042906173/4043.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  DD Sports
-http://starshare.live:8080/live/cheryl0125290/529042906173/4044.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  DD India
-http://starshare.live:8080/live/cheryl0125290/529042906173/4045.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  DD Madhya Pradesh
-http://starshare.live:8080/live/cheryl0125290/529042906173/4046.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  DD Uttar Pradesh
-http://starshare.live:8080/live/cheryl0125290/529042906173/4048.ts
-#EXTINF: -1 group-title="Ungrouped", IN: DD Bangla
-http://starshare.live:8080/live/cheryl0125290/529042906173/4049.ts
-
-#EXTINF: -1 group-title="Ungrouped", IN: B FLIX
-http://starshare.live:8080/live/cheryl0125290/529042906173/4081.ts
-#EXTINF: -1 group-title="Ungrouped", IND: Shemaroo TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/974.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR MOVIES HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/979.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR WORLD HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/978.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR MOVIES SELECT HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/218.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR WORLD PREMIERE HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/217.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY PIX HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/147.ts
-#EXTINF: -1 group-title="Ungrouped", IN: MOVIES NOW HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/177.ts
-#EXTINF: -1 group-title="Ungrouped", IN: MN PLUS
-http://starshare.live:8080/live/cheryl0125290/529042906173/178.ts
-#EXTINF: -1 group-title="Ungrouped", IN: MNX HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/191.ts
-#EXTINF: -1 group-title="Ungrouped", IN: & PRIVE HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/201.ts
-#EXTINF: -1 group-title="Ungrouped", IN: & FLIX HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/253.ts
-#EXTINF: -1 group-title="Ungrouped", IN: HBO 2 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/185.ts
-#EXTINF: -1 group-title="Ungrouped", IN: COLORS INFINITY HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/187.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ZEECAFE HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/196.ts
-#EXTINF: -1 group-title="Ungrouped", IN: FYI TV18 HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/152.ts
-#EXTINF: -1 group-title="Ungrouped", IN: FOX LIFE
-http://starshare.live:8080/live/cheryl0125290/529042906173/2115.ts
-#EXTINF: -1 group-title="Ungrouped", IN: HISTORY HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/180.ts
-#EXTINF: -1 group-title="Ungrouped", IN: HISTORY 18 (HINDI)
-http://starshare.live:8080/live/cheryl0125290/529042906173/5252.ts
-#EXTINF: -1 group-title="Ungrouped", IN: DISCOVERY WORLD HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/156.ts
-#EXTINF: -1 group-title="Ungrouped", IN: NATIONAL GEOGRAPHIC INDIA
-http://starshare.live:8080/live/cheryl0125290/529042906173/7342.ts
-#EXTINF: -1 group-title="Ungrouped", IN: NATIONAL GEOGRAPHIC
-http://starshare.live:8080/live/cheryl0125290/529042906173/7343.ts
-#EXTINF: -1 group-title="Ungrouped", IN: NATGEO WILD HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/7344.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY BBC EARTH HD (ENG)
-http://starshare.live:8080/live/cheryl0125290/529042906173/174.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY BBC EARTH HD (HINDI)
-http://starshare.live:8080/live/cheryl0125290/529042906173/7721.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY BBC EARTH HD (ENGLISH)
-http://starshare.live:8080/live/cheryl0125290/529042906173/190.ts
-#EXTINF: -1 group-title="Ungrouped", IN: TRAVEL XP HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/181.ts
-#EXTINF: -1 group-title="Ungrouped", IN: TRAVEL XP HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/1623.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ANIMAL PLANET HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/182.ts
-#EXTINF: -1 group-title="Ungrouped", IN: MTV BEATS HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/153.ts
-#EXTINF: -1 group-title="Ungrouped", IN: MTV HD PLUS
-http://starshare.live:8080/live/cheryl0125290/529042906173/4029.ts
-
-
-#EXTINF: -1 group-title="Ungrouped", IN: STAR PLUS FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/167.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR PLUS HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/221.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR BHARAT HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/199.ts
-#EXTINF: -1 group-title="Ungrouped", IN: COLORS FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/195.ts
-#EXTINF: -1 group-title="Ungrouped", IN: COLOR HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/219.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/144.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY TV HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/224.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY SAB HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/145.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ZEE TV HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/161.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ZEE TV FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/220.ts
-#EXTINF: -1 group-title="Ungrouped", IN: & TV HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/232.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY MAX HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/151.ts
-#EXTINF: -1 group-title="Ungrouped", IN: CINEPLEX HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/867.ts
-#EXTINF: -1 group-title="Ungrouped", IN: ZEE CINEMA HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/230.ts
-#EXTINF: -1 group-title="Ungrouped", IN: & PICTURES HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/231.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR GOLD HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/194.ts
-#EXTINF: -1 group-title="Ungrouped", IN: STAR GOLD SELECT HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/210.ts
-#EXTINF: -1 group-title="Ungrouped", IN: &XPLOR HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/4082.ts
-#EXTINF: -1 group-title="Ungrouped", IN: UTV HD
-http://starshare.live:8080/live/cheryl0125290/529042906173/1382.ts
-#EXTINF: -1 group-title="Ungrouped", IN: MOVIES ACTIVE HD D2H
-http://starshare.live:8080/live/cheryl0125290/529042906173/7336.ts
-
-
-#EXTINF: -1 group-title="Ungrouped", IN: ZEE Bollywood
-http://starshare.live:8080/live/cheryl0125290/529042906173/966.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Zee Action
-http://starshare.live:8080/live/cheryl0125290/529042906173/967.ts
-#EXTINF: -1 group-title="Ungrouped", IN : B4U Movies
-http://starshare.live:8080/live/cheryl0125290/529042906173/968.ts
-#EXTINF: -1 group-title="Ungrouped", IN : B4U Plus
-http://starshare.live:8080/live/cheryl0125290/529042906173/969.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Zing TV
-http://starshare.live:8080/live/cheryl0125290/529042906173/970.ts
-#EXTINF: -1 group-title="Ungrouped", IN: TEZ News (News)
-http://starshare.live:8080/live/cheryl0125290/529042906173/971.ts
-#EXTINF: -1 group-title="Ungrouped", IN: UTV MOVIES
-http://starshare.live:8080/live/cheryl0125290/529042906173/972.ts
-#EXTINF: -1 group-title="Ungrouped", IN: SONY MAX 2
-http://starshare.live:8080/live/cheryl0125290/529042906173/973.ts
-
-#EXTINF: -1 group-title="Ungrouped", IN: Zee Anmol
-http://starshare.live:8080/live/cheryl0125290/529042906173/203.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Sony_Yay_Hindi
-http://starshare.live:8080/live/cheryl0125290/529042906173/204.ts
-#EXTINF: -1 group-title="Ungrouped", IN:  Nick_Hindi
-http://starshare.live:8080/live/cheryl0125290/529042906173/205.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Nick_Junior
-http://starshare.live:8080/live/cheryl0125290/529042906173/206.ts
-#EXTINF: -1 group-title="Ungrouped", IN: sonic_Hindi
-http://starshare.live:8080/live/cheryl0125290/529042906173/207.ts
-#EXTINF: -1 group-title="Ungrouped", IN: Discovery_Kids_1
-http://starshare.live:8080/live/cheryl0125290/529042906173/208.ts
-
-
-
-#EXTINF: -1 group-title="Ungrouped", |FR| BEIN SPORTS 1 FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/3029.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BEIN SPORTS 2 FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/3030.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BEIN SPORTS 3 FHD
-http://starshare.live:8080/live/cheryl0125290/529042906173/3031.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports 1
-http://starshare.live:8080/live/cheryl0125290/529042906173/3032.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports 2
-http://starshare.live:8080/live/cheryl0125290/529042906173/3033.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports 3
-http://starshare.live:8080/live/cheryl0125290/529042906173/3034.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports MAX 4
-http://starshare.live:8080/live/cheryl0125290/529042906173/3035.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports MAX 5
-http://starshare.live:8080/live/cheryl0125290/529042906173/3036.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports MAX 6
-http://starshare.live:8080/live/cheryl0125290/529042906173/3037.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports MAX 7
-http://starshare.live:8080/live/cheryl0125290/529042906173/3038.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports MAX 8
-http://starshare.live:8080/live/cheryl0125290/529042906173/3039.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports MAX 9
-http://starshare.live:8080/live/cheryl0125290/529042906173/3040.ts
-#EXTINF: -1 group-title="Ungrouped", |FR| BeIN Sports MAX 10
-http://starshare.live:8080/live/cheryl0125290/529042906173/3041.ts
 
 
 
@@ -2006,135 +1342,51 @@ http://xtream.efiberbd.net:25461/mkaua/stream/60
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BD: ATN Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cd33154eab952e9d97e7a7c6c73edcf5.png" group-title=" Restream", ATN Bangla
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69329
-#EXTINF:-1 tvg-id="" tvg-name="BD: ATN News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d394cffdeba2805f97a1a1d0eb7f8785.png" group-title=" Restream", ATN News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69342
-#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla 21" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Restream", Bangla 21
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296843
-#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c6ae7725df17d9750bbc6aa0fd4d9d83.png" group-title=" Restream", Bangla TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296842
-#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla Vision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/52a497823b27a223e68ce582420a2583.png" group-title=" Restream", Bangla Vision
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69335
-#EXTINF:-1 tvg-id="" tvg-name="BD: Bijoy TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ea68f980ad3412a6e5e1cca724acfb7f.png" group-title=" Restream", Bijoy TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69367
-#EXTINF:-1 tvg-id="" tvg-name="BD: Boishakhi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10c4c4084969ce8fa7192440475e3bb7.png" group-title=" Restream", Boishakhi TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69337
-#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5188701230417ef09681e00ca025e5dc.png" group-title=" Restream", Channel 9
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69344
-#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/826b047114cef0562fe7e78f0d52e579.png" group-title=" Restream", Channel 24
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69341
-#EXTINF:-1 tvg-id="" tvg-name="BD: Channel S" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/15c7f1897b851cb9db284c3d6e5de248.png" group-title=" Restream", Channel S
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69346
-#EXTINF:-1 tvg-id="" tvg-name="BD: DBC NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fdad9ee99b6195c099c2448cb97eefc7.png" group-title=" Restream", DBC NEWS
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/172577
-#EXTINF:-1 tvg-id="" tvg-name="BD: Desh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04d05e7169b99de84d191a7405999bda.png" group-title=" Restream", Desh TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69347
-#EXTINF:-1 tvg-id="" tvg-name="BD: DesheBideshe TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/46f330e7b267ce38c1fc3305c58d9279.png" group-title=" Restream", DesheBideshe TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294920
-#EXTINF:-1 tvg-id="" tvg-name="BD: Doyel TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b396b1dd2fcefb5be81f7d0dd928a5bd.jfif" group-title=" Restream", Doyel TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286202
-#EXTINF:-1 tvg-id="" tvg-name="BD: Ekushey TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/15348398afde9ceae92fbeff2d6daf34.png" group-title=" Restream", Ekushey TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69350
-#EXTINF:-1 tvg-id="" tvg-name="BD: Gaan Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5d894f28c2bf535aab0a8a6ab260bae9.png" group-title=" Restream", Gaan Bangla
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69349
-#EXTINF:-1 tvg-id="" tvg-name="BD: Independent TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f45e3c9130146add84d6dd841a7452ec.png" group-title=" Restream", Independent TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165826
-#EXTINF:-1 tvg-id="" tvg-name="BD: Iqra Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6881ab8f9f2f5e5c0f338eac264e2839.png" group-title=" Restream", Iqra Bangla
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69364
-#EXTINF:-1 tvg-id="" tvg-name="BD: Jamuna TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a5b1d3b59975784de98d1637724f1c7a.png" group-title=" Restream", Jamuna TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69353
-#EXTINF:-1 tvg-id="" tvg-name="BD: Maasranga TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d227c25759153c7e6410d066ee7ca495.png" group-title=" Restream", Maasranga TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/172588
-#EXTINF:-1 tvg-id="" tvg-name="BD: Millennium TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a4b9abfcba3bc8548cc78b52f691ac3.png" group-title=" Restream", Millennium TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/196241
-#EXTINF:-1 tvg-id="" tvg-name="BD: Mohona TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/3e2e91ff0d9bd8c2ce6e9cdfae4ddec6.jfif" group-title=" Restream", Mohona TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69354
-#EXTINF:-1 tvg-id="" tvg-name="BD: NANDAN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5ed587dd5dba8f4f7221d46390cedea9.png" group-title=" Restream", NANDAN TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/172582
-#EXTINF:-1 tvg-id="" tvg-name="BD: News 24" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1cb7e13ea26f0a51688517b8cd84ca4a.png" group-title=" Restream", News 24
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5127
-#EXTINF:-1 tvg-id="" tvg-name="BD: NTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/cc145f6b549680ae384e9718421ccf57.png" group-title=" Restream", NTV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3647
-#EXTINF:-1 tvg-id="" tvg-name="BD: SA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/746105fde55cb7b3302737e35edcd537.png" group-title=" Restream", SA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69357
-#EXTINF:-1 tvg-id="" tvg-name="BD: Somoy News TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9ea9ce147b648b97f06d1251da84fa39.png" group-title=" Restream", Somoy News TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/69359
-#EXTINF:-1 tvg-id="" tvg-name="IN: Rtv Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2577568c9de695bd6d55ff309c4ed03b.jpeg" group-title="India ➾ Music",IN: Rtv Music
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296559
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b706945ff908d5911a0be1eafffb46f.png" group-title=" Restream India", COLORS
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1366
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title=" Restream India", Star Jalsha
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12979
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/22132696b5c83d7204c4a3a571abae44.png" group-title=" Restream India", COLORS Bangla
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/247530
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title=" Restream India", Zee Bangla
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145632
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1a22ad3bdf83c44cc513c8ff2490fdd9.png" group-title=" Restream India", Zee Bangla Cinema
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/21658
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Aath" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/83941203168207f8d8a6c05fd4fc800c.png" group-title=" Restream India", Sony Aath
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/17005
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Cineplex" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title=" Restream India", COLORS Cineplex
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/19741
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c8999c3f7f2a94b767b604985edbc245.jpg" group-title=" Restream India", Sony
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281867
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/01624dbf5b113c4b044aa7bb9e7104f1.png" group-title=" Restream India", Sony Max
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1359
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title=" Restream India", Sony Max 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4862
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/204aab77089639f2bc393838adfd5580.png" group-title=" Restream India", Sony Max India
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/63397
-#EXTINF:-1 tvg-id="" tvg-name="IN: Enterr 10" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/b29014faedf40cfc7accdbf0fdbc89a4.png" group-title=" Restream India", Enterr 10
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193025
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title=" Restream India", Star Gold
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1070
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title=" Restream India", Zee Cinema
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1350
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title=" Restream India", Star Gold 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/43919
-XTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e1336a57c7f6dfb301b73836cead0c3.png" group-title=" Restream India", B4U Kadak
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49556
-#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/91625361b83e16f929b69d33fb9e52d5.png" group-title="India ➾ Movie",IN: B4U Movies
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1369
-#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title=" Restream India", B4U Music
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1368
-#EXTINF:-1 tvg-id="" tvg-name="PK: 8XM" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e6f3b2e8848c942ed7b6922458ac526c.png" group-title="Pakistan",PK: 8XM
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82577
-#EXTINF:-1 tvg-id="" tvg-name="IN: MTV Beats" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c167264b1c8ed82ac209f94dec1319c2.png" group-title=" Restream India", MTV Beats
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193068
-#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Bharat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e9606491d54a8c3000c382f141b2aaf2.png" group-title=" Restream India", Utsav Bharat
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16614
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a65ad5eaab77bbe22fac0884eb1a7774.png" group-title=" Restream India", Utsav Plus
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/60347
-#EXTINF:-1 tvg-id="" tvg-name="IN: UTV Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6870989348707321e9d14b5b3232666f.png" group-title=" Restream India", UTV Movies
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284584
-#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0f3c82f5b0a45a6fd211505522dd40a8.png" group-title=" Restream India", Utsav Gold
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82623
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Six" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/73301e189b695b51e416e9631ee986a8.png" group-title=" Restream India", Sony Six
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4853
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title=" Restream India", Sony Ten 1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16622
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title=" Restream India", Sony Ten 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16621
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title=" Restream India", Sony Ten 3
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/56191
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7990c9248d459185d9b92ea4665bad06.png" group-title="Pakistan",PK: PTV Sports
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16633
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title=" Restream India", Star Sports 1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3630
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title=" Restream India", Star Sports 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3631
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title=" Restream India", Star Sports 3
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/62584
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/32dd229ae9dd6bb71e041ba5545ca2b9.jpg" group-title=" Restream India", Star Sports Select 1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82628
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title=" Restream India", Star Sports Select 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16619
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title=" Restream India", Sony Wah
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165801
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6e32dd2e7ffc5d81134832bcbd16e03d.png" group-title=" Restream India", Sony Yay
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1355
+#EXTINF:-1 tvg-ID="" tvg-name="IN: UTSAV GOLD" tvg-logo="" group-title="Good Serverl",IN: UTSAV GOLD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51375
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SIX" tvg-logo="" group-title="Good Serverl",IN: SONY SIX
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47239
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 1 HD" tvg-logo="" group-title="Good Serverl",IN: TEN 1 HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2905
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 2" tvg-logo="" group-title="Good Serverl",IN: TEN 2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2906
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 3" tvg-logo="" group-title="Good Serverl",IN: TEN 3
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2907
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN CRICKET" tvg-logo="" group-title="Good Serverl",IN: TEN CRICKET
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47297
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Cricket" tvg-logo="" group-title="Malaysia Channel",MY: Astro Cricket
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54242
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR SPORTS 3" tvg-logo="" group-title="Good Serverl",IN: STAR SPORTS 3
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52056
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Sports" tvg-logo="" group-title="Good Serverl",IN: DD Sports
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54368
+#EXTINF:-1 tvg-ID="" tvg-name="PK: PTV SPORTS" tvg-logo="" group-title="Good Serverl",PK: PTV SPORTS
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/490
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TV HD" tvg-logo="" group-title="Good Serverl",IN: SONY TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1718
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TV UK" tvg-logo="" group-title="Good Serverl",IN: SONY TV UK
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47241
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR GOLD" tvg-logo="" group-title="Good Serverl",IN: STAR GOLD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1714
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR JALSHA" tvg-logo="" group-title="Good Serverl",IN: STAR JALSHA
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47243
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BANGLA" tvg-logo="" group-title="Good Serverl",IN: ZEE BANGLA
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/432
+#EXTINF:-1 tvg-ID="" tvg-name="PK:  ZEE Bangla HD" tvg-logo="" group-title="Good Server",PK:  ZEE Bangla HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/441
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jalsa HD" tvg-logo="" group-title="Good Server",BAN: Star Jalsa HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50236
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jalsha IN" tvg-logo="" group-title="Good Server",BAN: Star Jalsha IN
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50229
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Star Jhalsa Movies HD" tvg-logo="" group-title="Good Server",BAN: Star Jhalsa Movies HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50235
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: JALSA MOVIES" tvg-logo="" group-title="Good Server",BAN: JALSA MOVIES
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50282
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Dhoom Music HD" tvg-logo="" group-title="Good Server",BAN: Dhoom Music HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50265
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee Bangla Cinema IN" tvg-logo="" group-title="Good Server",BAN: Zee Bangla Cinema IN
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50230
 
 
 
@@ -2143,125 +1395,224 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1355
 
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="##### BANGLADESH #####" tvg-logo="" group-title="Good Server",##### BANGLADESH #####
+direct
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Aamar HD" tvg-logo="" group-title="Good Server",BAN: Aamar HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50290
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ABP Ananda HD" tvg-logo="" group-title="Good Server",BAN: ABP Ananda HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50289
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Asian TV HD" tvg-logo="" group-title="Good Server",BAN: Asian TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50288
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN HD" tvg-logo="" group-title="Good Server",BAN: ATN HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50287
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN News HD" tvg-logo="" group-title="Good Server",BAN: ATN News HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50285
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ATN HD" tvg-logo="" group-title="Good Server",BAN: ATN HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50284
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Bangla Vision HD" tvg-logo="" group-title="Good Server",BAN: Bangla Vision HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50283
+
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Boishakhi HD" tvg-logo="" group-title="Good Server",BAN: Boishakhi HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50281
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: BTV HD" tvg-logo="" group-title="Good Server",BAN: BTV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50280
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: BTV World HD" tvg-logo="" group-title="Good Server",BAN: BTV World HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50279
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 24 HD" tvg-logo="" group-title="Good Server",BAN: Channel 24 HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50278
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 9 HD" tvg-logo="" group-title="Good Server",BAN: Channel 9 HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50277
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel 99 HD" tvg-logo="" group-title="Good Server",BAN: Channel 99 HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50276
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel I EU HD" tvg-logo="" group-title="Good Server",BAN: Channel I EU HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50275
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel I HD" tvg-logo="" group-title="Good Server",BAN: Channel I HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50273
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Channel S HD" tvg-logo="" group-title="Good Server",BAN: Channel S HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50274
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Colors  HD" tvg-logo="" group-title="Good Server",BAN: Colors  HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50272
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: DBC News HD" tvg-logo="" group-title="Good Server",BAN: DBC News HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50271
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: DD Bangla HD" tvg-logo="" group-title="Good Server",BAN: DD Bangla HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50270
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Deepto HD HD" tvg-logo="" group-title="Good Server",BAN: Deepto HD HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50269
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Deshe Bideshe TV HD" tvg-logo="" group-title="Good Server",BAN: Deshe Bideshe TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50268
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: DeshTV HD" tvg-logo="" group-title="Good Server",BAN: DeshTV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50266
+
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Ekatoor TV HD" tvg-logo="" group-title="Good Server",BAN: Ekatoor TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50263
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: ETV HD" tvg-logo="" group-title="Good Server",BAN: ETV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50262
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Gaan HD" tvg-logo="" group-title="Good Server",BAN: Gaan HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50260
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Independent HD" tvg-logo="" group-title="Good Server",BAN: Independent HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50259
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: iTV HD" tvg-logo="" group-title="Good Server",BAN: iTV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50258
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Jamuna TV HD" tvg-logo="" group-title="Good Server",BAN: Jamuna TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50257
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Maasaranga HD" tvg-logo="" group-title="Good Server",BAN: Maasaranga HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50256
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Masranga TV HD" tvg-logo="" group-title="Good Server",BAN: Masranga TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50255
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Millennium TV HD" tvg-logo="" group-title="Good Server",BAN: Millennium TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50254
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Mohana HD" tvg-logo="" group-title="Good Server",BAN: Mohana HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50253
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Movie HD" tvg-logo="" group-title="Good Server",BAN: Movie HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50252
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Music HD" tvg-logo="" group-title="Good Server",BAN: Music HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50251
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: MyTV HD" tvg-logo="" group-title="Good Server",BAN: MyTV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50250
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: News 24 HD" tvg-logo="" group-title="Good Server",BAN: News 24 HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50249
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: NRB TV HD" tvg-logo="" group-title="Good Server",BAN: NRB TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50248
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: NTV UK HD" tvg-logo="" group-title="Good Server",BAN: NTV UK HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50246
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Probashi HD" tvg-logo="" group-title="Good Server",BAN: Probashi HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50245
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: R Plus News HD" tvg-logo="" group-title="Good Server",BAN: R Plus News HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50244
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Ruposhi HD" tvg-logo="" group-title="Good Server",BAN: Ruposhi HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50242
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Sangeet HD" tvg-logo="" group-title="Good Server",BAN: Sangeet HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50241
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Somoy HD" tvg-logo="" group-title="Good Server",BAN: Somoy HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50237
+
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Tarang Muzik HD" tvg-logo="" group-title="Good Server",BAN: Tarang Muzik HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50234
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Time Television HD" tvg-logo="" group-title="Good Server",BAN: Time Television HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50233
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: TV UK HD" tvg-logo="" group-title="Good Server",BAN: TV UK HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50232
+#EXTINF:-1 tvg-ID="" tvg-name="PK: HUM TV" tvg-logo="" group-title="Good Serverl",PK: HUM TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47218
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BOLLYWOOD" tvg-logo="" group-title="Good Serverl",IN: ZEE BOLLYWOOD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/445
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE BUSINESS" tvg-logo="" group-title="Good Serverl",IN: ZEE BUSINESS
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47278
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CAFE HD" tvg-logo="" group-title="Good Serverl",IN: ZEE CAFE HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/433
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CINEMA ASIA" tvg-logo="" group-title="Good Serverl",IN: ZEE CINEMA ASIA
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47280
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CINEMA HD" tvg-logo="" group-title="Good Serverl",IN: ZEE CINEMA HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/452
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SAB ASIA" tvg-logo="" group-title="Good Serverl",IN: SONY SAB ASIA
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1721
+
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee Cinema HD" tvg-logo="" group-title="Good Server",BAN: Zee Cinema HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50231
+#EXTINF:-1 tvg-ID="" tvg-name="BAN: Zee HD" tvg-logo="" group-title="Good Server",BAN: Zee HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50228
+#EXTINF:-1 tvg-ID="" tvg-name="PK: AWAZ ENTERTAINMENT" tvg-logo="" group-title="",PK: AWAZ ENTERTAINMENT
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51386
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 9X MUSIC" tvg-logo="" group-title="Good Serverl",IN: 9X MUSIC
+ht#EXTINF:-1 tvg-ID="" tvg-name="IN: & PICTURE HD" tvg-logo="" group-title="Good Serverl",IN: & PICTURE HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47234
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & TV" tvg-logo="" group-title="Good Serverl",IN: & TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47223tp://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47215
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U MOVIE" tvg-logo="" group-title="Good Serverl",IN: B4U MOVIE
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/455
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4u kadak" tvg-logo="" group-title="Good Serverl",IN: B4u kadak
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52957
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U MUSIC" tvg-logo="" group-title="Good Serverl",IN: B4U MUSIC
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47224
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR UTSAV MOVIES" tvg-logo="" group-title="Good Serverl",IN: STAR UTSAV MOVIES
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51380
+#EXTINF:-1 tvg-ID="" tvg-name="IN: MTV Beats HD" tvg-logo="" group-title="Good Serverl",IN: MTV Beats HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51379
+#EXTINF:-1 tvg-ID="" tvg-name="PK: 8XM" tvg-logo="" group-title="Good Serverl",PK: 8XM
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50821
+
+#EXTINF:-1 tvg-ID="" tvg-name="PK: 9X TASHAN" tvg-logo="" group-title="Good Serverl",PK: 9X TASHAN
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47214
+#EXTINF:-1 tvg-ID="" tvg-name="PK: 9X JALWA" tvg-logo="" group-title="Good Serverl",PK: 9X JALWA
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/501
+#EXTINF:-1 tvg-ID="" tvg-name="IN: UTV Bindas" tvg-logo="" group-title="Good Serverl",IN: UTV Bindas
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51434
+#EXTINF:-1 tvg-ID="" tvg-name="IN: COLORS HD" tvg-logo="" group-title="Good Serverl",IN: COLORS HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/426
+#EXTINF:-1 tvg-ID="" tvg-name="IN: MUSIC INDIA" tvg-logo="" group-title="Good Serverl",IN: MUSIC INDIA
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47232
+#EXTINF:-1 tvg-ID="" tvg-name="PK: ANIMAL PLANET" tvg-logo="" group-title="Good Serverl",PK: ANIMAL PLANET
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51475
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY MAX 2" tvg-logo="" group-title="Good Serverl",IN: SONY MAX 2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47237
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY MAX" tvg-logo="" group-title="Good Serverl",IN: SONY MAX
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47238
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY Pix HD" tvg-logo="" group-title="Good Serverl",IN: SONY Pix HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51428
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE ACTION" tvg-logo="" group-title="Good Serverl",IN: ZEE ACTION
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/423
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE TV" tvg-logo="" group-title="Good Serverl",IN: ZEE TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/449
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE TV HD" tvg-logo="" group-title="Good Serverl",IN: ZEE TV HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47286
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan TV" tvg-logo="" group-title="Good Serverl",IN: Manoranjan TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52958
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan Movies" tvg-logo="" group-title="Good Serverl",IN: Manoranjan Movies
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52959
 
 
-group-title=" unknown server",LIVE SPOSTS 1
-http://xtream.efiberbd.net:25461/mkaua/stream/1
-group-title=" unknown server",LIVE SPORTS 2
-http://xtream.efiberbd.net:25461/mkaua/stream/2
-group-title=" unknown server",T SPORTS HD
-http://xtream.efiberbd.net:25461/mkaua/stream/3
-group-title=" unknown server",GAZI TV HD
-http://xtream.efiberbd.net:25461/mkaua/stream/4
-group-title=" unknown server",ZEE BANGLA HD
-http://xtream.efiberbd.net:25461/mkaua/stream/5
-group-title=" unknown server",STAR JALSHA HD
-http://xtream.efiberbd.net:25461/mkaua/stream/6
-group-title=" unknown server",COLORS BANGLA HD
-http://xtream.efiberbd.net:25461/mkaua/stream/7
-group-title=" unknown server",JALSHA MOVIE HD
-http://xtream.efiberbd.net:25461/mkaua/stream/8
-group-title=" unknown server",COLORS BANGLA CINEMA
-http://xtream.efiberbd.net:25461/mkaua/stream/9
-group-title=" unknown server",ZEE BANGLA CINEMA
-http://xtream.efiberbd.net:25461/mkaua/stream/10
-group-title=" unknown server",MASSRANGA
-http://xtream.efiberbd.net:25461/mkaua/stream/11
-group-title=" unknown server",DURONTO
-http://xtream.efiberbd.net:25461/mkaua/stream/12
-group-title=" unknown server",NICK
-http://xtream.efiberbd.net:25461/mkaua/stream/13
-group-title=" unknown server",ATN ISLAMIC
-http://xtream.efiberbd.net:25461/mkaua/stream/14
-group-title=" unknown server",Deen TV
-http://xtream.efiberbd.net:25461/mkaua/stream/15
-group-title=" unknown server",SAUDIA QURAN HD
-http://xtream.efiberbd.net:25461/mkaua/stream/16
-group-title=" unknown server",CHANNEL9
-http://xtream.efiberbd.net:25461/mkaua/stream/17
-group-title=" unknown server",DEEPTO TV
-http://xtream.efiberbd.net:25461/mkaua/stream/18
-group-title=" unknown server",HUM HD
-http://xtream.efiberbd.net:25461/mkaua/stream/19
-group-title=" unknown server",STAR PLUS
-http://xtream.efiberbd.net:25461/mkaua/stream/20
-group-title=" unknown server",ZEE TV HD
-http://xtream.efiberbd.net:25461/mkaua/stream/21
-group-title=" unknown server",SONY HD
-http://xtream.efiberbd.net:25461/mkaua/stream/22
-group-title=" unknown server",SONY SUB
-http://xtream.efiberbd.net:25461/mkaua/stream/23
-group-title=" unknown server",COLORS HD
-http://xtream.efiberbd.net:25461/mkaua/stream/24
-group-title=" unknown server",SONYMAXHD
-http://xtream.efiberbd.net:25461/mkaua/stream/25
-group-title=" unknown server",ZEE CINEMA HD
-http://xtream.efiberbd.net:25461/mkaua/stream/26
-group-title=" unknown server",STARGOLDHD
-http://xtream.efiberbd.net:25461/mkaua/stream/27
-group-title=" unknown server",&PICTURSHD
-http://xtream.efiberbd.net:25461/mkaua/stream/28
-group-title=" unknown server",COLORS CINEPLEX HD
-http://xtream.efiberbd.net:25461/mkaua/stream/29
-group-title=" unknown server",Dhinchaak 2 HD
-http://xtream.efiberbd.net:25461/mkaua/stream/30
-group-title=" unknown server",STAR MOVIES HD
-http://xtream.efiberbd.net:25461/mkaua/stream/31
-group-title=" unknown server",SHOW TIME HD
-http://xtream.efiberbd.net:25461/mkaua/stream/32
-group-title=" unknown server",MN+ HD
-http://xtream.efiberbd.net:25461/mkaua/stream/33
-group-title=" unknown server",MOVIES NOW HD
-http://xtream.efiberbd.net:25461/mkaua/stream/34
-group-title=" unknown server",SONY PIX HD
-http://xtream.efiberbd.net:25461/mkaua/stream/35
-group-title=" unknown server",STAR SPOTS 1 HD
-http://xtream.efiberbd.net:25461/mkaua/stream/36
-group-title=" unknown server",STAR SPORTS 2 HD
-http://xtream.efiberbd.net:25461/mkaua/stream/37
-group-title=" unknown server",SONY SIX HD
-http://xtream.efiberbd.net:25461/mkaua/stream/38
-group-title=" unknown server",SONY TEN1 HD
-http://xtream.efiberbd.net:25461/mkaua/stream/39
-group-title=" unknown server",SONY TEN2 HD
-http://xtream.efiberbd.net:25461/mkaua/stream/40
-group-title=" unknown server",&prive HD
-http://xtream.efiberbd.net:25461/mkaua/stream/41
-group-title=" unknown server",&FLIXHD
-http://xtream.efiberbd.net:25461/mkaua/stream/42
-group-title=" unknown server",ZOOM
-http://xtream.efiberbd.net:25461/mkaua/stream/43
-group-title=" unknown server",MUSIC INDIA
-http://xtream.efiberbd.net:25461/mkaua/stream/44
-group-title=" unknown server",9XM
-http://xtream.efiberbd.net:25461/mkaua/stream/45
-group-title=" unknown server",B4U MUSIC
-http://xtream.efiberbd.net:25461/mkaua/stream/46
-group-title=" unknown server",NTV
-http://xtream.efiberbd.net:25461/mkaua/stream/48
-group-title=" unknown server",MY TV
-http://xtream.efiberbd.net:25461/mkaua/stream/47
-group-title=" unknown server",ATN BANGLA
-http://xtream.efiberbd.net:25461/mkaua/stream/49
-group-title=" unknown server",CHANNEL I
-http://xtream.efiberbd.net:25461/mkaua/stream/50
-group-title=" unknown server",CHANNEL 24
-http://xtream.efiberbd.net:25461/mkaua/stream/51
-group-title=" unknown server",ALPONA TV
-http://xtream.efiberbd.net:25461/mkaua/stream/52
-group-title=" unknown server",BANGLA TV
-http://xtream.efiberbd.net:25461/mkaua/stream/53
-group-title=" unknown server",SATV
-http://xtream.efiberbd.net:25461/mkaua/stream/54
-group-title=" unknown server",RTV
-http://xtream.efiberbd.net:25461/mkaua/stream/55
-group-title=" unknown server",AMAR BANGLA
-http://xtream.efiberbd.net:25461/mkaua/stream/56
-group-title=" unknown server",ATN MUSIC
-http://xtream.efiberbd.net:25461/mkaua/stream/57
-group-title=" unknown server",GAAN BANGLA
-http://xtream.efiberbd.net:25461/mkaua/stream/58
-group-title=" unknown server",SONGEET BANGLA
-http://xtream.efiberbd.net:25461/mkaua/stream/59
-group-title=" unknown server",Bangla Talkies
-http://xtream.efiberbd.net:25461/mkaua/stream/60
+
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2 HD" tvg-logo="" group-title="Malaysia Channel",MY: FOX SPORTS 2 HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52858
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1 FHD" tvg-logo="" group-title="Malaysia Channel",MY: ASTRO SUPERSPORTS 1 FHD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52859
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 2 FHD" tvg-logo="" group-title="Malaysia Channel",MY: ASTRO SUPERSPORTS 2 FHD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52860
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 3 FHD" tvg-logo="" group-title="Malaysia Channel",MY: ASTRO SUPERSPORTS 3 FHD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52861
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 4 FHD" tvg-logo="" group-title="Malaysia Channel",MY: ASTRO SUPERSPORTS 4 FHD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52862
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_01_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_02_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_04_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_04_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_05_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_05_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/5
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_06_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_06_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/6
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_07_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_07_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/7
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_01_PREMIUM_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/9
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_02_PREMIUM_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/8
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo="" group-title="Good Server",BeIN_Sport_03_PREMIUM_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/11
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_XTRA_01" tvg-logo="" group-title="Good Server",BeIN_Sport_XTRA_01
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/10
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_XTRA_02" tvg-logo="" group-title="Good Server",BeIN_Sport_XTRA_02
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53670
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_01_Hevc50" tvg-logo="" group-title="Good Server",BEIN_Sport_01_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52269
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_02_Hevc50" tvg-logo="" group-title="Good Server",BEIN_Sport_02_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48878
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_03_Hevc50" tvg-logo="" group-title="Good Server",BEIN_Sport_03_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48879
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_07_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_07_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49433
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_05_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_05_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49605
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_04_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_04_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49606
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_06_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_06_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49621
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_01_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49622
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_Hevc50" tvg-logo="" group-title="Good Server",BeIN_Sport_02_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51018
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_03_PREMIUM_Hevc50" tvg-logo="" group-title="Good Server",Bein_sport_03_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52271
+
+
