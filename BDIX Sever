@@ -434,11 +434,11 @@ http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50270
 
 ------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-name="BAN ➤ DHOOM MUSIC" tvg-logo="",BAN ➤ DHOOM MUSIC
+#EXTINF:-1 group-title=" Indian Bangla ", DHOOM MUSIC
 http://bestsave.ltd:2052/77774444/44447777/190858
-#EXTINF:-1 tvg-name="BAN ➤ JALSHA MOVIES" tvg-logo="",BAN ➤ JALSHA MOVIES
+#EXTINF:-1 group-title=" Indian Bangla ", JALSHA MOVIES
 http://bestsave.ltd:2052/77774444/44447777/190861
-#EXTINF:-1 tvg-name="BAN ➤ SONY AATH" tvg-logo="",BAN ➤ SONY AATH
+#EXTINF:-1 group-title=" Indian Bangla ", SONY AATH
 http://bestsave.ltd:2052/77774444/44447777/190868
 #EXTINF:-1 group-title=" Indian Bangla ",STAR JALSHA HD
 http://bestsave.ltd:2052/77774444/44447777/190869
@@ -624,9 +624,9 @@ http://bestsave.ltd:2052/77774444/44447777/41903
 http://bestsave.ltd:2052/77774444/44447777/37554
 #EXTINF:-1 group-title="Sports", SKY SPORTS CRICKET HD" tvg-logo="http://imagesvr.biz/localsvr/SKYSPORSTSC.png",SP ➤ SKY SPORTS CRICKET HD
 http://bestsave.ltd:2052/77774444/44447777/10719
-#EXTINF:-1 tvg-name="Super Sports Cricket HD" tvg-logo="",Super Sports Cricket HD
+#EXTINF:-1 group-title="Sports",Super Sports Cricket HD
 http://bestsave.ltd:2052/77774444/44447777/212351
-#EXTINF:-1 tvg-name="Willow Cricket Extra" tvg-logo="",Willow Cricket Extra
+#EXTINF:-1 group-title="Sports", Willow Cricket Extra
 http://bestsave.ltd:2052/77774444/44447777/212352
 #EXTINF:-1 group-title="Sports", GEO SUPER HD" tvg-logo="http://imagesvr.biz/localsvr/GEO.SUPER.jpg",SP ➤ GEO SUPER HD
 http://bestsave.ltd:2052/77774444/44447777/10712
