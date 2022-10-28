@@ -1099,8 +1099,6 @@ http://3.110.187.2/tsjiotv/live.php?c=Nick_HD_Plus&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-id="1266"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png",Bflix Movies
 http://3.110.187.2/tsjiotv/live.php?c=Bflix_Movies&q=600&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="1274" group-title="News" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png",Studio One
-http://3.110.187.2/tsjiotv/live.php?c=Studio_One&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-id="1276"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Box_Cinema.png",Box Cinema
 http://3.110.187.2/tsjiotv/live.php?c=Box_Cinema&q=600&e=junk.m3u8
 
@@ -1154,7 +1152,7 @@ http://3.110.187.2/tsjiotv/live.php?c=Jio_Sports_2_HD&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="1961"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",Shemaroo TV
 http://3.110.187.2/tsjiotv/live.php?c=Shemaroo_TV&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1962" group-title="News" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Bangla.png",Amaar Bangla
+#EXTINF:-1 tvg-id="1962" group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Bangla.png",Amaar Bangla
 http://3.110.187.2/tsjiotv/live.php?c=Amaar_Bangla&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="1971"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png",Jio Sports 4 HD
