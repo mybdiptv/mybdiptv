@@ -43,20 +43,6 @@ http://xtream.efiberbd.net:25461/mkaua/stream/18
 
 
 
-#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 1 HD
-https://cdn1.mkhossain.ga/hls/star1en/.m3u8
-
-#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 2 HD
-https://cdn1.mkhossain.ga/hls/star2en/.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
@@ -527,6 +513,35 @@ http://xtream.efiberbd.net:25461/mkaua/stream/39
 http://xtream.efiberbd.net:25461/mkaua/stream/40
 #EXTINF:-1 group-title="Sports",Free Sports
 https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 1 HD
+https://cdn1.mkhossain.ga/hls/star1en/.m3u8
+
+
+#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 1 HD
+http://103.138.164.70:8088/CH2A-SP2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 1 HD
+http://103.138.164.70:8088/CH3-SP3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 2 HD
+https://cdn1.mkhossain.ga/hls/star2en/.m3u8
+
+
+#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 1 HD
+http://103.138.164.70:8088/CH1-SP1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",(BDIX) Tsports
+http://103.138.164.70:8088/CH2-SP2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",(BDIX) Sony Sports 5
+http://103.138.164.70:8088/CH6-SP6/tracks-v1a1/mono.m3u8
+
+
+
 
 -------------------------Outhers-----------------------------
 
