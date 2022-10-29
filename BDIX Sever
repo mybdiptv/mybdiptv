@@ -43,6 +43,12 @@ http://xtream.efiberbd.net:25461/mkaua/stream/18
 
 
 
+#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 1 HD
+https://cdn1.mkhossain.ga/hls/star1en/.m3u8
+
+#EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 2 HD
+https://cdn1.mkhossain.ga/hls/star2en/.m3u8
+
 
 
 
