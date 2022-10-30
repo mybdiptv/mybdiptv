@@ -514,7 +514,8 @@ http://xtream.efiberbd.net:25461/mkaua/stream/40
 #EXTINF:-1 group-title="Sports",Free Sports
 https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
 
-
+#EXTINF:-1 group-title="Sports",Sky Sports
+https://es2.quest123.top:8088/live/pakcricf1/playlist.m3u8?id=114003&pk=df78f4e312179eb6e5d8114b97b70e64b1b23b3b9d5e7db7d4d1b8551f7d20bd9a1935c2caeea20dd439a3b118744dac1a7d4d0811662164b018dccd5a527447
 
 #EXTINF:-1 group-title="Sports",(BDIX) STAR SPOTS 1 HD
 https://cdn1.mkhossain.ga/hls/star1en/.m3u8
