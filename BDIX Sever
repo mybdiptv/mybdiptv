@@ -837,382 +837,52 @@ http://xtream.efiberbd.net:25461/mkaua/stream/13
 
 
 
-**********************Jio*************************
+#EXTINF:-1,HUNGAMA 
+http://45.125.220.129:81/play/a04e
+#EXTINF:-1,DISNEY 
+http://45.125.220.129:81/play/a04c
+#EXTINF:-1,SUPER HUNGAMA
+http://45.125.220.129:81/play/a049
+#EXTINF:-1,NICK
+http://45.125.220.129:81/play/a04b
+#EXTINF:-1,CN
+http://45.125.220.129:81/play/a04d
+#EXTINF:-1,NICK JR
+http://45.125.220.129:81/play/a04h
+#EXTINF:-1,nick HD+
+http://45.125.220.129:81/play/a05c
+#EXTINF:-1,POGO 
+http://45.125.220.129:81/play/a04f
+#EXTINF:-1,SONIC
+http://45.125.220.129:81/play/a04i
+#EXTINF:-1,DISNEY JR.
+http://45.125.220.129:81/play/a04a
+#EXTINF:-1,DISCOVERY KIDS
+http://45.125.220.129:81/play/a04g
+#EXTINF:-1 tvg-id="" tvg-name="Sony Yay!" tvg-logo="https://tv.efiberbd.net/logo/inhsya.png" group-title="KIDS",Sony Yay!
+http://xtream.efiberbd.net:25461/mkaua/stream/13
+#EXTINF:0,Hungama (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862674&extension=ts&play_token=MCb4h1HwOb
+#EXTINF:0,Disney Hindi (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862661&extension=ts&play_token=ZXdmIk7Vcw
+#EXTINF:0,Super Hungama (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862679&extension=ts&play_token=vlbdug9PPd
+#EXTINF:0,Sony yay (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862733&extension=ts&play_token=5Nep6NBcWm
+#EXTINF:0,Sonic (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862715&extension=ts&play_token=u1bwOUe3ih
+#EXTINF:0,Nick hindi (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862696&extension=ts&play_token=u68ftvKAtL
+#EXTINF:0,Pogo (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862706&extension=ts&play_token=KIbwjPHX8c
+#EXTINF:0,sonic bangla (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862986&extension=ts&play_token=Ixe3Z7wVHp
+#EXTINF:0,Cartoon network hindi (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862636&extension=ts&play_token=QyWBzm7eXp
+#EXTINF:0,Disney junior (shuvo)
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862662&extension=ts&play_token=eTC7wz8NpH
 
 
-
-
-
-
-
-#EXTM3U
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="430"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1918"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_English&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="144"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://3.110.187.2/tsjiotv/live.php?c=Colors_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="291"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-http://3.110.187.2/tsjiotv/live.php?c=Sony_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="167"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
-http://3.110.187.2/tsjiotv/live.php?c=Zee_TV_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="476"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
-http://3.110.187.2/tsjiotv/live.php?c=Sony_Max_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="165"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://3.110.187.2/tsjiotv/live.php?c=Zee_Cinema_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="155"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
-http://3.110.187.2/tsjiotv/live.php?c=Six_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="383" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png",Times NOW
-http://3.110.187.2/tsjiotv/live.php?c=Times_NOW&q=600&e=junk.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="162"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
-http://3.110.187.2/tsjiotv/live.php?c=Ten_HD&q=600&e=junk.m3u8
-
-
-#EXTINF:-1 tvg-id="1145"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
-http://3.110.187.2/tsjiotv/live.php?c=MTV_HD_Plus&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="753"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
-http://3.110.187.2/tsjiotv/live.php?c=MTV_Beats_HD&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="584"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
-http://3.110.187.2/tsjiotv/live.php?c=Mastiii&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="154"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony SAB
-http://3.110.187.2/tsjiotv/live.php?c=Sony_SAB&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="472"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
-http://3.110.187.2/tsjiotv/live.php?c=And_TV_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="279"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
-http://3.110.187.2/tsjiotv/live.php?c=Rishtey&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="625"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
-http://3.110.187.2/tsjiotv/live.php?c=Zee_Bangla&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="756"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bengali HD
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Bengali_HD&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="482"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Cineplex&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="762"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
-http://3.110.187.2/tsjiotv/live.php?c=Sony_Pix_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="289"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",Sony Max SD
-http://3.110.187.2/tsjiotv/live.php?c=SET_MAX&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="483"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
-http://3.110.187.2/tsjiotv/live.php?c=Sony_MAX2&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="185"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
-http://3.110.187.2/tsjiotv/live.php?c=And_Pictures_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="484"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
-http://3.110.187.2/tsjiotv/live.php?c=Zee_Cinema&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="182"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
-http://3.110.187.2/tsjiotv/live.php?c=B4U_Movies&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="485"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr 10
-http://3.110.187.2/tsjiotv/live.php?c=Enterr_10&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="488"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
-http://3.110.187.2/tsjiotv/live.php?c=Zee_Actio&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="613" group-title="News" tvg-language="Assamese" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png",Newslive
-http://3.110.187.2/tsjiotv/live.php?c=Newslive&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="892"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD
-http://3.110.187.2/tsjiotv/live.php?c=Ten3_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="889"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Sports&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="875"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
-http://3.110.187.2/tsjiotv/live.php?c=Dsports_HD&q=600&e=junk.m3u8
-
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Football_4&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="514"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
-http://3.110.187.2/tsjiotv/live.php?c=Ten_1&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="523"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
-http://3.110.187.2/tsjiotv/live.php?c=Ten_2&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="524"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Ten 3
-http://3.110.187.2/tsjiotv/live.php?c=Ten_3&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="525"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
-http://3.110.187.2/tsjiotv/live.php?c=Sony_Six_SD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="585"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
-http://3.110.187.2/tsjiotv/live.php?c=Zi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="587"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM
-http://3.110.187.2/tsjiotv/live.php?c=9XM&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="591"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png",E 24
-http://3.110.187.2/tsjiotv/live.php?c=E_24&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="183"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music
-http://3.110.187.2/tsjiotv/live.php?c=B4U_Music&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="592"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",ZOOM
-http://3.110.187.2/tsjiotv/live.php?c=Zoom&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="248"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTV
-http://3.110.187.2/tsjiotv/live.php?c=MTV&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="440"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
-http://3.110.187.2/tsjiotv/live.php?c=9X_Jalwa&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1189"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png",PTC Music
-http://3.110.187.2/tsjiotv/live.php?c=PTC_Music&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="740"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
-http://3.110.187.2/tsjiotv/live.php?c=Sangeet_Bangla&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="815"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
-http://3.110.187.2/tsjiotv/live.php?c=sonic_Hindi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="872"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
-http://3.110.187.2/tsjiotv/live.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="547"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
-http://3.110.187.2/tsjiotv/live.php?c=Nickelodeo&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="554"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
-http://3.110.187.2/tsjiotv/live.php?c=Discovery_Kids_2&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="544"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
-http://3.110.187.2/tsjiotv/live.php?c=Nick_Junior&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="286"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
-http://3.110.187.2/tsjiotv/live.php?c=Animal_Planet_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="164"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travelxp HD
-http://3.110.187.2/tsjiotv/live.php?c=Travel_XP_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="566"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
-http://3.110.187.2/tsjiotv/live.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="575"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
-
-
-
-
-#EXTINF:-1 tvg-id="690"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla
-http://3.110.187.2/tsjiotv/live.php?c=DD_Bangla&q=600&e=junk.m3u8
-8
-#EXTINF:-1 tvg-id="697"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",Sony aath
-http://3.110.187.2/tsjiotv/live.php?c=Sony_aath&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="698"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
-http://3.110.187.2/tsjiotv/live.php?c=Aakaash_bangla&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="153"  group-title="Jio Server", tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
-http://3.110.187.2/tsjiotv/live.php?c=Zee_Talkies&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="417"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",J Movies
-http://3.110.187.2/tsjiotv/live.php?c=J_Movies&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="685"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-http://3.110.187.2/tsjiotv/live.php?c=Zee_Bangla_Cinema&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="252"  group-title="Jio Server", tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema
-http://3.110.187.2/tsjiotv/live.php?c=ETV_Cinema&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="738"  group-title="Jio Server", tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",Fakt Marathi
-http://3.110.187.2/tsjiotv/live.php?c=Fakt_Marathi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="946"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",Pitaara
-http://3.110.187.2/tsjiotv/live.php?c=Pitaara&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="809"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",Maha Movies
-http://3.110.187.2/tsjiotv/live.php?c=Maha_Movies&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="883"  group-title="Jio Server", tvg-language="Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png",Oscar Movies
-http://3.110.187.2/tsjiotv/live.php?c=Osar_Movies&q=600&e=junk.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="204"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
-http://3.110.187.2/tsjiotv/live.php?c=DD_Sports&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="845"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png",MK Music
-http://3.110.187.2/tsjiotv/live.php?c=MK_Music&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="250"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
-http://3.110.187.2/tsjiotv/live.php?c=Music_India&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="803"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6
-http://3.110.187.2/tsjiotv/live.php?c=Tunes_6&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="743"  group-title="Jio Server", tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png",Raj Music Kannada
-http://3.110.187.2/tsjiotv/live.php?c=Raj_Music_Kannada&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="639"  group-title="Jio Server", tvg-language="Assamese" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png",Ramdhenu
-http://3.110.187.2/tsjiotv/live.php?c=Ramdhenu&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="748"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
-http://3.110.187.2/tsjiotv/live.php?c=Raj_Musix&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1172"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png",PTC Chak De
-http://3.110.187.2/tsjiotv/live.php?c=PTC_Chak_De&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="732"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",9X Tashan
-http://3.110.187.2/tsjiotv/live.php?c=9X_Tasha&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="749"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png",Sahana Music
-http://3.110.187.2/tsjiotv/live.php?c=Sahana_Music&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1188"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png",PTC DHOL TV
-http://3.110.187.2/tsjiotv/live.php?c=PTC_DHOL_TV&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="742"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png",mh1 (Music)
-http://3.110.187.2/tsjiotv/live.php?c=mh1_Music&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="735"  group-title="Jio Server", tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",Sangeet Marathi
-http://3.110.187.2/tsjiotv/live.php?c=Sangeet_Marathi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="441"  group-title="Jio Server", tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
-http://3.110.187.2/tsjiotv/live.php?c=9x_Jhakaas&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="903"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png",Only Music
-http://3.110.187.2/tsjiotv/live.php?c=Only_Music&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="905"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png",PBN Music
-http://3.110.187.2/tsjiotv/live.php?c=PBN_Music&q=600&e=junk.m3u8
-
-http://3.110.187.2/tsjiotv/live.php?c=TV_5_News&q=600&e=junk.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="158"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD IP
-http://3.110.187.2/tsjiotv/live.php?c=Star_Plus_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="367"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav HD
-http://3.110.187.2/tsjiotv/live.php?c=Star_Utsav&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="368"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",Star Vijay HD
-http://3.110.187.2/tsjiotv/live.php?c=Star_Vijay&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="317"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha HD
-http://3.110.187.2/tsjiotv/live.php?c=Star_Jalsha&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="758"  group-title="Jio Server", tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png",Maa TV HD
-http://3.110.187.2/tsjiotv/live.php?c=Maa_TV&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="759"  group-title="Jio Server", tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold HD
-http://3.110.187.2/tsjiotv/live.php?c=Maa_Gold&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="931"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
-http://3.110.187.2/tsjiotv/live.php?c=Star_Bharat_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="181"  group-title="Jio Server", tvg-language="Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png",Asianet Plus HD
-http://3.110.187.2/tsjiotv/live.php?c=Asianet_Plus&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="336"  group-title="Jio Server", tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Pravah HD
-http://3.110.187.2/tsjiotv/live.php?c=Star_Pravah&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="370"  group-title="Jio Server", tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png",Suvarna HD
-http://3.110.187.2/tsjiotv/live.php?c=Suvarna&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="458"  group-title="Jio Server", tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Suvarna_HD.png",Suvarna Plus HD
-http://3.110.187.2/tsjiotv/live.php?c=Asianet_Suvarna_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="156"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
-http://3.110.187.2/tsjiotv/live.php?c=Star_Gold_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="457"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD
-http://3.110.187.2/tsjiotv/live.php?c=Jalsa_Movies_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="760"  group-title="Jio Server", tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",Maa Movies HD
-http://3.110.187.2/tsjiotv/live.php?c=Maa_Movies&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="247"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK.png",Movies OK HD
-http://3.110.187.2/tsjiotv/live.php?c=Movies_OK&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="460"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1
-http://3.110.187.2/tsjiotv/live.php?c=Star_Sports_Select_HD_1&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="159"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1
-http://3.110.187.2/tsjiotv/live.php?c=Star_Sports_HD_1&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="160"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2
-http://3.110.187.2/tsjiotv/live.php?c=Star_Sports_HD_2&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="362"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",Star Sports Hindi 1
-http://3.110.187.2/tsjiotv/live.php?c=Star_Sports_3&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="461"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select HD2
-http://3.110.187.2/tsjiotv/live.php?c=Star_Sports_Select_HD_2&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1341"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick Bangla
-http://3.110.187.2/tsjiotv/live.php?c=Nick_Bangla&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1345"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",Sonic Bangla
-http://3.110.187.2/tsjiotv/live.php?c=Sonic_Bangla&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1161"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png",Jio Cricket 2 HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_2_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1163"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png",JioGames HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Esports_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1166"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png",Jio Cricket 3 HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_3&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1324"  group-title="Jio Server", tvg-language="Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",Colors Gujarati Cinema
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Gujarati_Cinema&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1326"  group-title="Jio Server", tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",Colors Marathi SD
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Marathi_SD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1368"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
-http://3.110.187.2/tsjiotv/live.php?c=Colors_SD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1369"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",Colors Bangla SD
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Bangla_SD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1370"  group-title="Jio Server", tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png",Colors Kannada SD
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Kannada_SD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1378"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png",VH1
-http://3.110.187.2/tsjiotv/live.php?c=VH1&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1400"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV Beats SD
-http://3.110.187.2/tsjiotv/live.php?c=MTV_Beats_SD&q=600&e=junk.m3u8
-
-
-
-#EXTINF:-1 tvg-id="1772"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",Ten 4 HD Tamil
-http://3.110.187.2/tsjiotv/live.php?c=Ten_4_HD_Tamil&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1773"  group-title="Jio Server", tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",Ten 4 HD Telugu
-http://3.110.187.2/tsjiotv/live.php?c=Ten_4_HD_Telugu&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1774"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",Ten 4 Tamil
-http://3.110.187.2/tsjiotv/live.php?c=Ten_4_Tamil&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1813"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png",Jio Football 5 HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Football_5&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1814"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png",Jio Football 6 HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Football_6&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1823"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png",Jio Football 7 HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Football_7&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1824"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png",Jio Football 8 HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Football_8&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1226"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
-http://3.110.187.2/tsjiotv/live.php?c=Nick_HD_Plus&q=600&e=junk.m3u8
-
-
-#EXTINF:-1 tvg-id="1266"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png",Bflix Movies
-http://3.110.187.2/tsjiotv/live.php?c=Bflix_Movies&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1276"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Box_Cinema.png",Box Cinema
-http://3.110.187.2/tsjiotv/live.php?c=Box_Cinema&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1280"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png",Manoranjan TV
-http://3.110.187.2/tsjiotv/live.php?c=Manoranjan_TV&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1281"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png",Manoranjan Movies
-http://3.110.187.2/tsjiotv/live.php?c=Manoranjan_Movies&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1282"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png",Khushboo TV
-http://3.110.187.2/tsjiotv/live.php?c=Khusboo_TV&q=600&e=junk.m3u8
-
-
-#EXTINF:-1 tvg-id="1294"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",Eurosport
-http://3.110.187.2/tsjiotv/live.php?c=Dsports&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1295"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
-http://3.110.187.2/tsjiotv/live.php?c=B4U_Kadak&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1325"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity SD
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Infinity_SD&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1358"  group-title="Jio Server", tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
-http://3.110.187.2/tsjiotv/live.php?c=Zee_Talkies_HD&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1371"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png",Colors Tamil
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Tamil&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1393"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",Sony Wah
-http://3.110.187.2/tsjiotv/live.php?c=Sony_Wah&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1396"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",Sony SD
-http://3.110.187.2/tsjiotv/live.php?c=Sony_SD&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1430"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
-http://3.110.187.2/tsjiotv/live.php?c=Jio_KIDS&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1475"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST11_HD.png",TEST11 HD
-http://3.110.187.2/tsjiotv/live.php?c=TEST11_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1476"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST12_HD.png",TEST12 HD
-http://3.110.187.2/tsjiotv/live.php?c=TEST12_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1477"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
-http://3.110.187.2/tsjiotv/live.php?c=Colors_Cineplex_HD&q=600&e=junk.m3u8
-
-#EXT
-#EXTINF:-1 tvg-id="1871"  group-title="Jio Server", tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png",7X Music
-http://3.110.187.2/tsjiotv/live.php?c=7X_Music&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1889"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png",Jio Sports 1 HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Sports_1_HD&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1890"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png",Jio Sports 2 HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Sports_2_HD&q=600&e=junk.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="1961"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",Shemaroo TV
-http://3.110.187.2/tsjiotv/live.php?c=Shemaroo_TV&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="1962" group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Bangla.png",Amaar Bangla
-http://3.110.187.2/tsjiotv/live.php?c=Amaar_Bangla&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="1971"  group-title="Jio Server", tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png",Jio Sports 4 HD
-
-#EXTINF:-1 tvg-id="1977"  group-title="Jio Server", tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
-http://3.110.187.2/tsjiotv/live.php?c=Zee_Bangla_HD&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="438"  group-title="Jio Server", tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png",Jio Cricket Hindi HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_Hindi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="431"  group-title="Jio Server", tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Tamil.png",Jio Cricket Tamil HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_Tamil&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="432"  group-title="Jio Server", tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png",Jio Cricket Telugu HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_Telugu&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-id="433"  group-title="Jio Server", tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Kannada.png",Jio Cricket Kannada HD
-http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_Kannada
 
 
 
