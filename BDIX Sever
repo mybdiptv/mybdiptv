@@ -25,6 +25,8 @@ http://103.135.133.3:8081/hls/stream2.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
 http://live.hplink.com.bd/streams/101/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
+https://mx.techyshikari.in/starsp1hin/540p.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",STAR SPORTS 2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",Sky SPORTS
