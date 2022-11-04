@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
+http://103.135.133.3:8081/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/2.png" group-title="LIVE SPORTS",LIVE SPORTS 2
@@ -19,6 +19,8 @@ http://live.hplink.com.bd/streams/103/ch2.m3u8
 https://fs.nowhdtime.com.bd/gtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
 https://fs.nowhdtime.com.bd/gtvhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BTV HD
+http://103.135.133.3:8081/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
@@ -51,8 +53,12 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbzb.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/5.m3u8
+#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbzb.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
+http://103.135.133.3:8081/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbsj.png" group-title="INDIAN BANGLA",STAR JALSHA HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
+#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbsj.png" group-title="INDIAN BANGLA",STAR JALSHA HD
+http://103.135.133.3:8081/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbjm.png" group-title="BANGLA CINEMA",JALSHA MOVIE HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/8.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbjm.png" group-title="BANGLA CINEMA", Colors Bangla Hd
