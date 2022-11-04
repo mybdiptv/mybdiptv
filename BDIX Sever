@@ -19,6 +19,12 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spst2.png" group-title="SPORTS",SONY TEN2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+#EXTINF:-1 ,Ten 1
+http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ten 2
+https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ten3
+http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbzb.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/5.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbsj.png" group-title="INDIAN BANGLA",STAR JALSHA HD
@@ -27,6 +33,16 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/8.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbjm.png" group-title="BANGLA CINEMA", Colors Bangla Hd
 http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1  ,Star Jalsha HD
+https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
+#EXTINF:-1  ,Zee Bangla HD
+https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE BANGLA SD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131693
+#EXTINF:-1  ,Discovery Kids
+https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay
+https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png" group-title="BANGLA CINEMA",COLORS BANGLA CINEMA
 http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/kdsyay.png" group-title="KIDS",Sony Yay!
@@ -65,6 +81,10 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/20.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhztv.png" group-title="HINDI",ZEE TV HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
+#EXTINF:-1  ,Star Plus
+http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  ,Colors HD
+https://tvs1.aynaott.com/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhse.png" group-title="HINDI",SONY HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/22.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhsab.png" group-title="HINDI",SONY SUB
