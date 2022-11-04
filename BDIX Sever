@@ -388,8 +388,8 @@ http://nandansyst.com/hls/nandan.m3u8
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 group-title="Bangla Bangladesh",,MAGIC BANGLA TV
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
+https://epr22.t20cup.lol/hls/token/fgj5jaggh3h67f9fw785hy7vp3s/stream.m3u8
 ---------------------------------------------------------------------------------------
 
 
