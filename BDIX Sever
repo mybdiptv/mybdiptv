@@ -21,6 +21,8 @@ http://live.hplink.com.bd/streams/101/index.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",Sky SPORTS
 https://ranapk.ml/ASIA_CUP_LOW.m3u8
+#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",Willow SPORTS
+https://vsd64.mycdn.me/hls/3239856769618.m3u8/sig/x3PKj7YWsn0/expires/1667549195815/srcIp/65.109.66.87/clientType/0/srcAg/CHROME_ANDROID/mid/4802816777810/video.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spst6.png" group-title="SPORTS",SONY SIX HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spst1.png" group-title="SPORTS",SONY TEN1 HD
