@@ -8,15 +8,15 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spbts.png" group-title="LIVE SPORTS",T SPORTS HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spbts.png" group-title="LIVE SPORTS",T SPORTS HD
-http://iptvh.it/Tsports/maruf.m3u8
+http://live.hplink.com.bd/streams/105/ch4.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
-http://iptvh.it/Gazi-Tv/maruf-iptv.m3u8
+http://live.hplink.com.bd/streams/103/ch2.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
-http://iptvh.it/Gazitv/maruf-iptv.m3u8
+http://live.hplink.com.bd/streams/101/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",STAR SPORTS 2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",Sky SPORTS
@@ -455,12 +455,12 @@ http://208.86.19.13:81/612.stream/index.m3u8
 http://103.138.164.70:8088/CH6-SP6/tracks-v1a1/mono.m3u8
 
 
-EXTINF:-1 group-title=" Sports",gazi tv
-http://iptvh.it/gazitv/maruf-iptv.m3u8
+#EXTINF:-1 group-title=" Sports",gazi tv
+http://172.16.128.2:8081/live/sky2003/chunks.m3u8
 
 
 #EXTINF:-1 group-title=" Sports",Gtv
-http://iptvh.it/gtv/maruf-iptv.m3u8
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8
 
 #EXTINF:-1 group-title=" Sports",star sports 2
 http://172.16.128.2:8081/live/sky1012/chunks.m3u8
@@ -476,7 +476,7 @@ http://172.16.128.2:8081/live/sky1011/chunks.m3u8
 
 
 #EXTINF:-1 group-title=" Sports",ptv
-http://iptvh.it/ptv-sports/maruf-iptv.m3u8
+http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 
 
 -------------------------Outhers-----------------------------
