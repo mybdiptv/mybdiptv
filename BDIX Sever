@@ -11,6 +11,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 http://live.hplink.com.bd/streams/105/ch4.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spbts.png" group-title="LIVE SPORTS",T SPORTS HD
 https://fs.nowhdtime.com.bd/tsportshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spbts.png" group-title="LIVE SPORTS",T SPORTS HD
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
