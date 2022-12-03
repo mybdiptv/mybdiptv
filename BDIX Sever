@@ -243,6 +243,24 @@ http://103.159.4.38:8091/CH10-SP10/index.m3u8
 http://103.159.4.38:8091/CH11-SP11/index.m3u8
 
 
+#EXTINF:-1 group-title=" Sports",G tv
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 
+
+#EXTINF:-1 group-title=" Sports",Sports 18
+http://tv.maguraplex.net:8000/live/sports18/index.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",Toffee Magura
+http://tv.maguraplex.net:8000/live/toffee/index.m3u8
+
+
+
+#EXTINF:-1 group-title=" Sports",Tsports
+http://tv.maguraplex.net:8000/live/tsports/index.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",TYC
+http://tv.maguraplex.net:8000/live/tyc/index.m3u8
 
 
