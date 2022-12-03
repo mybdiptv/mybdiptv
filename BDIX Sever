@@ -160,6 +160,12 @@ https://epr22.t20cup.lol/hls/token/fgj5jaggh3h67f9fw785hy7vp3s/stream.m3u8
 
 
 
+#EXTINF:-1 group-title="Music",9xm
+http://103.159.4.38:8091/CH38-IN-HIN10/index.m3u8
+#EXTINF:-1 group-title="Music",9X Tahsan
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
+#EXTINF:-1 group-title="Music",Music India
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
 
 
