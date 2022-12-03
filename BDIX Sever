@@ -205,6 +205,24 @@ https://tv.bdflix.xyz//FIFA/tracks-v1a1/mono.m3u8
 http://103.138.164.70:8088/CH6-SP6/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 group-title="Sports",Sports
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports",Sports
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports",Sports
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports",Sports
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+
+
+
 #EXTINF:-1 group-title=" Sports",gazi tv
 http://172.16.128.2:8081/live/sky2003/chunks.m3u8
 
