@@ -1,300 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 , Sports
-https://tv.bdflix.xyz//FIFA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Gtv
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 ,T Sports
-http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1 ,T Sports
-http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bein Sports
-http://103.102.27.173/live/tvfeed1004/index.m3u8
-#EXTINF:-1 ,Bein Sports
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
-http://103.153.154.34/hls/bein1.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
-http://103.153.154.34/hls/Gazi-TV.m3u8
-EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
-http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
-http://103.135.133.3:8081/hls/stream3.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
-http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/2.png" group-title="LIVE SPORTS",LIVE SPORTS 2
-http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spbts.png" group-title="LIVE SPORTS",T SPORTS HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spbts.png" group-title="LIVE SPORTS",T SPORTS HD
-http://live.hplink.com.bd/streams/105/ch4.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spbts.png" group-title="LIVE SPORTS",T SPORTS HD
-https://fs.nowhdtime.com.bd/tsportshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spbts.png" group-title="LIVE SPORTS",T SPORTS HD
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
-http://live.hplink.com.bd/streams/103/ch2.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
-https://fs.nowhdtime.com.bd/gtvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="LIVE SPORTS",GAZI TV HD
-https://fs.nowhdtime.com.bd/gtvhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BTV HD
-http://103.135.133.3:8081/hls/stream2.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
-http://live.hplink.com.bd/streams/101/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss1.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
-https://mx.techyshikari.in/starsp1hin/540p.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",STAR SPORTS 2 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",Sky SPORTS
-https://ranapk.ml/ASIA_CUP_LOW.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",Fox SPORTS
-http://mains.vip:2086/live/craigg/1Lurn7m3F1/100783.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",Willow SPORTS
-https://vsd64.mycdn.me/hls/3239856769618.m3u8/sig/x3PKj7YWsn0/expires/1667549195815/srcIp/65.109.66.87/clientType/0/srcAg/CHROME_ANDROID/mid/4802816777810/video.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spss2.png" group-title="LIVE SPORTS",Willow SPORTS
-http://watchindia.net:8880/live/vvv/vvv/2145.m3u8
-#EXTINF:-1 ,Ten Sports
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports
-https://cdncloudflare.anonymouscdn.cfd/live/hls/hindi480p.m3u8?|Referer=https://m.live4wap.xyz/
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spst6.png" group-title="SPORTS",SONY SIX HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spst1.png" group-title="SPORTS",SONY TEN1 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/spst2.png" group-title="SPORTS",SONY TEN2 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
-#EXTINF:-1 ,Ten 1
-http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ten 2
-https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ten3
-http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bein Xtra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 ,Football Xtra
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbzb.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/5.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbzb.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
-http://103.135.133.3:8081/hls/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbsj.png" group-title="INDIAN BANGLA",STAR JALSHA HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbsj.png" group-title="INDIAN BANGLA",STAR JALSHA HD
-http://103.135.133.3:8081/hls/stream4.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbjm.png" group-title="BANGLA CINEMA",JALSHA MOVIE HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/8.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbjm.png" group-title="BANGLA CINEMA", Colors Bangla Hd
-http://208.86.19.13:81/904.stream/index.m3u8
-#EXTINF:-1  ,Star Jalsha HD
-https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  ,Zee Bangla HD
-https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE BANGLA SD
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131693
-#EXTINF:-1  ,Discovery Kids
-https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay
-https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png" group-title="BANGLA CINEMA",COLORS BANGLA CINEMA
-http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/kdsyay.png" group-title="KIDS",Sony Yay!
-http://xtream.efiberbd.net:8080/live/mkaua/stream/13.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/atnis.png" group-title="RELIGIOUS",ATN ISLAMIC
-http://xtream.efiberbd.net:8080/live/mkaua/stream/14.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/quraantv.png" group-title="RELIGIOUS",Deen TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/15.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/madani.png" group-title="RELIGIOUS",SAUDIA QURAN HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/ch9.png" group-title="BD BANGLA",CHANNEL9
-http://xtream.efiberbd.net:8080/live/mkaua/stream/17.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/deepto.png" group-title="BD BANGLA",DEEPTO TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/18.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/ntv.png" group-title="BD BANGLA",NTV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/mytv.png" group-title="BD BANGLA",MY TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/47.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/atnbangla.png" group-title="BD BANGLA",ATN BANGLA
-http://xtream.efiberbd.net:8080/live/mkaua/stream/49.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/chi.png" group-title="BD BANGLA",CHANNEL I
-http://xtream.efiberbd.net:8080/live/mkaua/stream/50.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/ch24.png" group-title="BD BANGLA",CHANNEL 24
-http://xtream.efiberbd.net:8080/live/mkaua/stream/51.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/alpona.png" group-title="BD BANGLA",ALPONA TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/52.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/banglatv.png" group-title="BD BANGLA",BANGLA TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/53.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/satv.png" group-title="BD BANGLA",SATV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/54.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/rtv.png" group-title="BD BANGLA",RTV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/55.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG",10.Rtv
-https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv.efiberbd.net/logo/Aryd.png" group-title="HINDI",ARY DIGITAL HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhsp.png" group-title="HINDI",STAR PLUS
-http://xtream.efiberbd.net:8080/live/mkaua/stream/20.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhztv.png" group-title="HINDI",ZEE TV HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
-#EXTINF:-1  ,Star Plus
-http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  ,Colors HD
-https://tvs1.aynaott.com/ColorsHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhse.png" group-title="HINDI",SONY HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/22.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhsab.png" group-title="HINDI",SONY SUB
-http://xtream.efiberbd.net:8080/live/mkaua/stream/23.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhc.png" group-title="HINDI",COLORS HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/24.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhsm.png" group-title="HINDI MOVIE",SONYMAXHD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/25.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhzc.png" group-title="HINDI MOVIE",ZEE CINEMA HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/26.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhsg.png" group-title="HINDI MOVIE",STARGOLDHD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/27.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhap.png" group-title="HINDI MOVIE",&PICTURSHD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inhcc.png" group-title="HINDI MOVIE",COLORS CINEPLEX HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/din.png" group-title="HINDI MOVIE",Dhinchaak 2 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/30.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/engsm.png" group-title="ENGLISH MOVIE",STAR MOVIES HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/31.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/engst.png" group-title="ENGLISH MOVIE",SHOW TIME HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/32.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/engmn+.png" group-title="ENGLISH MOVIE",MN+ HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/33.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/engmn.png" group-title="ENGLISH MOVIE",MOVIES NOW HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/34.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/engsp.png" group-title="ENGLISH MOVIE",SONY PIX HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/35.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/engap.png" group-title="ENGLISH MOVIE",&prive HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/41.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/engfl.png" group-title="ENGLISH MOVIE",&FLIXHD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/42.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/zoom.png" group-title="MUSIC",ZOOM
-http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/music.png" group-title="MUSIC",MUSIC INDIA
-http://xtream.efiberbd.net:8080/live/mkaua/stream/44.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/9xm.png" group-title="MUSIC",9XM
-http://xtream.efiberbd.net:8080/live/mkaua/stream/45.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/b4u.png" group-title="MUSIC",B4U MUSIC
-http://xtream.efiberbd.net:8080/live/mkaua/stream/46.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/atnmusic.png" group-title="BD MUSIC",ATN MUSIC
-http://xtream.efiberbd.net:8080/live/mkaua/stream/57.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/gb.png" group-title="BD MUSIC",GAAN BANGLA
-http://xtream.efiberbd.net:8080/live/mkaua/stream/58.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbsgt.png" group-title="BD MUSIC",SONGEET BANGLA
-http://xtream.efiberbd.net:8080/live/mkaua/stream/59.m3u8
-#EXTINF:-1 tvg-logo="https://tv.efiberbd.net/logo/inbbt.png" group-title="BD MUSIC",Bangla Talkies
-http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8
-#EXTINF:-1,Live Sports-Freecatv
-http://iptvh.it/toffee-live/maruf-iptv.m3u8
-#EXTINF:-1,Freecatv
-http://watchindia.net:8880/live/vvv/vvv/808.m3u8
-#EXTINF:-1,Star Sports Hindi
-http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
-#EXTINF:-1,Star Sports Select 2
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
-#EXTINF:-1,sony sports 2
-https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY SPORTS 3
-http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony sports 4
-https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
-#EXTINF:-1,DONY SPORTS 5
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
-#EXTINF:-1,Sony Six HD
-https://tvs1.aynaott.com/SonySix/index.m3u8
-#EXTINF:-1,Ten Sports
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
-#EXTINF:-1,A sports HD
-http://103.157.249.125:201/play/a07c/index.m3u8
-#EXTINF:-1,Willow HD
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
-#EXTINF:-1,Willow Extra HD
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253717
-#EXTINF:-1,Super Sport Granstand
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160972
-#EXTINF:-1,Freecatv
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160975
-#EXTINF:-1,BeIN Sports 1  Premium
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
-#EXTINF:-1,BeIN Sports 2  Premium
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
-#EXTINF:-1,BeIN Sports 3  Premium
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
-#EXTINF:-1,BeIN Sports 2
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
-#EXTINF:-1,BeIN Sports 3
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2768
-#EXTINF:-1,BeIN Sports 4
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
-#EXTINF:-1,BeIN Sports 5
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
-#EXTINF:-1,BeIN Sports Extra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1,T SportsHD
-http://xtream.efiberbd.net:25461/mkaua/stream/3
-#EXTINF:-1,GAZI TV
-http://xtream.efiberbd.net:25461/mkaua/stream/4
-#EXTINF:-1,EURO DPORTS
-http://xtream.efiberbd.net:25461/mkaua/stream/1
-#EXTINF:-1,BEIN SPORTS 1
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-#EXTINF:-1,BEIN SPOTS 3
-https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
-#EXTINF:-1,TOFFY LIVE SPORTS
-https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
-#EXTINF:-1,Maasranga TV
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1,Ekushay TV
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1,Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,RTV
-https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
-#EXTINF:-1,SATV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Jagobd",Bangla TV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png" group-title="Jagobd",Anando TV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" group-title="Jagobd",Channel 24(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Jagobd",ATN Music(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png" group-title="BD",Sony Aath(BD)
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="Old",Colors Bangla(Old)
-http://208.86.19.13:81/904.stream/index.m3u8
-#EXTINF:-1,Khushboo Bangla(BD2)
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/R%20Plus%20Gold.jpeg" group-title="BD2",R Plus Gold(BD2)
-http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
-#EXTINF:-1,Bangla Talkies
-http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------------
 
 
 
@@ -445,35 +150,6 @@ https://epr22.t20cup.lol/hls/token/fgj5jaggh3h67f9fw785hy7vp3s/stream.m3u8
 
 
 
-                   ********Premium Telco*****
-
-
-
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.ibb.co/tC6c5SC/Independent-News.jpg",*Premium Telco*Independent TV
-http://208.86.19.13:81/601.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*Somoy tv [6]
-http://208.86.19.13:81/693.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*DBC [6]
-http://208.86.19.13:81/614.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*My tv [6]
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*SA tv [6]
-http://208.86.19.13:81/613.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*MY tv [6]
-http://208.86.19.13:81/624.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*ATN Bangla [6]
-http://208.86.19.13:81/626.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*BTV World [6]
-http://208.86.19.13:81/627.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*Deepto tv [6]
-http://208.86.19.13:81/609.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Bangladesh", tvg-logo="https://i.imgur.com/cvWkhfb.png",*Premium Telco*Gaan Bangla [6]
-http://208.86.19.13:81/612.stream/index.m3u8
-
-
-
-
----------------------------------------------------------------------------
 
 
 
@@ -487,13 +163,8 @@ http://208.86.19.13:81/612.stream/index.m3u8
 
 
 
---------------------------------------------------------------------------------------------------------------------
 
 
-
-#
-
-*******************************Indian Bangla*************************************
 
 
 
@@ -529,6 +200,49 @@ http://172.16.128.2:8081/live/sky1011/chunks.m3u8
 #EXTINF:-1 group-title=" Sports",ptv
 http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH1-SP1/index.m3u8
 
--------------------------Outhers-----------------------------
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH2-SP2/index.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH3-SP3/index.m3u8
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH4-SP4/index.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH5-SP5/index.m3u8
+
+
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH6-SP6/index.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH7-SP7/index.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH8-SP8/index.m3u8
+
+
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH9-SP9/index.m3u8
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH10-SP10/index.m3u8
+
+
+#EXTINF:-1 group-title=" Sports",sports
+http://103.159.4.38:8091/CH11-SP11/index.m3u8
+
+
+
+
 
