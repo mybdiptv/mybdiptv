@@ -198,8 +198,8 @@ https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 
 ------------------------------------------------------------------------------------------
 
-
-
+#EXTINF:-1 group-title="Sports",Sports 18 HD
+https://tv.bdflix.xyz//FIFA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",(BDIX) Sony Sports 5
 http://103.138.164.70:8088/CH6-SP6/tracks-v1a1/mono.m3u8
