@@ -317,6 +317,11 @@ http://tv.maguraplex.net:8000/live/tyc/index.m3u8
 http://iptv.push.com.bd/GTVHD/tracks-v1a1/mono.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 1" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",LIVE LINK 1
+https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 2" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",LIVE LINK 2
+https://3uog.short.gy/Live_events.m3u8
+
 #EXTINF:-1 group-title=" Sports",Sony Liv
 https://dai.google.com/linear/hls/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
 
