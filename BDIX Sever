@@ -149,18 +149,15 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
 **************************Indian Bangla*************
 
-#EXTINF:-1 group-title="Indian Bangla",Zee Bangla
+
 #EXTINF:-1,JALSHA MOVIES (FHD)
-http://humiptv.live:8080/live/arijit38815/A437638815/23304.
-#EXTINF:-1 group-title="Indian Bangla",Star Jalsha (FHD)
-http://humiptv.live:8080/live/arijit38815/A437638815/2321
-
-#EXTINF:-1 group-title="Indian Bangla",ZEE BANGLA (FHD)
+http://humiptv.live:8080/live/arijit38815/A437638815/23304.ts
+#EXTINF:-1,Star Jalsha (FHD)
+http://humiptv.live:8080/live/arijit38815/A437638815/23218.ts
+#EXTINF:-1,ZEE BANGLA (FHD)
 http://humiptv.live:8080/live/arijit38815/A437638815/23305.ts
-
-#EXTINF:-1 group-title="Indian Bangla",COLORS BANGLA (FHD)
+#EXTINF:-1,COLORS BANGLA (FHD)
 http://humiptv.live:8080/live/arijit38815/A437638815/23306.ts
-
 
 
 -------------------------------------------------------
