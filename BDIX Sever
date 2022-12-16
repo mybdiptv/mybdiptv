@@ -151,23 +151,43 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title=" Indian Bangla",JALSHA MOVIES (FHD)
-http://humiptv.live:8080/live/arijit38815/A437638815/23304.ts
+http://103.143.235.50/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Star Jalsha (FHD)
-http://humiptv.live:8080/live/arijit38815/A437638815/23218.ts
+http://103.143.235.50/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",ZEE BANGLA (FHD)
-http://humiptv.live:8080/live/arijit38815/A437638815/23305.ts
+http://103.143.235.50/zeebanglahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",COLORS BANGLA (FHD)
-http://humiptv.live:8080/live/arijit38815/A437638815/23306.ts
+http://103.143.235.50/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Rupashi bangla
-http://humiptv.live:8080/live/arijit38815/A437638815/409.ts
-#EXTINF:-1 group-title=" Indian Bangla",Aakaash Aath
-http://humiptv.live:8080/live/arijit38815/A437638815/396.ts
+http://103.143.235.50/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Sonyh Aath
+http://103.143.235.50/Sony_Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",T SPORTS
-http://humiptv.live:8080/live/arijit38815/A437638815/52500.ts
+http://103.143.235.50/LIVE2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/LIVE1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/starsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/SONY_SportsTen5_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/Bein_Sports_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/Bein_Sports_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/BT_Sport_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/BT_Sport_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla"group-title=" Indian Bangla",DHOOM MUSIC
-http://humiptv.live:8080/live/arijit38815/A437638815/404.ts
+http://103.143.235.50/animalplanent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
-http://humiptv.live:8080/live/arijit38815/A437638815/406.ts
+http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
+http://103.143.235.50/National_Geographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
+http://103.143.235.50/andpictures/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
+http://103.143.235.50/stargold/tracks-v1a1/mono.m3u8
 
 
 -------------------------------------------------------
