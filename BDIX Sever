@@ -160,6 +160,8 @@ http://103.143.235.50/zeebanglahd/tracks-v1a1/mono.m3u8
 http://103.143.235.50/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Rupashi bangla
 http://103.143.235.50/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",SANANDA TV
+http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Sonyh Aath
 http://103.143.235.50/Sony_Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Sonyh Aath
