@@ -162,6 +162,8 @@ http://103.143.235.50/colorsbangla/tracks-v1a1/mono.m3u8
 http://103.143.235.50/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Sonyh Aath
 http://103.143.235.50/Sony_Aath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Sonyh Aath
+http://103.143.235.50/Gaan_Bangla_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",T SPORTS
 http://103.143.235.50/LIVE2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",T SPORTS
@@ -170,6 +172,22 @@ http://103.143.235.50/LIVE1HD/tracks-v1a1/mono.m3u8
 http://103.143.235.50/starsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",T SPORTS
 http://103.143.235.50/SONY_SportsTen5_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/sonyten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/select2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/Sky_Sports_Main/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://103.143.235.50/sky_Sports_F1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",T SPORTS
 http://103.143.235.50/Bein_Sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",T SPORTS
@@ -189,9 +207,17 @@ http://103.143.235.50/andpictures/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
 http://103.143.235.50/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
-https://rakuten-action-12-eu.rakuten.wurl.tv/3000.m3u8
-
-
+http://103.143.235.50/starplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
+http://103.143.235.50/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
+http://103.143.235.50/star-worldhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
+http://103.143.235.50/movies-now/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
+http://103.143.235.50/sonypixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" Indian Bangla",Discovery_Channel_Bengali
+http://103.143.235.50/nick/tracks-v1a1/mono.m3u8
 -------------------------------------------------------
 
 
