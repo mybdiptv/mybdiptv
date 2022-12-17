@@ -235,6 +235,7 @@ http://12.1.1.1:8082/Colors-Cineplex/index.m3u8
 http://12.1.1.1:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 group-title=" Indian Bangla",Max
 http://12.1.1.1:8082/Sony-Max/index.m3u8
+http://12.1.1.1:8082/Sony-Max/tracks-v1a1/mono.m3u8
 -------------------------------------------------------
 
 
